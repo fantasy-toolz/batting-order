@@ -34,14 +34,14 @@ teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'ARI', 'LAD', 'S
 AllGameDF = pd.read_csv('data/games2018.csv')
 
 # print a list of how many times the leadoff spot came up for each team
-for team in teams:
-    print(team,AllGameDF['pa1'][AllGameDF['team']==team].sum())
+#for team in teams:
+#    print(team,AllGameDF['pa1'][AllGameDF['team']==team].sum())
 
 # print a list of all games between MIN and MIL
-print(AllGameDF[(AllGameDF['opponent']=='MIL') & (AllGameDF['team']=='MIN')]['date'].values)
+#print(AllGameDF[(AllGameDF['opponent']=='MIL') & (AllGameDF['team']=='MIN')]['date'].values)
 
 # print all available information for a random game
-print(AllGameDF.loc[np.random.randint(0,162*30)])
+#print(AllGameDF.loc[np.random.randint(0,162*30)])
 
 # make a scatter plot of the ratio of first to ninth PAs, as a function of first PAs
 plt.figure(figsize=(4,4))
@@ -54,3 +54,26 @@ plt.xlabel('1st spot PAs')
 plt.ylabel('1st/9th spot ratio')
 plt.tight_layout()
 plt.savefig('figures/first-last-ratio-2018.png')
+
+
+
+# bring in all rosters from the teams:
+year='2021'
+AllRosterDF = pd.read_csv('data/team-batting-order-'+year+'.csv')
+
+def print_lineup(AllRosterDF,AllGameDF,team,gamenum):
+    series  = AllRosterDF[(AllRosterDF['team']==team) & (AllRosterDF['gamenum']==gamenum)]
+    series2 = AllGameDF[(AllGameDF['team']==team) & (AllGameDF['gamenum']==gamenum)]
+    print(team,' v ',series2['opponent'].values[0],' on ',series2['date'].values[0])
+    print('1',series['b1'].values[0])
+    print('2',series['b2'].values[0])
+    print('3',series['b3'].values[0])
+    print('4',series['b4'].values[0])
+    print('5',series['b5'].values[0])
+    print('6',series['b6'].values[0])
+    print('7',series['b7'].values[0])
+    print('8',series['b8'].values[0])
+    print('9',series['b9'].values[0])
+
+
+print_lineup(AllRosterDF,AllGameDF,'MIN',125)
