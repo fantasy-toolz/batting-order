@@ -31,7 +31,7 @@ teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'ARI', 'LAD', 'S
 
 
 # bring in a DataFrame of interest:
-AllGameDF = pd.read_csv('data/games2021.csv')
+AllGameDF = pd.read_csv('data/games2018.csv')
 
 # print a list of how many times the leadoff spot came up for each team
 for team in teams:
@@ -53,4 +53,4 @@ for team in teams:
 plt.xlabel('1st spot PAs')
 plt.ylabel('1st/9th spot ratio')
 plt.tight_layout()
-plt.savefig('figures/first-last-ratio-2021.png')
+plt.savefig('figures/first-last-ratio-2018.png')
