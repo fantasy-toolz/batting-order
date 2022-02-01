@@ -157,7 +157,7 @@ def create_year_summary_df(year,teams,verbose=2):
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'ARI', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
 # select a year to scrape
-year = '2018'
+year = '2016'
 
 AllGameDF = create_year_summary_df(year,teams,verbose=2)
 AllGameDF.to_csv('data/games'+year+'.csv')

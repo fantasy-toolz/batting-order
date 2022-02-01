@@ -25,6 +25,21 @@ mpl.rcParams['ytick.minor.width'] = 0.75
 mpl.rcParams['xtick.minor.visible'] = True
 mpl.rcParams['ytick.minor.visible'] = True
 
+def print_lineup(AllRosterDF,AllGameDF,team,gamenum):
+    """an example application that prints the roster for a given team by game number"""
+    series  = AllRosterDF[(AllRosterDF['team']==team) & (AllRosterDF['gamenum']==gamenum)]
+    series2 = AllGameDF[(AllGameDF['team']==team) & (AllGameDF['gamenum']==gamenum)]
+    print(team,' v ',series2['opponent'].values[0],' on ',series2['date'].values[0])
+    print('1',series['b1'].values[0])
+    print('2',series['b2'].values[0])
+    print('3',series['b3'].values[0])
+    print('4',series['b4'].values[0])
+    print('5',series['b5'].values[0])
+    print('6',series['b6'].values[0])
+    print('7',series['b7'].values[0])
+    print('8',series['b8'].values[0])
+    print('9',series['b9'].values[0])
+
 
 # define a list of all MLB team shorthands
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'ARI', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
@@ -61,19 +76,6 @@ plt.savefig('figures/first-last-ratio-2018.png')
 year='2021'
 AllRosterDF = pd.read_csv('data/team-batting-order-'+year+'.csv')
 
-def print_lineup(AllRosterDF,AllGameDF,team,gamenum):
-    series  = AllRosterDF[(AllRosterDF['team']==team) & (AllRosterDF['gamenum']==gamenum)]
-    series2 = AllGameDF[(AllGameDF['team']==team) & (AllGameDF['gamenum']==gamenum)]
-    print(team,' v ',series2['opponent'].values[0],' on ',series2['date'].values[0])
-    print('1',series['b1'].values[0])
-    print('2',series['b2'].values[0])
-    print('3',series['b3'].values[0])
-    print('4',series['b4'].values[0])
-    print('5',series['b5'].values[0])
-    print('6',series['b6'].values[0])
-    print('7',series['b7'].values[0])
-    print('8',series['b8'].values[0])
-    print('9',series['b9'].values[0])
 
 
 print_lineup(AllRosterDF,AllGameDF,'MIN',125)
