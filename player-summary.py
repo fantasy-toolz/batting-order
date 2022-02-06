@@ -62,6 +62,9 @@ teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'ARI', 'LAD', 'S
 player = 'Trout, Mike'
 player = 'Jackie Bradley Jr.'
 player = 'Mike Trout'
+player = 'Nick Castellanos'
+player = 'Wil Myers'
+player = 'Mookie Betts'
 
 year = '2021'
 AllPlayerDF = pd.read_csv('data/player-batting-order-'+year+'.csv')
@@ -74,7 +77,7 @@ PlayerDF = AllPlayerDF[AllPlayerDF['player']==rearrange_name(player)]
 #print(PlayerDF)
 #print(PlayerDF['b1'].values[0])
 
-order_matrix = make_player_order_matrix(player,['2016','2017','2018','2019','2020','2021'])
+order_matrix = make_player_order_matrix(player,['2014','2015','2016','2017','2018','2019','2020','2021'])
 print(order_matrix)
 
 plt.figure(figsize=(4,3))
@@ -84,7 +87,7 @@ plt.xlabel('batting order')
 plt.ylabel('years')
 plt.xticks([0,1,2,3,4,5,6,7,8],labels=[1,2,3,4,5,6,7,8,9])
 #plt.xticklabels()
-plt.yticks([0,1,2,3,4,5],labels=['2016','2017','2018','2019','2020','2021'])
+plt.yticks([0,1,2,3,4,5,6,7],labels=['2014','2015','2016','2017','2018','2019','2020','2021'])
 #plt.yticklabels()
 plt.tight_layout()
 plt.savefig('figures/order_test.png')
