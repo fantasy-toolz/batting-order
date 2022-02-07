@@ -108,8 +108,8 @@ switchdict['JD Hammer'] = 'J.D. Hammer'
 switchdict['TJ Friedl'] = 'T.J. Friedl'
 
 
-def project_three_year_average(AllPlayerStatsDF,year,player):
-    years = [str(year-i) for i in range(1,4)]
+def project_three_year_average(AllPlayerStatsDF,year,player,minusyears=3):
+    years = [str(year-i) for i in range(1,minusyears+1)]
     #print(years)
     #print(AllPlayerStatsDF[AllPlayerStatsDF['year'].isin(years)])
     dftmp = AllPlayerStatsDF[(AllPlayerStatsDF['Name'].values==player) & (AllPlayerStatsDF['year'].isin(years))]
@@ -148,57 +148,61 @@ def batting_position_stats(AllPlayerBODF,player,year=-1):
 qyears = ['2021','2020','2019','2018','2017']
 projectedtotal = np.zeros([len(names),len(qyears)])
 
-pafloor = 60.
+pafloor = 300.
+yearaverage = 3
+dpa = 150.
 
-for iname,name in enumerate(names):
-    compname = strip_accents(name.lstrip())
-    if compname in switchdict.keys():
-        compname = switchdict[compname]
-    w = namevals[namevals==compname]
-    if len(w)==0:
-        print(compname)
-    #if compname == 'Wil Myers':
-        #print(AllPlayerStats[AllPlayerStats['Name']==compname])
-    for iyear,year in enumerate(qyears):
-            projected = project_three_year_average(AllPlayerStats,int(year),compname)
-            try:
-                actual    = AllPlayerStats[(AllPlayerStats['Name']==compname) & (AllPlayerStats['year']==year)]['PA'].values[0]
-            except:
-                actual    = 0.
+for yearaverage in [1,2,3]:
+    for pafloor in [0.,150.,300.,450.,600.]:
+        for iname,name in enumerate(names):
+            compname = strip_accents(name.lstrip())
+            if compname in switchdict.keys():
+                compname = switchdict[compname]
+            w = namevals[namevals==compname]
+            if len(w)==0:
+                print(compname)
+            #if compname == 'Wil Myers':
+                #print(AllPlayerStats[AllPlayerStats['Name']==compname])
+            for iyear,year in enumerate(qyears):
+                    projected = project_three_year_average(AllPlayerStats,int(year),compname,minusyears=yearaverage)
+                    try:
+                        actual    = AllPlayerStats[(AllPlayerStats['Name']==compname) & (AllPlayerStats['year']==year)]['PA'].values[0]
+                    except:
+                        actual    = 0.
 
-            if year == '2020':
-                actual *= (162./60.)
-            if (actual > pafloor) & (projected > pafloor):
-                #print(compname,year,projected,actual)
-                projectedtotal[iname,iyear] = (projected-actual)/actual
-                #projectedtotal[iname,iyear] = (actual-projected)/projected
-            else:
-                projectedtotal[iname,iyear] = np.nan
-        #print(batting_position_stats(AllPlayerBO,rearrange_name(compname)))
-
-
-# make the key assumption that 2020 is prorated from 60 games -> 162 games
-
-
-# can start by considering all 2021 players...where did they bat in previous years? How similar are they?
-
-# make a couple plots
-plt.figure()
-for iyear,year in enumerate(qyears):
-    # get the guys who aren't nans
-    valid_comparison_guys = projectedtotal[np.isfinite(projectedtotal[:,iyear]),iyear]
-    sortedarr  = valid_comparison_guys[valid_comparison_guys.argsort()]
-    nsortedarr = np.linspace(0.,1.,len(valid_comparison_guys))
-    if iyear==0:
-        plt.plot(sortedarr,nsortedarr,color=cm.viridis(iyear/4.,1.),lw=1.,label='(projected-actual)\n/actual')
-    else:
-        plt.plot(sortedarr,nsortedarr,color=cm.viridis(iyear/4.,1.),lw=1.)
-
-plt.legend()
-plt.axis([-1.5,1.5,0.,1.])
-plt.xlabel('PA difference')
-plt.ylabel('Cumulative number')
-plt.tight_layout()
+                    if year == '2020':
+                        actual *= (162./60.)
+                    if (actual > 0) & (projected > pafloor) & (projected < pafloor+dpa):
+                        #print(compname,year,projected,actual)
+                        projectedtotal[iname,iyear] = (projected-actual)/actual
+                        #projectedtotal[iname,iyear] = (actual-projected)/projected
+                    else:
+                        projectedtotal[iname,iyear] = np.nan
+                #print(batting_position_stats(AllPlayerBO,rearrange_name(compname)))
 
 
-plt.savefig('figures/compare_3year_projected_pas.png')
+        # make the key assumption that 2020 is prorated from 60 games -> 162 games
+
+
+        # can start by considering all 2021 players...where did they bat in previous years? How similar are they?
+
+        # make a couple plots
+        plt.figure()
+        for iyear,year in enumerate(qyears):
+            # get the guys who aren't nans
+            valid_comparison_guys = projectedtotal[np.isfinite(projectedtotal[:,iyear]),iyear]
+            sortedarr  = valid_comparison_guys[valid_comparison_guys.argsort()]
+            nsortedarr = np.linspace(0.,1.,len(valid_comparison_guys))
+            plt.plot(sortedarr,nsortedarr,color=cm.viridis(iyear/4.,1.),lw=1.,label=year+' (N={})'.format(len(valid_comparison_guys)))
+
+        plt.plot([0.,0.],[0.,1.0],color='grey',linestyle='dashed',lw=1.)
+        plt.plot([-1.5,1.5],[0.5,0.5],color='grey',linestyle='dashed',lw=1.)
+
+        plt.title('(projected-actual)\n/actual')
+        plt.legend()
+        plt.axis([-1.5,1.5,0.,1.])
+        plt.xlabel('PA difference')
+        plt.ylabel('Cumulative number')
+        plt.tight_layout()
+
+        plt.savefig('figures/compare_{}year_projected_pas_min{}.png'.format(yearaverage,int(pafloor)))
