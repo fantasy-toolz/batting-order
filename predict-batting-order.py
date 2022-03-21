@@ -3,70 +3,6 @@ predict-batting-order.py
   take a stab at what the batting order for a team would be, given the personnel.
 
 
-RED SOX
-player,position
-"Bogaerts, Xander",SS
-"Vázquez, Christian",C
-"Story, Trevor",2B
-"Dalbec, Bobby",1B
-"Devers, Rafael",3B
-"Martinez, J.D.",RF
-"Bradley Jr., Jackie",CF
-"Verdugo, Alex",LF
-"Hernández, Enrique",OF
-
-TWINS
-player,position
-"Correa, Carlos",SS
-"Buxton, Byron",OF
-"Kepler, Max",OF
-"Sanó, Miguel",1B
-"Urshela, Gio",3B
-"Sánchez, Gary",DH
-"Jeffers, Ryan",C
-"Polanco, Jorge",2B
-"Larnach, Trevor",OF
-"Kirilloff, Alex",OF
-
-CARDINALS
-player,position
-"Molina, Yadier",C
-"Goldschmidt, Paul",1B
-"Edman, Tommy",2B
-"Arenado, Nolan",3B
-"Sosa, Edmundo",SS
-"DeJong, Paul",SS
-"O'Neill, Tyler",OF
-"Bader, Harrison",OF
-"Carlson, Dylan",OF
-"Yepez, Juan",DH
-
-BLUE JAYS
-player,position
-"Kirk, Alejandro",C
-"Guerrero Jr., Vladimir",1B
-"Biggio, Cavan",2B
-"Espinal, Santiago",3B
-"Bichette, Bo",SS
-"Gurriel Jr., Lourdes",OF
-"Springer, George",OF
-"Grichuk, Randall",OF
-"Hernández, Teoscar",DH
-"Chapman, Matt",3B
-"Jansen, Danny",C
-
-PHILLIES
-player,position
-"Realmuto, J.T.",C
-"Hoskins, Rhys",1B
-"Segura, Jean",2B
-"Bohm, Alec",3B
-"Gregorius, Didi",SS
-"Vierling, Matt",OF
-"Harper, Bryce",OF
-"Schwarber, Kyle",OF
-"Castellanos, Nick",DH
-
 """
 
 import numpy as np
@@ -162,6 +98,7 @@ def strip_accents(text):
 
 # bring in all rosters from the teams:
 AllRosterDF = pd.read_csv('data/team-batting-order-'+year+'.csv')
+AllPlayerDF = pd.read_csv('data/player-batting-order-'+year+'.csv')
 
 #print_lineup(AllRosterDF,AllGameDF,'MIN',125)
 
@@ -170,67 +107,67 @@ AllRosterDF = pd.read_csv('data/team-batting-order-'+year+'.csv')
 # you introduce a 9-player (or 9+ player) list.
 # the algorithm will spit out plausible options based on where players batted in previous years.
 
-inputfile = '/Users/MSP/Downloads/teamlist.csv'
 
-Lineup = pd.read_csv(inputfile)
-#print(Lineup['player'])
+def predict_lineup(inputfile,AllRosterDF,AllPlayerDF,nlineups=10,verbose=False):
+    Lineup = pd.read_csv(inputfile, comment="#")
 
-AllPlayerDF = pd.read_csv('data/player-batting-order-'+year+'.csv')
-
-#PlayerDF = AllPlayerDF[AllPlayerDF['player']==player]
-
-PlayerOptions = dict()
-PlayerCount = dict()
-for spot in range(1,10):
-    PlayerOptions[spot] = []
-    PlayerCount[spot] = []
-
-for pl in Lineup['player'].values:
-    DF = AllPlayerDF[AllPlayerDF['player']==pl]
-    print(pl,DF)
+    PlayerOptions = dict()
+    PlayerCount = dict()
     for spot in range(1,10):
-        if DF['b{}'.format(spot)].values[0]>0.:
-            PlayerOptions[spot].append(pl)
-            plrtot = np.nansum(np.array([DF['b{}'.format(x)].values[0] for x in range(1,10)]))
-            PlayerCount[spot].append((DF['b{}'.format(spot)].values[0])/plrtot)
+        PlayerOptions[spot] = []
+        PlayerCount[spot] = []
 
-#print(PlayerOptions)
-#print(PlayerCount)
+    for pl in Lineup['player'].values:
+        DF = AllPlayerDF[AllPlayerDF['player']==pl]
+        if verbose: print(pl,DF)
+        for spot in range(1,10):
+            if DF['b{}'.format(spot)].values[0]>0.:
+                PlayerOptions[spot].append(pl)
+                plrtot = np.nansum(np.array([DF['b{}'.format(x)].values[0] for x in range(1,10)]))
+                PlayerCount[spot].append((DF['b{}'.format(spot)].values[0])/plrtot)
+
+    #print(PlayerOptions)
+    #print(PlayerCount)
 
 
 
-AllArray = dict()
-LineupScore = dict()
-lineupnum = 0
-for spot in range(1,10):
-    #print(spot)
+    AllArray = dict()
+    LineupScore = dict()
     lineupnum = 0
-    AllArray[spot] = dict()
-    LineupScore[spot] = dict()
-    if spot==1:
-        for pnum in range(0,len(PlayerOptions[spot])):
-            AllArray[spot][lineupnum] = [PlayerOptions[spot][pnum]]
-            LineupScore[spot][lineupnum] = PlayerCount[spot][pnum]
-            lineupnum += 1
-    else:
-
-        for lnum in range(0,len(AllArray[spot-1].keys())):
+    for spot in range(1,10):
+        lineupnum = 0
+        AllArray[spot] = dict()
+        LineupScore[spot] = dict()
+        if spot==1:
             for pnum in range(0,len(PlayerOptions[spot])):
-                #print(PlayerOptions[spot][pnum])
-                #print(AllArray[spot-1][lnum])
-                if PlayerOptions[spot][pnum] not in AllArray[spot-1][lnum]:
-                    AllArray[spot][lineupnum] = [*AllArray[spot-1][lnum],*[PlayerOptions[spot][pnum]]]#[x for x in AllArray[spot-1][lnum]].append([PlayerOptions[spot][pnum]])
-                    LineupScore[spot][lineupnum] = LineupScore[spot-1][lnum] + PlayerCount[spot][pnum]
-                    #print(AllArray[spot][lineupnum])
-                    lineupnum += 1
-    #print(spot,AllArray)
+                AllArray[spot][lineupnum] = [PlayerOptions[spot][pnum]]
+                LineupScore[spot][lineupnum] = PlayerCount[spot][pnum]
+                lineupnum += 1
+        else:
 
-#print(AllArray[spot])
-#print(LineupScore[spot].values())
-vals = np.array(list(LineupScore[spot].values()))
-#print(vals)
-print(np.nanmax(vals),np.nanargmax(vals))
-likelylineups = (-1.*vals).argsort()[0:10]
+            for lnum in range(0,len(AllArray[spot-1].keys())):
+                for pnum in range(0,len(PlayerOptions[spot])):
+                    #print(PlayerOptions[spot][pnum])
+                    #print(AllArray[spot-1][lnum])
+                    if PlayerOptions[spot][pnum] not in AllArray[spot-1][lnum]:
+                        AllArray[spot][lineupnum] = [*AllArray[spot-1][lnum],*[PlayerOptions[spot][pnum]]]#[x for x in AllArray[spot-1][lnum]].append([PlayerOptions[spot][pnum]])
+                        LineupScore[spot][lineupnum] = LineupScore[spot-1][lnum] + PlayerCount[spot][pnum]
+                        #print(AllArray[spot][lineupnum])
+                        lineupnum += 1
+        #print(spot,AllArray)
 
-for lineup in likelylineups:
-    print(np.round(vals[lineup]/9.,3),AllArray[spot][int(lineup+1)])
+    #print(AllArray[spot])
+    #print(LineupScore[spot].values())
+    vals = np.array(list(LineupScore[spot].values()))
+    #print(vals)
+    #print(np.nanmax(vals),np.nanargmax(vals))
+    likelylineups = (-1.*vals).argsort()[0:nlineups]
+
+    for lineup in likelylineups:
+        print(np.round(vals[lineup]/9.,3),AllArray[spot][int(lineup+1)])
+
+
+for team in ['ATL','BOS','MIN','PHI','PIT','SD','STL','TOR']:
+    print(team)
+    inputfile = 'teams/{}.csv'.format(team)
+    predict_lineup(inputfile,AllRosterDF,AllPlayerDF,nlineups=1,verbose=False)
