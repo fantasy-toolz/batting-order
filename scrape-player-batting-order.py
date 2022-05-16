@@ -30,7 +30,8 @@ def create_game_summary_df(year,teams,verbose=2):
             OrderDictList[team] = []
 
         # typical day ranges
-        for day in range(90,285):
+        #for day in range(90,285):
+        for day in range(94,145):
 
             # convert day number to string for savant searching
             dayval = pd.to_datetime(day-1, unit='D', origin=str(year))
@@ -221,7 +222,7 @@ def create_game_summary_df(year,teams,verbose=2):
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'ARI', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
 # select a year to scrape
-year = '2014'
+year = '2022'
 
 AllGameDF,AllPlayerDF = create_game_summary_df(year,teams,verbose=2)
 AllGameDF.to_csv('data/team-batting-order-'+year+'.csv')

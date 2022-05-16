@@ -34,8 +34,8 @@ def create_year_summary_df(year,teams,verbose=2):
         gnum = 0
 
         # loop over dates for a typical baseball season. if there are very early games in a year, may need to extend.
-        for day in range(91,285):
-
+        #for day in range(91,285):
+        for day in range(95,140):
             # convert day number to string for savant searching
             dayval = pd.to_datetime(day-1, unit='D', origin=str(year))
             date = str(dayval).split()[0]
@@ -157,7 +157,7 @@ def create_year_summary_df(year,teams,verbose=2):
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'ARI', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
 # select a year to scrape
-year = '2014'
+year = '2022'
 
 AllGameDF = create_year_summary_df(year,teams,verbose=2)
 AllGameDF.to_csv('data/games'+year+'.csv')

@@ -167,7 +167,7 @@ def predict_lineup(inputfile,AllRosterDF,AllPlayerDF,nlineups=10,verbose=False):
         print(np.round(vals[lineup]/9.,3),AllArray[spot][int(lineup+1)])
 
 
-for team in ['ATL','BOS','MIN','PHI','PIT','SD','STL','TOR']:
+for team in ['WAS']:#'ATL','BOS','MIN','PHI','PIT','SD','STL','TOR']:
     print(team)
     inputfile = 'teams/{}.csv'.format(team)
-    predict_lineup(inputfile,AllRosterDF,AllPlayerDF,nlineups=1,verbose=False)
+    predict_lineup(inputfile,AllRosterDF,AllPlayerDF,nlineups=10,verbose=False)
