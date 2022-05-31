@@ -13,11 +13,12 @@ import numpy as np
 import pandas as pd
 
 
-def create_game_summary_df(year,teams,verbose=2):
+def create_game_summary_df(year,teams,InputDates=dict(),verbose=2):
 
     # make blank dictionaries as workspaces
     OrderDict     = dict()
     OrderDictList = dict()
+    ValidDates    = dict()
 
     for team in teams:
 
@@ -31,11 +32,25 @@ def create_game_summary_df(year,teams,verbose=2):
 
         # typical day ranges
         #for day in range(90,285):
-        for day in range(94,145):
+        #for day in range(94,145):
+        #for day in range(94,100):
+        for day in range(96,102):
+
 
             # convert day number to string for savant searching
             dayval = pd.to_datetime(day-1, unit='D', origin=str(year))
             date = str(dayval).split()[0]
+
+            # no need to go past today's date
+            if date == str(pd.to_datetime("today").date()):
+                break
+
+            if date in InputDates['date'].values:
+                continue
+
+            if date not in ValidDates.keys():
+                ValidDates[date] = 0
+
 
             # report progress
             if verbose>1: print(date,end='')
@@ -62,6 +77,9 @@ def create_game_summary_df(year,teams,verbose=2):
 
                         # report
                         if verbose>1: print('...double game!',end='')
+
+                        # add the games played to the list for the day
+                        ValidDates[date] += 1
 
                         # start the batting order counter
                         order = 0
@@ -114,6 +132,9 @@ def create_game_summary_df(year,teams,verbose=2):
                     # report
                     if verbose>1: print('...game!')
 
+                    # add the games played to the list for the day
+                    ValidDates[date] += 1
+
                     # start counter for roster order
                     order = 0
 
@@ -161,6 +182,16 @@ def create_game_summary_df(year,teams,verbose=2):
             except:
                 if verbose>1: print()
 
+    ndates = len(list(ValidDates.keys()))
+    OutputDates = pd.DataFrame(columns=['date','ngames'],index=[i for i in range(0,ndates)])
+    dnum = 0
+    for d in ValidDates.keys():
+        OutputDates.loc[dnum] = pd.Series({'date':d,'ngames':ValidDates[d]})
+        dnum+=1
+
+    return OrderDict,OrderDictList,OutputDates
+
+def reorganise_orderdictlist(OrderDict,OrderDictList):
     # restructure outputs in to DataFrames
 
     # how many players did we log?
@@ -215,7 +246,21 @@ def create_game_summary_df(year,teams,verbose=2):
 
     return AllGameDF,AllPlayerDF
 
+def merge_csvs(InputDates,InputGameDF,InputPlayerDF,ValidDates,AllGameDF,AllPlayerDF):
 
+    # dates are easy, just apend
+    ndates1 = InputDates['date'].size
+    ndates2 = ValidDates['date'].size
+    OutputDates = pd.DataFrame(columns=['date','ngames'],index=[i for i in range(0,ndates1+ndates2)])
+    dnum = 0
+    for i in range(0,ndates1):
+        OutputDates.loc[dnum] = pd.Series({'date':InputDates['date'].values[i],'ngames':InputDates['ngames'].values[i]})
+        dnum+=1
+    for i in range(0,ndates2):
+        OutputDates.loc[dnum] = pd.Series({'date':ValidDates['date'].values[i],'ngames':ValidDates['ngames'].values[i]})
+        dnum+=1
+
+    # game DF is straightforward too, also append
 
 
 # define a list of all MLB team shorthands
@@ -224,9 +269,25 @@ teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'ARI', 'LAD', 'S
 # select a year to scrape
 year = '2022'
 
-AllGameDF,AllPlayerDF = create_game_summary_df(year,teams,verbose=2)
+try:
+    InputDates    = pd.read_csv('data/days-batting-order'+year+'.csv')
+    InputGameDF   = pd.read_csv('data/team-batting-order-'+year+'.csv')
+    InputPlayerDF = pd.read_csv('data/player-batting-order-'+year+'.csv')
+    print(InputDates['date'].values)
+except:
+    InputDates = pd.DataFrame(columns=['date'],index=[0])
+    InputDates.loc[0] = pd.Series({'date':'nan'})
+
+print(InputDates['date'].size)
+
+OrderDict,OrderDictList,ValidDates = create_game_summary_df(year,teams,InputDates=InputDates,verbose=2)
+AllGameDF,AllPlayerDF = reorganise_orderdictlist(OrderDict,OrderDictList)
+
+# now merge the inputs
+
 AllGameDF.to_csv('data/team-batting-order-'+year+'.csv')
 AllPlayerDF.to_csv('data/player-batting-order-'+year+'.csv')
+ValidDates.to_csv('data/days-batting-order'+year+'.csv')
 
 
 # for some sample applications, see accompanying files
