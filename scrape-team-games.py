@@ -16,10 +16,29 @@ import numpy as np
 import pandas as pd
 
 
-def create_year_summary_df(year,teams,verbose=2):
+def create_year_summary_df(year,teams,verbose=2,day0=95,dayi=285,log=False,GDict=dict()):
+    """
+    
+    
+    year     :
+    teams    :
+    verbose  :
+    day0     : day zero, the first date to search (in integer days from the beginning of the year
+    dayi     : day infinite, the maximum date to test.
+    log      : if True, accept a log to append to
+    GDict    : if log=True, the log to append to
+    
+    
+    """
 
     # create a DF to hold all the data we are interested in
     AllGameDF = pd.DataFrame(columns=['team','gamenum','opponent','date','opposinghandedness','pa1','pa2','pa3','pa4','pa5','pa6','pa7','pa8','pa9','dblheader'],index=[i for i in range(0,162*len(teams))])
+    
+    if log==True:
+        AllgameDF = GDict
+        grouped_df = GDict.groupby("team")
+        maximums = grouped_df.max()
+        maximums = maximums.reset_index()
 
     # initialise a row index counter
     offset = 0
@@ -32,14 +51,33 @@ def create_year_summary_df(year,teams,verbose=2):
 
         # initialise team counter for game number
         gnum = 0
+        
+        # find the maximum logged date
+        if log==True:
+            gnum = int(maximums.loc[maximums['team'] == team]['gamenum'].values[0])
+            maxlogdate = maximums.loc[maximums['team'] == team]['date'].values[0]
+            daynum = pd.to_datetime(maxlogdate) - pd.to_datetime(str(int(year)-1)+'-12-31')
+            maxlogint = int(str(daynum).split()[0])
+        else:
+            maxlogint = 0
+            
+        print(day0,maxlogint)
+        if int(maxlogint) > int(day0):
+            startdate = maxlogint+1
+        else:
+            startdate = day0
 
-        # loop over dates for a typical baseball season. if there are very early games in a year, may need to extend.
-        #for day in range(91,285):
-        for day in range(95,140):
+        # loop over dates for a typical baseball season. if there are very early games in a year, may need to extend the defaults
+        for day in range(startdate,dayi):
             # convert day number to string for savant searching
             dayval = pd.to_datetime(day-1, unit='D', origin=str(year))
             date = str(dayval).split()[0]
 
+            # no need to go past today's date
+            if date == str(pd.to_datetime("today").date()):
+                break
+                
+                
             # report progress
             if verbose>1: print(date,end='')
 
@@ -146,7 +184,7 @@ def create_year_summary_df(year,teams,verbose=2):
             except: # no DF: skip to next game
                 if verbose>1: print('')
 
-        # keep track of total number of games
+        # keep track of total number of games for this team
         offset += gnum
 
     return AllGameDF
@@ -159,7 +197,10 @@ teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'ARI', 'LAD', 'S
 # select a year to scrape
 year = '2022'
 
-AllGameDF = create_year_summary_df(year,teams,verbose=2)
+G = pd.read_csv('data/games'+str(year)+'.csv')
+
+
+AllGameDF = create_year_summary_df(year,teams,verbose=2,log=True,GDict=G)
 AllGameDF.to_csv('data/games'+year+'.csv')
 
 

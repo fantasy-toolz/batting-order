@@ -34,7 +34,7 @@ def create_game_summary_df(year,teams,InputDates=dict(),verbose=2):
         #for day in range(90,285):
         #for day in range(94,145):
         #for day in range(94,100):
-        for day in range(96,102):
+        for day in range(96,170):
 
 
             # convert day number to string for savant searching
