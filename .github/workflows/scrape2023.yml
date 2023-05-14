@@ -30,7 +30,9 @@ jobs:
               #pip install re
               python scrape-player-batting-order.py
           - name: set me up
-            run: git config --global user.name "michael-petersen"
+            run: |
+              git config user.name "michael-petersen"
+              git config user.email "petersen.michael.s@gmail.com"
           - name: check for changes
             run: git status
           - name: stage changed files
