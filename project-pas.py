@@ -60,12 +60,30 @@ def rearrange_name(player_name):
 
 player = 'Wil Myers'
 
+years = ['2019','2020','2021','2022']
+
+# get into stat-scraping
+# import stat_scraping as ss
+# year = '2022'
+# DF = ss.scrape_fangraphs_leaders('bat', year = 2022, data_type = 'Standard', agg_type='Player', split=0)
+# DF.to_csv('/Users/mpetersen/FantasyBaseball/batting-order/data/yearlystats-'+year+'.csv')
+
 # bring in all statistical data
-for year in ['2014','2015','2016','2017','2018','2019','2020','2021']:
+for year in years:
     #print(year)
     df = pd.read_csv('data/yearlystats-'+year+'.csv')
+    print(year)
+
+    for x in df['Name'].values:
+        try:
+            #print(x)
+            #print(strip_accents(x))
+            df['Name'][df['Name']==x] = strip_accents(x)
+        except:
+            pass
+
     df['year'] = year
-    if year=='2014':
+    if year==years[0]:
         AllPlayerStats = df
     else:
         AllPlayerStats = pd.concat([AllPlayerStats,df])
@@ -76,11 +94,21 @@ PlayerStats = AllPlayerStats[AllPlayerStats['Name']==player]
 
 
 # bring in batting order data
-for year in ['2014','2015','2016','2017','2018','2019','2020','2021']:
+for year in years:
     #print(year)
     df = pd.read_csv('data/player-batting-order-'+year+'.csv')
+
+    keyvals = ['b1','b2','b3','b4','b5','b6','b7','b8','b9']
+    for k in keyvals:
+        for x in df[k].values:
+            try:
+                #print(strip_accents(x))
+                df[k][df[k]==x] = strip_accents(x)
+            except:
+                pass
+
     df['year'] = year
-    if year == '2014':
+    if year == years[0]:
         AllPlayerBO = df
     else:
         AllPlayerBO = pd.concat([AllPlayerBO,df])
@@ -88,7 +116,7 @@ for year in ['2014','2015','2016','2017','2018','2019','2020','2021']:
 PlayerBO = AllPlayerBO[AllPlayerBO['player']==rearrange_name(player)]
 #print(PlayerBO)
 
-names = [rearrange_name(x) for x in AllPlayerBO[AllPlayerBO['year']=='2021']['player'].values]
+names = [rearrange_name(x) for x in AllPlayerBO[AllPlayerBO['year']=='2022']['player'].values]
 #print(names)
 
 namevals = AllPlayerStats['Name'].values
@@ -106,9 +134,10 @@ switchdict['DJ Stewart'] = 'D.J. Stewart'
 switchdict['Ha-Seong Kim'] = 'Ha-seong Kim'
 switchdict['JD Hammer'] = 'J.D. Hammer'
 switchdict['TJ Friedl'] = 'T.J. Friedl'
+switchdict['Luis Robert Jr.'] = 'Luis Robert'
 
 
-def project_three_year_average(AllPlayerStatsDF,year,player,minusyears=3):
+def project_three_year_average(AllPlayerStatsDF,year,player,stat='PA',minusyears=3):
     years = [str(year-i) for i in range(1,minusyears+1)]
     #print(years)
     #print(AllPlayerStatsDF[AllPlayerStatsDF['year'].isin(years)])
@@ -119,10 +148,10 @@ def project_three_year_average(AllPlayerStatsDF,year,player,minusyears=3):
     for year in years:
         try:
             if year == '2020':
-                threeyearmean += dftmp[dftmp['year']==year]['PA'].values[0]*(162./60.)
+                threeyearmean += dftmp[dftmp['year']==year][stat].values[0]*(162./60.)
                 yearnum += 1.
             else:
-                threeyearmean += dftmp[dftmp['year']==year]['PA'].values[0]
+                threeyearmean += dftmp[dftmp['year']==year][stat].values[0]
                 yearnum += 1.
         except:
             pass
@@ -143,66 +172,91 @@ def batting_position_stats(AllPlayerBODF,player,year=-1):
                           np.nansum([1.*df['b1'],1.*df['b2'],1.*df['b3'],\
                                      1.*df['b4'],1.*df['b5'],1.*df['b6'],\
                                      1.*df['b7'],1.*df['b8'],1.*df['b9']]))
+    else:
+        plrdf = AllPlayerBODF[AllPlayerBODF['player']==player]
+        df = plrdf[plrdf['year'] == year]
+        return np.nansum([1.*df['b1'],2.*df['b2'],3.*df['b3'],\
+                                     4.*df['b4'],5.*df['b5'],6.*df['b6'],\
+                                     7.*df['b7'],8.*df['b8'],9.*df['b9']])/\
+                          np.nansum([1.*df['b1'],1.*df['b2'],1.*df['b3'],\
+                                     1.*df['b4'],1.*df['b5'],1.*df['b6'],\
+                                     1.*df['b7'],1.*df['b8'],1.*df['b9']])
 
 
-qyears = ['2021','2020','2019','2018','2017']
-projectedtotal = np.zeros([len(names),len(qyears)])
 
-pafloor = 300.
-yearaverage = 3
-dpa = 150.
+f = open('data/three_year_batting_stats_2020-2022.csv','w')
+print('player,G,PA,battingpos2022,modelPAs162',file=f)
 
-for yearaverage in [1,2,3]:
-    for pafloor in [0.,150.,300.,450.,600.]:
-        for iname,name in enumerate(names):
-            compname = strip_accents(name.lstrip())
-            if compname in switchdict.keys():
-                compname = switchdict[compname]
-            w = namevals[namevals==compname]
-            if len(w)==0:
-                print(compname)
-            #if compname == 'Wil Myers':
-                #print(AllPlayerStats[AllPlayerStats['Name']==compname])
-            for iyear,year in enumerate(qyears):
-                    projected = project_three_year_average(AllPlayerStats,int(year),compname,minusyears=yearaverage)
-                    try:
-                        actual    = AllPlayerStats[(AllPlayerStats['Name']==compname) & (AllPlayerStats['year']==year)]['PA'].values[0]
-                    except:
-                        actual    = 0.
+print('And now, missing players:')
 
-                    if year == '2020':
-                        actual *= (162./60.)
-                    if (actual > 0) & (projected > pafloor) & (projected < pafloor+dpa):
-                        #print(compname,year,projected,actual)
-                        projectedtotal[iname,iyear] = (projected-actual)/actual
-                        #projectedtotal[iname,iyear] = (actual-projected)/projected
-                    else:
-                        projectedtotal[iname,iyear] = np.nan
-                #print(batting_position_stats(AllPlayerBO,rearrange_name(compname)))
+for iname,name in enumerate(names):
+    compname = strip_accents(name.lstrip())
+    if compname in switchdict.keys():
+        compname = switchdict[compname]
+    w = namevals[namevals==compname]
+    #print(w)
+    if len(w)==0:
+        print(compname)
+    #if compname == 'Wil Myers':
+        #print(AllPlayerStats[AllPlayerStats['Name']==compname])
+    projectedG = project_three_year_average(AllPlayerStats,2022,compname,stat='G',minusyears=3)
+    projectedPA = project_three_year_average(AllPlayerStats,2022,compname,stat='PA',minusyears=3)
+
+    outpos = np.round(batting_position_stats(AllPlayerBO,rearrange_name(compname),year='2022'),2)
+    #if np.isnan(outpos):
+        #print(compname,rearrange_name(compname))
+
+    paguess = np.round(2*(-9*outpos+380),0)
+
+    #if np.isfinite(outpos):
+    print('{0},{1},{2},{3},{4}'.format(name,projectedG,projectedPA,outpos,paguess),file=f)
+
+f.close()
+
+#for p in np.unique(AllPlayerBO['player']):    print(p)
+
+for n in names: print(n)
+
+T = pd.read_csv('/Users/mpetersen/Downloads/Team Guesses - Sheet1.csv')
+
+#for l in range(1,12):
+#print(np.array(T['Lineup{}'.format(l)].values))
+
+f = open('data/estimated_batting_stats_2023.csv','w')
+print('player,G22,G21,G20,PA,modelPAs162,modelPAsG',file=f)
+
+nplayers = 0
+for iname,name in enumerate(names):
+    compname = strip_accents(name.lstrip())
+    if compname in switchdict.keys():
+        compname = switchdict[compname]
 
 
-        # make the key assumption that 2020 is prorated from 60 games -> 162 games
+    outpos = 0
+
+    projectedG22 = project_three_year_average(AllPlayerStats,2022,compname,stat='G',minusyears=1)
+    projectedG21 = project_three_year_average(AllPlayerStats,2021,compname,stat='G',minusyears=1)
+    projectedG20 = project_three_year_average(AllPlayerStats,2020,compname,stat='G',minusyears=1)
+    projectedPA = project_three_year_average(AllPlayerStats,2022,compname,stat='PA',minusyears=1)
+
+    # check all lineup locations
+    for l in range(1,12):
+        nameset = np.array(T['Lineup{}'.format(l)].values)
+
+        w = nameset[nameset==compname]#[0]
+        if len(w)>0:
+            nplayers += 1
+            #print(l,compname)
+            outpos = l
+
+    paguess = np.round(2*(-9*outpos+380),0)
+
+    if outpos > 0:
+        print('{0},{1},{2},{3},{4},{5},{6}'.format(compname,projectedG22,projectedG21,projectedG20,projectedPA,paguess,int(np.round(paguess*(projectedG22/162.),0))),file=f)
+
+    else:
+        print('{0},{1},{2},{3},{4},{5},{6}'.format(compname,projectedG22,projectedG21,projectedG20,projectedPA,paguess,int(np.round(paguess*(projectedG22/162.),0))),file=f)
 
 
-        # can start by considering all 2021 players...where did they bat in previous years? How similar are they?
-
-        # make a couple plots
-        plt.figure()
-        for iyear,year in enumerate(qyears):
-            # get the guys who aren't nans
-            valid_comparison_guys = projectedtotal[np.isfinite(projectedtotal[:,iyear]),iyear]
-            sortedarr  = valid_comparison_guys[valid_comparison_guys.argsort()]
-            nsortedarr = np.linspace(0.,1.,len(valid_comparison_guys))
-            plt.plot(sortedarr,nsortedarr,color=cm.viridis(iyear/4.,1.),lw=1.,label=year+' (N={})'.format(len(valid_comparison_guys)))
-
-        plt.plot([0.,0.],[0.,1.0],color='grey',linestyle='dashed',lw=1.)
-        plt.plot([-1.5,1.5],[0.5,0.5],color='grey',linestyle='dashed',lw=1.)
-
-        plt.title('(projected-actual)\n/actual')
-        plt.legend()
-        plt.axis([-1.5,1.5,0.,1.])
-        plt.xlabel('PA difference')
-        plt.ylabel('Cumulative number')
-        plt.tight_layout()
-
-        plt.savefig('figures/compare_{}year_projected_pas_min{}.png'.format(yearaverage,int(pafloor)))
+f.close()
+print(nplayers)

@@ -12,7 +12,7 @@ AllRosterDF = pd.read_csv('data/player-batting-order-'+year+'.csv')
 
 
 
-f = open('/Users/mpetersen/Projects/FantasyBaseball/webpage/fantasy-toolz.github.io/Lineups/lineup'+year+'.html','w')
+f = open('/Users/mpetersen/FantasyBaseball/fantasy-toolz.github.io/Lineups/lineup'+year+'.html','w')
 
 hdr = '<!DOCTYPE html>\n<html>\n  <head>\n    <title>'+year+' Lineups</title>\n    <link rel="stylesheet" href="style.css" />\n    <meta charset="UTF-8">\n    <!--https://www.w3schools.com/css/css_table.asp-->\n  </head>\n\n  <body>\n  <h2>Batting Order Breakdown</h2>\n  <p>For each team, what is the "typical" '+year+' lineup, and how\n  frequently was each player in said lineup spot?</p>'
 tail = '</body>\n</html>'

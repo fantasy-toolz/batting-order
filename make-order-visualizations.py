@@ -87,7 +87,7 @@ def make_teamgrid(team,TeamRosterDF,f,plot=False):
     return mostlikelylineup,volatility
 
 
-f = open('/Users/mpetersen/Projects/FantasyBaseball/webpage/fantasy-toolz.github.io/Lineups/lineup'+year+'.html','w')
+f = open('/Users/mpetersen/FantasyBaseball/fantasy-toolz.github.io/Lineups/lineup'+year+'.html','w')
 #f = open('/Users/mpetersen/Projects/FantasyBaseball/webpage/fantasy-toolz.github.io/Lineups/lineup'+year+'posttrade.html','w')
 
 
@@ -103,8 +103,14 @@ print('<tr><th>Team</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th<
 
 TV = {}
 for team in teams:
-    a,volatility = make_teamgrid(team,TeamRosterDF,f,plot=False)
-    TV[team] = volatility
+    print(team,end='')
+    try:
+        a,volatility = make_teamgrid(team,TeamRosterDF,f,plot=False)
+        TV[team] = volatility
+        print()
+    except:
+        print("FAILED!")
+        pass
 
 
 print('</table>',file=f)
@@ -141,7 +147,7 @@ def make_teamgrid2(team,TeamRosterDF,f,plot=False,allprint=False):
         plt.title(team)
         plt.colorbar()
         plt.savefig('figures/2021'+team+'similarity.png',dpi=300)
-        plt.savefig('/Users/mpetersen/Projects/FantasyBaseball/webpage/fantasy-toolz.github.io/Lineups/figures/2022'+team+'similarity.png',dpi=300)
+        plt.savefig('/Users/mpetersen/FantasyBaseball/fantasy-toolz.github.io/Lineups/figures/2022'+team+'similarity.png',dpi=300)
 
 
     # then select the lineup that has the most overlap with other lineups

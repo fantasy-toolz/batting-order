@@ -10,16 +10,23 @@ scrape-team-games
 
   this routine is expensive: we heartily recommend that you use the already-processed csv files in data/!
 
+TODO:
+-break up by team to save individual files, and then concatenate all
+
+
 """
 
 import numpy as np
 import pandas as pd
 
+import requests,io
+
+
 
 def create_year_summary_df(year,teams,verbose=2,day0=95,dayi=285,log=False,GDict=dict()):
     """
-    
-    
+
+
     year     :
     teams    :
     verbose  :
@@ -27,13 +34,19 @@ def create_year_summary_df(year,teams,verbose=2,day0=95,dayi=285,log=False,GDict
     dayi     : day infinite, the maximum date to test.
     log      : if True, accept a log to append to
     GDict    : if log=True, the log to append to
-    
-    
+
+
     """
+
+    # dumb header if we are stuck using requests
+    header = {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36",
+      "X-Requested-With": "XMLHttpRequest"
+    }
 
     # create a DF to hold all the data we are interested in
     AllGameDF = pd.DataFrame(columns=['team','gamenum','opponent','date','opposinghandedness','pa1','pa2','pa3','pa4','pa5','pa6','pa7','pa8','pa9','dblheader'],index=[i for i in range(0,162*len(teams))])
-    
+
     if log==True:
         AllgameDF = GDict
         grouped_df = GDict.groupby("team")
@@ -51,7 +64,7 @@ def create_year_summary_df(year,teams,verbose=2,day0=95,dayi=285,log=False,GDict
 
         # initialise team counter for game number
         gnum = 0
-        
+
         # find the maximum logged date
         if log==True:
             gnum = int(maximums.loc[maximums['team'] == team]['gamenum'].values[0])
@@ -60,7 +73,7 @@ def create_year_summary_df(year,teams,verbose=2,day0=95,dayi=285,log=False,GDict
             maxlogint = int(str(daynum).split()[0])
         else:
             maxlogint = 0
-            
+
         print(day0,maxlogint)
         if int(maxlogint) > int(day0):
             startdate = maxlogint+1
@@ -76,15 +89,21 @@ def create_year_summary_df(year,teams,verbose=2,day0=95,dayi=285,log=False,GDict
             # no need to go past today's date
             if date == str(pd.to_datetime("today").date()):
                 break
-                
-                
+
+
             # report progress
             if verbose>1: print(date,end='')
 
             # the workhorse: use pandas to retrieve a csv of the game data from MLB's statcast data repository
             # working string (30 Jan 2022)...not guaranteed to be infallible
             link = 'https://baseballsavant.mlb.com/statcast_search/csv?all=true&hfPT=&hfAB=&hfGT=R%7C&hfPR=&hfZ=&stadium=&hfBBL=&hfNewZones=&hfPull=&hfC=&hfSea='+str(year)+'%7C&hfSit=&player_type=batter&hfOuts=&opponent=&pitcher_throws=&batter_stands=&hfSA=&game_date_gt='+date+'&game_date_lt='+date+'&hfInfield=&team='+team+'&position=&hfOutfield=&hfRO=&home_road=&hfFlag=&hfBBT=&metric_1=&hfInn=&min_pitches=0&min_results=0&group_by=name&sort_col=pitches&player_event_sort=api_p_release_speed&sort_order=desc&min_pas=0&type=details&'
-            DF = pd.read_csv(link, low_memory=False)
+
+            r = requests.get(link, headers=header)
+            csvStringIO = io.StringIO(r.text)
+            DF = pd.read_csv(csvStringIO, sep=",")
+
+            # this is the easy way... if it works
+            #DF = pd.read_csv(link, low_memory=False)
 
 
             try:
@@ -193,15 +212,21 @@ def create_year_summary_df(year,teams,verbose=2,day0=95,dayi=285,log=False,GDict
 
 # define a list of all MLB team shorthands
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'ARI', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
+teams = ['TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
+
+# is arizona now AZ?
 
 # select a year to scrape
 year = '2022'
 
-G = pd.read_csv('data/games'+str(year)+'.csv')
+#G = pd.read_csv('data/games'+str(year)+'.csv')
 
 
-AllGameDF = create_year_summary_df(year,teams,verbose=2,log=True,GDict=G)
-AllGameDF.to_csv('data/games'+year+'.csv')
+#AllGameDF = create_year_summary_df(year,teams,verbose=2,log=False)#,GDict=G)
+#AllGameDF.to_csv('data/games'+year+'.csv')
 
+for team in teams:
+    AllGameDF = create_year_summary_df(year,[team],verbose=2,log=False)#,GDict=G)
+    AllGameDF.to_csv('data/games_{}_{}.csv'.format(team,year))
 
 # for some sample applications, see accompanying files
