@@ -37,7 +37,7 @@ jobs:
             run: git add .
           - name: commit changed files
             run: git commit -m "bot update"
-          - name: fetch from master
-            run: git fetch origin master
-          - name: push code to master
-            run: git push origin HEAD:master
+          - name: fetch from strippeddown
+            run: git fetch origin strippeddown
+          - name: push code to strippeddown
+            run: git push origin HEAD:strippeddown
