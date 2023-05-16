@@ -77,3 +77,5 @@ for team in teams:
     print('{0:3s},{1:4.2f},{2:4.2f}'.format(team,(totaloverlap)/len(OrderDictList[team]),(totaloverlap+within1)/len(OrderDictList[team])),file=f)
 
 f.close()
+
+# here, we'd like to analyse similarity metrics
