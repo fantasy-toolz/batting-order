@@ -2,10 +2,10 @@
 name: daily scrape
 
 # Controls when the workflow will run
-on: push
-#on:
-#      schedule:
-#        - cron: '00 9 * * *'
+#on: push
+on:
+      schedule:
+        - cron: '57 11 * * *'
 
 jobs:
       build:
@@ -39,7 +39,7 @@ jobs:
             run: git add .
           - name: commit changed files
             run: git commit -m "bot update"
-          - name: fetch from strippeddown
-            run: git fetch origin strippeddown
-          - name: push code to strippeddown
-            run: git push origin HEAD:strippeddown
+          - name: fetch from main
+            run: git fetch origin main
+          - name: push code to main
+            run: git push origin HEAD:main
