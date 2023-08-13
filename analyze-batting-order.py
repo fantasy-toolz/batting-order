@@ -20,7 +20,7 @@ def load_orderdict(teams):
     OrderDictList = dict()
     for team in teams:
         OrderDictList[team] = dict()
-        G = np.genfromtxt('data/2023/{}.csv'.format(team),skip_header=1,delimiter=';',dtype='S20')
+        G = np.genfromtxt('data/2023/{}.csv'.format(team),skip_header=1,delimiter=',',dtype='S20')
         ngames = len(G[:,0])
         for g in range(0,ngames):
             #print(G[g])

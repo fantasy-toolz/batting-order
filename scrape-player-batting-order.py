@@ -90,11 +90,14 @@ def strip_accents(text):
     return str(text)
 
 
+def rearrange_player(plrstring):
+    splitup = plrstring.split(',')
+    return(splitup[1]+' '+splitup[0])
 
 def record_game(datestring,gameorder,f):
-    print(datestring,end=';',file=f)
+    print(datestring,end=',',file=f)
     for plr in gameorder:
-        print(strip_accents(plr),end=';',file=f)
+        print(rearrange_player(strip_accents(plr)),end=',',file=f)
     print('',file=f)
 
 #OrderDictList = dict()
@@ -103,7 +106,7 @@ for team in teams:
     print(team)
     # check if the team has already been recorded
     try:
-        f = pd.read_csv('data/2023/{}.csv'.format(team),delimiter=';')
+        f = pd.read_csv('data/2023/{}.csv'.format(team),delimiter=',')
         maxdate = f['date'].values[-1]
         firstdate = np.where(maxdate==np.array(alldates))[0][0]
         alldatesin = alldates[firstdate+1:]
@@ -113,7 +116,7 @@ for team in teams:
         alldatesin = alldates
         f = open('data/2023/{}.csv'.format(team),'w')
     if (newflag==0):
-        print('date;lineup1;lineup2;lineup3;lineup4;lineup5;lineup6;lineup7;lineup8;lineup9;',file=f)
+        print('date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,',file=f)
     #OrderDictList[team] = dict()
     for date in alldatesin:
         print(date)

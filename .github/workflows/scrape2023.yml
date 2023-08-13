@@ -4,7 +4,7 @@ name: daily scrape
 # Controls when the workflow will run
 on:
       schedule:
-        - cron: '57 11 * * *'
+        - cron: '57 10 * * *'
       push:
 
 jobs:
