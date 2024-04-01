@@ -58,7 +58,7 @@ def rearrange_name(player_name):
             return player_name.split(' ')[1]+' '+player_name.split(' ')[2]+', '+player_name.split(' ')[0]
 
 
-player = 'Wil Myers'
+player = 'Ronald Acuna Jr.'
 
 years = ['2020','2021','2022','2023']
 
@@ -96,7 +96,7 @@ PlayerStats = AllPlayerStats[AllPlayerStats['Name']==player]
 # bring in batting order data
 for year in years:
     #print(year)
-    df = pd.read_csv('data/player-batting-order-'+year+'.csv')
+    df = pd.read_csv('data/Aggregate/player-batting-order-'+year+'.csv')
 
     keyvals = ['b1','b2','b3','b4','b5','b6','b7','b8','b9']
     for k in keyvals:
@@ -114,14 +114,15 @@ for year in years:
         AllPlayerBO = pd.concat([AllPlayerBO,df])
 
 PlayerBO = AllPlayerBO[AllPlayerBO['player']==rearrange_name(player)]
-#print(PlayerBO)
+print(PlayerBO)
 
 names = [rearrange_name(x) for x in AllPlayerBO[AllPlayerBO['year']=='2023']['player'].values]
-#print(names)
+print(names)
 
 namevals = AllPlayerStats['Name'].values
 
 # a few hand replacements, sadly.
+# these are for guys who have a different name in the order record and on fangraphs
 switchdict = dict()
 switchdict['Cedric Mullins'] = 'Cedric Mullins II'
 switchdict['Hyun Jin Ryu'] = 'Hyun-Jin Ryu'
@@ -135,6 +136,7 @@ switchdict['Ha-Seong Kim'] = 'Ha-seong Kim'
 switchdict['JD Hammer'] = 'J.D. Hammer'
 switchdict['TJ Friedl'] = 'T.J. Friedl'
 switchdict['Luis Robert Jr.'] = 'Luis Robert'
+switchdict['Luis Robert'] = 'Luis Robert Jr.'
 
 
 def project_three_year_average(AllPlayerStatsDF,year,player,stat='PA',minusyears=3):
@@ -184,12 +186,17 @@ def batting_position_stats(AllPlayerBODF,player,year=-1):
 
 
 
-f = open('data/three_year_batting_stats_2021-2023.csv','w')
-print('player,G,PA,battingpos2023,modelPAs162',file=f)
+
+
+
+f = open('data/Aggregate/three_year_batting_stats_2021-2023.csv','w')
+print('player,threeyearG,threeyearPA,battingpos2023,2023modelPAs162',file=f)
 
 print('And now, missing players:')
 
+
 for iname,name in enumerate(names):
+    print(iname,name)
     compname = strip_accents(name.lstrip())
     if compname in switchdict.keys():
         compname = switchdict[compname]
@@ -222,8 +229,8 @@ T = pd.read_csv('predictions/lineups-2024-01-22.csv')
 #for l in range(1,12):
 #print(np.array(T['Lineup{}'.format(l)].values))
 
-f = open('data/estimated_batting_stats_2024.csv','w')
-print('player,G23,G22,G21,PA,modelPAs162,modelPAsG',file=f)
+f = open('data/Aggregate/estimated_batting_stats_2024.csv','w')
+print('player,PAprediction,threeyearavgPA,PA23,lineup23,PA23lineup,PA24lineup,threeyearavgG,G23,G22,G21',file=f)
 
 nplayers = 0
 for iname,name in enumerate(names):
@@ -232,14 +239,19 @@ for iname,name in enumerate(names):
         compname = switchdict[compname]
 
 
-    outpos = 0
+    outpos = np.round(batting_position_stats(AllPlayerBO,rearrange_name(compname),year='2023'),2)
+    PA23lineup = np.round(2*(-9*outpos+380),0)
+    lineup23 = outpos
 
-    projectedG23 = project_three_year_average(AllPlayerStats,2023,compname,stat='G',minusyears=1)
-    projectedG22 = project_three_year_average(AllPlayerStats,2022,compname,stat='G',minusyears=1)
-    projectedG21 = project_three_year_average(AllPlayerStats,2021,compname,stat='G',minusyears=1)
-    projectedPA = project_three_year_average(AllPlayerStats,2023,compname,stat='PA',minusyears=1)
+    threeyearavgG  = project_three_year_average(AllPlayerStats,2023,compname,stat='G',minusyears=3)
+    threeyearavgPA = project_three_year_average(AllPlayerStats,2023,compname,stat='PA',minusyears=3)
+    totalG23       = project_three_year_average(AllPlayerStats,2023,compname,stat='G',minusyears=1)
+    totalG22       = project_three_year_average(AllPlayerStats,2022,compname,stat='G',minusyears=1)
+    totalG21       = project_three_year_average(AllPlayerStats,2021,compname,stat='G',minusyears=1)
+    PAtotal23      = project_three_year_average(AllPlayerStats,2023,compname,stat='PA',minusyears=1)
 
-    # check all lineup locations
+    # check all hand-set lineup locations: set default as bottom of the order
+    outpos = 9.0
     for l in range(1,12):
         nameset = np.array(T['Lineup{}'.format(l)].values)
 
@@ -249,14 +261,13 @@ for iname,name in enumerate(names):
             #print(l,compname)
             outpos = l
 
-    paguess = np.round(2*(-9*outpos+380),0)
+    PA24lineup = np.round(2*(-9*outpos+380),0)
 
-    if outpos > 0:
-        print('{0},{1},{2},{3},{4},{5},{6}'.format(compname,projectedG22,projectedG21,projectedG20,projectedPA,paguess,int(np.round(paguess*(projectedG22/162.),0))),file=f)
-
-    else:
-        print('{0},{1},{2},{3},{4},{5},{6}'.format(compname,projectedG22,projectedG21,projectedG20,projectedPA,paguess,int(np.round(paguess*(projectedG22/162.),0))),file=f)
+    print('{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10}'.format(compname,int(np.round(PA24lineup*(totalG23/162.),0)),\
+                                               threeyearavgPA,PAtotal23,lineup23,PA23lineup,PA24lineup,threeyearavgG,
+                                               totalG23,totalG22,totalG21),file=f)
 
 
 f.close()
 print(nplayers)
+
