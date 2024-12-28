@@ -10,6 +10,10 @@ import unicodedata
 year = '2023'
 # this is 2023 specific
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(88,365)]
+
+
+year = '2024'
+yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(77,365)]
 alldates = yeardates[0:np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]]
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
@@ -29,6 +33,29 @@ def load_orderdict(teams):
 
 
 OrderDictList = load_orderdict(teams)
+
+
+import numpy as np
+
+def read_fixed_width_file(filename, colspecs, dtype):
+    # Define a custom converter to strip spaces
+    def strip_spaces(val):
+        return val.strip()
+    # Generate a delimiter array based on colspecs
+    delimiter = [(start, start + width) for start, width in zip(
+        np.cumsum([0] + colspecs[:-1]), colspecs)]  
+    # Read the data using genfromtxt
+    data = np.genfromtxt(filename, dtype=dtype, delimiter=delimiter, converters={i: strip_spaces for i in range(len(colspecs))})
+    return data
+
+# Define the column specifications (widths)
+colspecs = [21,4]
+
+# Define the data types for each column
+dtype = [('name', 'U21'), ('order', 'U4')]
+
+# Read the fixed-width file
+data = read_fixed_width_file('data/Aggregate/mean-batting-2024.csv', colspecs, dtype)
 
 
 TM = pd.read_csv('data/2023/TeamGuessesOpeningDay.csv')

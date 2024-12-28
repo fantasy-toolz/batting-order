@@ -18,7 +18,7 @@ def rearrange_name(player_name):
             return player_name.split(' ')[1]+' '+player_name.split(' ')[2]+', '+player_name.split(' ')[0]
 
 
-year = '2023'
+year = '2024'
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
@@ -26,10 +26,12 @@ teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF
 # create a dictionary
 PositionTotal = dict()
 TeamTotal = dict()
+PlrTeam = dict()
 
 for team in teams:
     D = np.genfromtxt('data/{}/{}.csv'.format(year,team),delimiter=',',dtype='S26',skip_header=1)
     print('team: ',team,' games played: ',len(D[:,0]))
+    TeamTotal[team] = len(D[:,0])
     #print('date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,',file=f)
     ngames = len(D[:,0])
     for n in range(1,ngames):
@@ -38,12 +40,14 @@ for team in teams:
                 # this is the date, so skip ahead
                 pass
             else:
-                TeamTotal[D[n][i].decode().lstrip()] = team
+                
                 try:
                     PositionTotal[D[n][i].decode().lstrip()][i-1] += 1
                 except:
                     PositionTotal[D[n][i].decode().lstrip()] = np.zeros(9)
                     PositionTotal[D[n][i].decode().lstrip()][i-1] += 1
+                    PlrTeam[D[n][i].decode().lstrip()] = team
+                
 
 
 #print(PositionTotal)
@@ -51,13 +55,17 @@ for team in teams:
 # now make some summary stats
 plrs = np.array(list(PositionTotal.keys()))
 nplrs = len(plrs)
-print(nplrs)
+print("Players who have started a game this year:",nplrs)
 f = open('data/Aggregate/player-batting-order-'+year+'.csv','w')
 print(',player,team,b1,b2,b3,b4,b5,b6,b7,b8,b9',file=f)
+
+g = open('data/Aggregate/mean-player-batting-order-'+year+'.csv','w') 
+print('player,avg,ngames,teamgames,team',file=g)
 for iplr,plr in enumerate(plrs):
     avgspot = np.nansum(np.arange(1,10,1)*PositionTotal[plr]/np.nansum(PositionTotal[plr]))
-    print('{0:20s} {1:4.2f}'.format(plr,avgspot))
-    print('{0},"{1}",{2},{3},{4},{5},{6},{7},{8},{9},{10},{11}'.format(iplr,rearrange_name(plr),TeamTotal[plr],PositionTotal[plr][0],PositionTotal[plr][1],PositionTotal[plr][2],PositionTotal[plr][3],PositionTotal[plr][4],PositionTotal[plr][5],PositionTotal[plr][6],PositionTotal[plr][7],PositionTotal[plr][8]),file=f)
+    ngames = np.nansum(PositionTotal[plr])
+    print('{0},{1:4.2f},{2:3.0f},{3:3.0f},{4}'.format(plr,avgspot,ngames,TeamTotal[PlrTeam[plr]],PlrTeam[plr]),file=g)
+    print('{0},"{1}",{2},{3},{4},{5},{6},{7},{8},{9},{10},{11}'.format(iplr,rearrange_name(plr),PlrTeam[plr],PositionTotal[plr][0],PositionTotal[plr][1],PositionTotal[plr][2],PositionTotal[plr][3],PositionTotal[plr][4],PositionTotal[plr][5],PositionTotal[plr][6],PositionTotal[plr][7],PositionTotal[plr][8]),file=f)
 
 f.close()
-
+g.close()
