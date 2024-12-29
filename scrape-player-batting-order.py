@@ -21,7 +21,7 @@ year = '2023'
 # this is 2023 specific
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(88,365)]
 #alldates = yeardates[0:np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]]
-"""
+
 # this is 2024 season specific
 year = '2024'
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(77,365)]
@@ -33,7 +33,7 @@ alldates = yeardates[0:todaynum]
 
 # check just the past couple of days
 #alldates = yeardates[max(0,todaynum-15):todaynum]
-
+"""
 
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
