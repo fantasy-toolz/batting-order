@@ -56,16 +56,17 @@ for team in teams:
 plrs = np.array(list(PositionTotal.keys()))
 nplrs = len(plrs)
 print("Players who have started a game this year:",nplrs)
-f = open('data/Aggregate/player-batting-order-'+year+'.csv','w')
-print(',player,team,b1,b2,b3,b4,b5,b6,b7,b8,b9',file=f)
+f = open('data/Aggregate/Summaries/'+year+'player-batting-order.csv','w')
+print('player,team,b1,b2,b3,b4,b5,b6,b7,b8,b9',file=f)
 
-g = open('data/Aggregate/mean-player-batting-order-'+year+'.csv','w') 
+g = open('data/Aggregate/Summaries/'+year+'mean-player-batting-order.csv','w') 
 print('player,avg,ngames,teamgames,team',file=g)
 for iplr,plr in enumerate(plrs):
     avgspot = np.nansum(np.arange(1,10,1)*PositionTotal[plr]/np.nansum(PositionTotal[plr]))
     ngames = np.nansum(PositionTotal[plr])
     print('{0},{1:4.2f},{2:3.0f},{3:3.0f},{4}'.format(plr,avgspot,ngames,TeamTotal[PlrTeam[plr]],PlrTeam[plr]),file=g)
-    print('{0},"{1}",{2},{3},{4},{5},{6},{7},{8},{9},{10},{11}'.format(iplr,rearrange_name(plr),PlrTeam[plr],PositionTotal[plr][0],PositionTotal[plr][1],PositionTotal[plr][2],PositionTotal[plr][3],PositionTotal[plr][4],PositionTotal[plr][5],PositionTotal[plr][6],PositionTotal[plr][7],PositionTotal[plr][8]),file=f)
+    #print('{0},"{1}",{2},{3},{4},{5},{6},{7},{8},{9},{10},{11}'.format(iplr,rearrange_name(plr),PlrTeam[plr],PositionTotal[plr][0],PositionTotal[plr][1],PositionTotal[plr][2],PositionTotal[plr][3],PositionTotal[plr][4],PositionTotal[plr][5],PositionTotal[plr][6],PositionTotal[plr][7],PositionTotal[plr][8]),file=f)
+    print('{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11}'.format(iplr,plr,PlrTeam[plr],PositionTotal[plr][0],PositionTotal[plr][1],PositionTotal[plr][2],PositionTotal[plr][3],PositionTotal[plr][4],PositionTotal[plr][5],PositionTotal[plr][6],PositionTotal[plr][7],PositionTotal[plr][8]),file=f)
 
 f.close()
 g.close()

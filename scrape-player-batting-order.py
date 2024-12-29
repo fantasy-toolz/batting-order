@@ -12,34 +12,47 @@ import unicodedata
 from src import playerhandling
 from src import gamehandling
 
-year = '2022'
+gamemode = 'regularseason'
+outdir = ''
+
+year = '2021'
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(77,300)]
 alldates = yeardates
 
 """
+year = '2022'
+yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(77,300)]
+alldates = yeardates
+
+
 year = '2023'
 # this is 2023 specific
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(88,365)]
 #alldates = yeardates[0:np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]]
 
+"""
 # this is 2024 season specific
 year = '2024'
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(77,365)]
-
 todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
-todaynum = np.where(np.array(yeardates)=='2024-10-02')[0][0]
-
 alldates = yeardates[0:todaynum]
 
-# check just the past couple of days
-#alldates = yeardates[max(0,todaynum-15):todaynum]
-"""
+
+
+
+# if doing postseason, limit dates
+year = '2022'
+gamemode = 'postseason'
+if gamemode=='postseason':
+    yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(270,320)]
+    alldates = yeardates
+    outdir = 'Postseason/'
 
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
 # create a file that stamps the last time run
-f = open('data/{}/lasttouched.txt'.format(year),'w')
+f = open('data/{}{}/lasttouched.txt'.format(outdir,year),'w')
 print(pd.to_datetime("today"),file=f)
 f.close()
 
@@ -52,21 +65,21 @@ for team in teams:
     print(team)
     # check if the team has already been recorded
     try:
-        f = pd.read_csv('data/{}/{}.csv'.format(year,team),delimiter=',')
+        f = pd.read_csv('data/{}{}/{}.csv'.format(outdir,year,team),delimiter=',')
         maxdate = f['date'].values[-1]
         firstdate = np.where(maxdate==np.array(alldates))[0][0]
         alldatesin = alldates[firstdate+1:]
         newflag = 1
-        f = open('data/{}/{}.csv'.format(year,team),'a')
+        f = open('data/{}{}/{}.csv'.format(outdir,year,team),'a')
     except:
         alldatesin = alldates
-        f = open('data/{}/{}.csv'.format(year,team),'w')
+        f = open('data/{}{}/{}.csv'.format(outdir,year,team),'w')
     if (newflag==0):
         print('date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,',file=f)
     #OrderDictList[team] = dict()
     for date in alldatesin:
         print(date)
-        DF = gamehandling.get_team_game(year,date,team)
+        DF = gamehandling.get_team_game(year,date,team,mode=gamemode)
         ngames = gamehandling.num_games(DF)
         if ngames>1: # allow for doubleheaders
             gamenums = np.unique(DF['game_pk'])
