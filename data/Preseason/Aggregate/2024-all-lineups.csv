@@ -1,0 +1,909 @@
+date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,team
+2024-02-24, Mickey Moniak, Nolan Schanuel, Mike Trout, Michael Stefanic, Taylor Ward, Brandon Drury, Logan O'Hoppe, Jo Adell, Zach Neto,LAA
+2024-02-25a, Aaron Hicks, Nolan Schanuel, Mike Trout, Anthony Rendon, Taylor Ward, Brandon Drury, Matt Thaiss, Willie Calhoun, Zach Neto,LAA
+2024-02-25b, Nelson Rada, Charles Leblanc, Mickey Moniak, Hunter Dozier, Jo Adell, Cole Fontenelle, Miguel Sano, Chad Wallach, Livan Soto,LAA
+2024-02-26, Ehire Adrianza, Aaron Hicks, Jo Adell, Anthony Rendon, Jason Martin, Hunter Dozier, Logan O'Hoppe, Jordyn Adams, Richie Martin,LAA
+2024-02-27, Taylor Ward, Nolan Schanuel, Mike Trout, Brandon Drury, Mickey Moniak, Miguel Sano, Chad Wallach, Livan Soto, Zach Neto,LAA
+2024-02-28, Taylor Ward, Nolan Schanuel, Mike Trout, Anthony Rendon, Brandon Drury, Aaron Hicks, Matt Thaiss, Jason Martin, Zach Neto,LAA
+2024-02-29, Aaron Hicks, Nolan Schanuel, Mike Trout, Anthony Rendon, Brandon Drury, Taylor Ward, Logan O'Hoppe, Miguel Sano, Zach Neto,LAA
+2024-03-01, Ehire Adrianza, Mickey Moniak, Jo Adell, Hunter Dozier, Logan O'Hoppe, Miguel Sano, Willie Calhoun, Jordyn Adams, Kyren Paris,LAA
+2024-03-02, Aaron Hicks, Nolan Schanuel, Mike Trout, Anthony Rendon, Taylor Ward, Brandon Drury, Matt Thaiss, Jo Adell, Zach Neto,LAA
+2024-03-03, Aaron Hicks, Nolan Schanuel, Mike Trout, Anthony Rendon, Taylor Ward, Brandon Drury, Logan O'Hoppe, Jake Marisnick, Zach Neto,LAA
+2024-03-04, Ehire Adrianza, Nolan Schanuel, Miguel Sano, Logan O'Hoppe, Jo Adell, Mickey Moniak, Hunter Dozier, Jordyn Adams, Zach Neto,LAA
+2024-03-05, Aaron Hicks, Nolan Schanuel, Mike Trout, Taylor Ward, Brandon Drury, Logan O'Hoppe, Miguel Sano, Matt Thaiss, Zach Neto,LAA
+2024-03-06a, Nolan Schanuel, Matt Thaiss, Mike Trout, Taylor Ward, Brandon Drury, Logan O'Hoppe, Cole Fontenelle, Jordyn Adams, Zach Neto,LAA
+2024-03-06b, Ehire Adrianza, Mickey Moniak, Luis Rengifo, Miguel Sano, Aaron Hicks, Jo Adell, Jake Marisnick, Chad Wallach, Kyren Paris,LAA
+2024-03-07, Mickey Moniak, Luis Rengifo, Matt Thaiss, Miguel Sano, Willie Calhoun, Jo Adell, Jason Martin, Kyren Paris, Livan Soto,LAA
+2024-03-08, Aaron Hicks, Ehire Adrianza, Mike Trout, Taylor Ward, Brandon Drury, Logan O'Hoppe, Miguel Sano, Cole Fontenelle, Livan Soto,LAA
+2024-03-09, Zach Neto, Nolan Schanuel, Mike Trout, Taylor Ward, Luis Rengifo, Matt Thaiss, Jake Marisnick, Willie Calhoun, Ehire Adrianza,LAA
+2024-03-10, Luis Rengifo, Nolan Schanuel, Mike Trout, Anthony Rendon, Aaron Hicks, Taylor Ward, Brandon Drury, Logan O'Hoppe, Zach Neto,LAA
+2024-03-11, Mickey Moniak, Nolan Schanuel, Anthony Rendon, Brandon Drury, Luis Rengifo, Logan O'Hoppe, Jo Adell, Willie Calhoun, Zach Neto,LAA
+2024-03-13, Luis Rengifo, Nolan Schanuel, Jake Marisnick, Taylor Ward, Logan O'Hoppe, Miguel Sano, Jo Adell, Cole Fontenelle, Livan Soto,LAA
+2024-03-14, Aaron Hicks, Nolan Schanuel, Luis Rengifo, Logan O'Hoppe, Miguel Sano, Mickey Moniak, Jake Marisnick, Willie Calhoun, Ehire Adrianza,LAA
+2024-03-16, Aaron Hicks, Luis Rengifo, Mike Trout, Anthony Rendon, Taylor Ward, Brandon Drury, Willie Calhoun, Logan O'Hoppe, Zach Neto,LAA
+2024-03-17, Luis Rengifo, Nolan Schanuel, Mike Trout, Anthony Rendon, Taylor Ward, Brandon Drury, Mickey Moniak, Logan O'Hoppe, Zach Neto,LAA
+2024-03-18, Aaron Hicks, Luis Rengifo, Miguel Sano, Taylor Ward, Mickey Moniak, Jo Adell, Zach Neto, Matt Thaiss, Livan Soto,LAA
+2024-03-19, Aaron Hicks, Luis Rengifo, Mike Trout, Anthony Rendon, Brandon Drury, Jo Adell, Miguel Sano, Logan O'Hoppe, Zach Neto,LAA
+2024-03-20a, Anthony Rendon, Aaron Hicks, Mike Trout, Taylor Ward, Brandon Drury, Matt Thaiss, Ehire Adrianza, Chad Wallach, Livan Soto,LAA
+2024-03-20b, Mickey Moniak, Jake Marisnick, Miguel Sano, Logan O'Hoppe, Jo Adell, Willie Calhoun, Cole Fontenelle, Jack Lopez, Zach Neto,LAA
+2024-03-22, Anthony Rendon, Aaron Hicks, Mike Trout, Taylor Ward, Brandon Drury, Mickey Moniak, Ehire Adrianza, Matt Thaiss, Zach Neto,LAA
+2024-03-23, Mickey Moniak, Sam Brown, Nolan Schanuel, Matt Thaiss, Jo Adell, Jack Lopez, Bryce Teodosio, Charles Leblanc, Livan Soto,LAA
+2024-03-24, Anthony Rendon, Aaron Hicks, Mike Trout, Taylor Ward, Brandon Drury, Mickey Moniak, Logan O'Hoppe, Luis Rengifo, Zach Neto,LAA
+2024-03-25, Anthony Rendon, Aaron Hicks, Mike Trout, Taylor Ward, Brandon Drury, Nolan Schanuel, Miguel Sano, Logan O'Hoppe, Zach Neto,LAA
+2024-03-26, Anthony Rendon, Aaron Hicks, Mike Trout, Taylor Ward, Brandon Drury, Nolan Schanuel, Miguel Sano, Logan O'Hoppe, Zach Neto,LAA
+2024-02-24, Chas McCormick, Mauricio Dubon, Victor Caratini, Jon Singleton, Jake Meyers, Corey Julks, David Hensley, Quincy Hamilton, Grae Kessinger,HOU
+2024-02-25a, Jose Altuve, Alex Bregman, Kyle Tucker, Jose Abreu, Yainer Diaz, Jeremy Pena, Trey Cabbage, Jacob Melton, Joey Loperfido,HOU
+2024-02-25b, Kenedy Corona, Victor Caratini, Will Wagner, Corey Julks, Pedro Leon, Chris Gittens, Shay Whitcomb, Dixon Machado, C.J. Stubbs,HOU
+2024-02-26, Chas McCormick, Trey Cabbage, Jake Meyers, Jon Singleton, David Hensley, Grae Kessinger, Dixon Machado, Jacob Melton, Cesar Salazar,HOU
+2024-02-27, Jose Altuve, Yordan Alvarez, Alex Bregman, Kyle Tucker, Jose Abreu, Yainer Diaz, Jeremy Pena, Corey Julks, Mauricio Dubon,HOU
+2024-02-28, Chas McCormick, Yainer Diaz, Jake Meyers, Jon Singleton, Victor Caratini, David Hensley, Joey Loperfido, Grae Kessinger, Dixon Machado,HOU
+2024-02-29, Jose Altuve, Yordan Alvarez, Alex Bregman, Kyle Tucker, Jose Abreu, Jeremy Pena, Victor Caratini, Mauricio Dubon, Cesar Salazar,HOU
+2024-03-01, Chas McCormick, Yainer Diaz, Jon Singleton, Jake Meyers, Trey Cabbage, David Hensley, Will Wagner, Grae Kessinger, Shay Whitcomb,HOU
+2024-03-02, Jose Altuve, Yordan Alvarez, Alex Bregman, Kyle Tucker, Jose Abreu, Chas McCormick, Jeremy Pena, Trey Cabbage, Victor Caratini,HOU
+2024-03-03, Jake Meyers, Yainer Diaz, Jon Singleton, Corey Julks, David Hensley, Will Wagner, Kenedy Corona, Shay Whitcomb, Grae Kessinger,HOU
+2024-03-05, Jose Altuve, Yordan Alvarez, Alex Bregman, Kyle Tucker, Jose Abreu, Yainer Diaz, Chas McCormick, Jeremy Pena, Jake Meyers,HOU
+2024-03-07, Jose Altuve, Yordan Alvarez, Alex Bregman, Kyle Tucker, Jose Abreu, Yainer Diaz, Chas McCormick, Jeremy Pena, Jake Meyers,HOU
+2024-03-08, Joey Loperfido, Corey Julks, Will Wagner, David Hensley, Trey Cabbage, Luke Berryhill, Grae Kessinger, Shay Whitcomb, Cesar Salazar,HOU
+2024-03-09, Jose Altuve, Yordan Alvarez, Alex Bregman, Kyle Tucker, Yainer Diaz, Jon Singleton, Chas McCormick, Victor Caratini, Jeremy Pena,HOU
+2024-03-10, Mauricio Dubon, Jake Meyers, Corey Julks, Trey Cabbage, Victor Caratini, David Hensley, Jacob Melton, Grae Kessinger, Shay Whitcomb,HOU
+2024-03-11, Jose Altuve, Yordan Alvarez, Alex Bregman, Kyle Tucker, Yainer Diaz, Jon Singleton, Chas McCormick, Jeremy Pena, Jake Meyers,HOU
+2024-03-12, Jose Altuve, Yordan Alvarez, Alex Bregman, Kyle Tucker, Chas McCormick, Jeremy Pena, Victor Caratini, Mauricio Dubon, Grae Kessinger,HOU
+2024-03-13, Trey Cabbage, Yainer Diaz, Corey Julks, Jon Singleton, Jake Meyers, Joey Loperfido, David Hensley, Grae Kessinger, Shay Whitcomb,HOU
+2024-03-14, Jose Altuve, Yordan Alvarez, Alex Bregman, Kyle Tucker, Chas McCormick, Jon Singleton, Jeremy Pena, Victor Caratini, Jake Meyers,HOU
+2024-03-15, Mauricio Dubon, Yordan Alvarez, Alex Bregman, Yainer Diaz, Corey Julks, Joey Loperfido, David Hensley, Quincy Hamilton, Grae Kessinger,HOU
+2024-03-16, Jose Altuve, Kyle Tucker, Chas McCormick, Jake Meyers, Corey Julks, Jon Singleton, Victor Caratini, Will Wagner, Shay Whitcomb,HOU
+2024-03-17, Mauricio Dubon, Yordan Alvarez, Alex Bregman, Yainer Diaz, Jose Abreu, Corey Julks, David Hensley, Shay Whitcomb, Grae Kessinger,HOU
+2024-03-18a, Jose Altuve, Kyle Tucker, Alex Bregman, Chas McCormick, Joey Loperfido, Jeremy Pena, Jon Singleton, Victor Caratini, Shay Whitcomb,HOU
+2024-03-18b, Mauricio Dubon, Yordan Alvarez, Jake Meyers, Corey Julks, Will Wagner, David Hensley, Trey Cabbage, Grae Kessinger, Cesar Salazar,HOU
+2024-03-19, Jose Altuve, Kyle Tucker, Alex Bregman, Jose Abreu, Yainer Diaz, Chas McCormick, Jon Singleton, Jake Meyers, Jeremy Pena,HOU
+2024-03-21, Jose Altuve, Yordan Alvarez, Kyle Tucker, Alex Bregman, Jose Abreu, Chas McCormick, Yainer Diaz, Jake Meyers, Jeremy Pena,HOU
+2024-03-23, Jose Altuve, Yordan Alvarez, Kyle Tucker, Alex Bregman, Jose Abreu, Chas McCormick, Yainer Diaz, Jeremy Pena, Jake Meyers,HOU
+2024-03-24, Mauricio Dubon, Victor Caratini, Joey Loperfido, Corey Julks, Jon Singleton, Will Wagner, Pedro Leon, Jacob Melton, Shay Whitcomb,HOU
+2024-02-24, Esteury Ruiz, Zack Gelof, Seth Brown, Brent Rooker, Shea Langeliers, JJ Bleday, Aledmys Diaz, Abraham Toro, Nick Allen,OAK
+2024-02-25, Lawrence Butler, Zack Gelof, Ryan Noda, Miguel Andujar, Tyler Soderstrom, Jordan Diaz, Darell Hernaiz, Daz Cameron, Max Schuemann,OAK
+2024-02-26, Esteury Ruiz, Miguel Andujar, Shea Langeliers, Brent Rooker, Aledmys Diaz, Ryan Noda, Jordan Diaz, Abraham Toro, Nick Allen,OAK
+2024-02-27, JJ Bleday, Zack Gelof, Brent Rooker, Seth Brown, Lawrence Butler, Abraham Toro, Nick Allen, Darell Hernaiz, Yohel Pozo,OAK
+2024-02-28, Ryan Noda, Zack Gelof, JJ Bleday, Miguel Andujar, Seth Brown, Shea Langeliers, Jordan Diaz, Esteury Ruiz, Darell Hernaiz,OAK
+2024-02-29, Ryan Noda, Zack Gelof, Brent Rooker, Miguel Andujar, Lawrence Butler, Abraham Toro, Carlos Perez, Nick Allen, Darell Hernaiz,OAK
+2024-03-01, Esteury Ruiz, Jordan Diaz, Brent Rooker, Shea Langeliers, Abraham Toro, JJ Bleday, Nick Allen, Yohel Pozo, Brett Harris,OAK
+2024-03-02, Ryan Noda, Zack Gelof, Seth Brown, Miguel Andujar, Lawrence Butler, Tyler Soderstrom, Jordan Diaz, Kyle McCann, Darell Hernaiz,OAK
+2024-03-03, JJ Bleday, Zack Gelof, Brent Rooker, Seth Brown, Miguel Andujar, Shea Langeliers, Abraham Toro, Esteury Ruiz, Max Muncy,OAK
+2024-03-04, Esteury Ruiz, Darell Hernaiz, JJ Bleday, Shea Langeliers, Ryan Noda, Abraham Toro, Lawrence Butler, Max Schuemann, Tyler Soderstrom,OAK
+2024-03-06, Esteury Ruiz, Zack Gelof, JJ Bleday, Brent Rooker, Miguel Andujar, Shea Langeliers, Ryan Noda, Abraham Toro, Darell Hernaiz,OAK
+2024-03-08a, JJ Bleday, Shea Langeliers, Ryan Noda, Brent Rooker, Abraham Toro, Carlos Perez, Jordan Diaz, Daz Cameron, Max Schuemann,OAK
+2024-03-08b, Esteury Ruiz, Zack Gelof, Lawrence Butler, Miguel Andujar, Tyler Soderstrom, Darell Hernaiz, Kyle McCann, Drew Lugbauer, Brett Harris,OAK
+2024-03-09a, JJ Bleday, Shea Langeliers, Ryan Noda, Brent Rooker, Jordan Diaz, Carlos Perez, Max Schuemann, Lazaro Armenteros, Jacob Wilson,OAK
+2024-03-09b, Cooper Bowman, Lawrence Butler, Tyler Soderstrom, Yohel Pozo, Hoy Park, Max Muncy, Armando Alvarez, Logan Davidson, Jeisson Rosario,OAK
+2024-03-10, Esteury Ruiz, Zack Gelof, Ryan Noda, Brent Rooker, Miguel Andujar, Lawrence Butler, Shea Langeliers, Abraham Toro, Darell Hernaiz,OAK
+2024-03-11, Esteury Ruiz, Zack Gelof, JJ Bleday, Miguel Andujar, Tyler Soderstrom, Abraham Toro, Darell Hernaiz, Hoy Park, Max Schuemann,OAK
+2024-03-12, Lawrence Butler, Zack Gelof, JJ Bleday, Brent Rooker, Miguel Andujar, Shea Langeliers, Ryan Noda, Darell Hernaiz, Max Muncy,OAK
+2024-03-13, Esteury Ruiz, Tyler Soderstrom, Abraham Toro, Carlos Perez, Lawrence Butler, Armando Alvarez, Daz Cameron, Stephen Piscotty, Max Schuemann,OAK
+2024-03-14, Esteury Ruiz, Zack Gelof, Carlos Perez, Brent Rooker, Shea Langeliers, JJ Bleday, Abraham Toro, Ryan Noda, Darell Hernaiz,OAK
+2024-03-16a, Ryan Noda, Miguel Andujar, JJ Bleday, Seth Brown, Brent Rooker, Abraham Toro, Tyler Soderstrom, Max Schuemann, Max Muncy,OAK
+2024-03-16b, Esteury Ruiz, Zack Gelof, Lawrence Butler, Shea Langeliers, Carlos Perez, Darell Hernaiz, Armando Alvarez, Daz Cameron, Hoy Park,OAK
+2024-03-17, Lawrence Butler, Zack Gelof, Seth Brown, Miguel Andujar, JJ Bleday, J.D. Davis, Ryan Noda, Shea Langeliers, Darell Hernaiz,OAK
+2024-03-18, Nick Allen, J.D. Davis, Seth Brown, Brent Rooker, Abraham Toro, Esteury Ruiz, Kyle McCann, Logan Davidson, Hoy Park,OAK
+2024-03-19, Ryan Noda, Zack Gelof, JJ Bleday, Brent Rooker, Miguel Andujar, Lawrence Butler, Shea Langeliers, Abraham Toro, Darell Hernaiz,OAK
+2024-03-20, Ryan Noda, Zack Gelof, Seth Brown, Brent Rooker, J.D. Davis, Shea Langeliers, Lawrence Butler, Esteury Ruiz, Nick Allen,OAK
+2024-03-22a, Nick Allen, Lawrence Butler, Ryan Noda, Carlos Perez, Kyle McCann, Esteury Ruiz, Darell Hernaiz, Hoy Park, Cooper Bowman,OAK
+2024-03-22b, JJ Bleday, Zack Gelof, Brent Rooker, Shea Langeliers, Seth Brown, J.D. Davis, Abraham Toro, Max Schuemann, Max Muncy,OAK
+2024-03-23, Nick Allen, Darell Hernaiz, J.D. Davis, Carlos Perez, Abraham Toro, Ryan Noda, Lawrence Butler, Esteury Ruiz, Hoy Park,OAK
+2024-03-25, Ryan Noda, Zack Gelof, JJ Bleday, Brent Rooker, Seth Brown, J.D. Davis, Shea Langeliers, Lawrence Butler, Nick Allen,OAK
+2024-03-26, Ryan Noda, J.D. Davis, Seth Brown, Lawrence Butler, Abraham Toro, Nick Allen, Darell Hernaiz, Esteury Ruiz, Carlos Perez,OAK
+2024-02-24, Santiago Espinal, Bo Bichette, Justin Turner, Danny Jansen, Daulton Varsho, Isiah Kiner-Falefa, Spencer Horwitz, Nathan Lukes, Cam Eden,TOR
+2024-02-25, Ernie Clement, Eduardo Escobar, Alejandro Kirk, Daniel Vogelbach, Davis Schneider, Addison Barger, Orelvis Martinez, Damiano Palmegiani, Steward Berroa,TOR
+2024-02-26, Bo Bichette, Vladimir Guerrero Jr., Justin Turner, Danny Jansen, Daulton Varsho, Isiah Kiner-Falefa, Santiago Espinal, Nathan Lukes, Cam Eden,TOR
+2024-02-27, Ernie Clement, Eduardo Escobar, Alejandro Kirk, Daniel Vogelbach, Spencer Horwitz, Orelvis Martinez, Alan Roden, Rafael Lantigua, Will Robertson,TOR
+2024-02-28, Bo Bichette, Vladimir Guerrero Jr., Justin Turner, Danny Jansen, Daulton Varsho, Davis Schneider, Santiago Espinal, Nathan Lukes, Cam Eden,TOR
+2024-02-29, George Springer, Vladimir Guerrero Jr., Alejandro Kirk, Kevin Kiermaier, Eduardo Escobar, Spencer Horwitz, Isiah Kiner-Falefa, Leo Jimenez, Alan Roden,TOR
+2024-03-01, Santiago Espinal, Daulton Varsho, Davis Schneider, Daniel Vogelbach, Ernie Clement, Nathan Lukes, Alan Roden, Brian Serven, Andres Sosa,TOR
+2024-03-02, George Springer, Vladimir Guerrero Jr., Justin Turner, Bo Bichette, Danny Jansen, Kevin Kiermaier, Isiah Kiner-Falefa, Eduardo Escobar, Will Robertson,TOR
+2024-03-03, Ernie Clement, Alejandro Kirk, Daniel Vogelbach, Davis Schneider, Santiago Espinal, Spencer Horwitz, Addison Barger, Alan Roden, Cam Eden,TOR
+2024-03-04, George Springer, Bo Bichette, Vladimir Guerrero Jr., Justin Turner, Kevin Kiermaier, Daulton Varsho, Isiah Kiner-Falefa, Eduardo Escobar, Payton Henry,TOR
+2024-03-05, Daulton Varsho, Bo Bichette, Vladimir Guerrero Jr., Justin Turner, Alejandro Kirk, Davis Schneider, Santiago Espinal, Eduardo Escobar, Nathan Lukes,TOR
+2024-03-07, George Springer, Cavan Biggio, Daniel Vogelbach, Danny Jansen, Kevin Kiermaier, Daulton Varsho, Isiah Kiner-Falefa, Eduardo Escobar, Spencer Horwitz,TOR
+2024-03-08, Bo Bichette, Nathan Lukes, Justin Turner, Alejandro Kirk, Daniel Vogelbach, Davis Schneider, Santiago Espinal, Addison Barger, Alan Roden,TOR
+2024-03-09, George Springer, Bo Bichette, Vladimir Guerrero Jr., Justin Turner, Daulton Varsho, Danny Jansen, Kevin Kiermaier, Isiah Kiner-Falefa, Cavan Biggio,TOR
+2024-03-10a, Ernie Clement, Nathan Lukes, Davis Schneider, Spencer Horwitz, Eduardo Escobar, Addison Barger, Brian Serven, Alan Roden, Phil Clarke,TOR
+2024-03-10b, George Springer, Bo Bichette, Justin Turner, Daulton Varsho, Alejandro Kirk, Kevin Kiermaier, Isiah Kiner-Falefa, Santiago Espinal, Luis De Los Santos,TOR
+2024-03-11, Cavan Biggio, Danny Jansen, Daniel Vogelbach, Davis Schneider, Nathan Lukes, Eduardo Escobar, Spencer Horwitz, Ernie Clement, Cavan Biggio,TOR
+2024-03-12, George Springer, Bo Bichette, Justin Turner, Daulton Varsho, Alejandro Kirk, Kevin Kiermaier, Isiah Kiner-Falefa, Santiago Espinal, Spencer Horwitz,TOR
+2024-03-13, George Springer, Bo Bichette, Vladimir Guerrero Jr., Justin Turner, Daulton Varsho, Danny Jansen, Kevin Kiermaier, Isiah Kiner-Falefa, Cavan Biggio,TOR
+2024-03-14, Santiago Espinal, Daniel Vogelbach, Ernie Clement, Davis Schneider, Nathan Lukes, Eduardo Escobar, Spencer Horwitz, Brian Serven, Alan Roden,TOR
+2024-03-15, George Springer, Bo Bichette, Vladimir Guerrero Jr., Justin Turner, Daulton Varsho, Alejandro Kirk, Kevin Kiermaier, Isiah Kiner-Falefa, Cavan Biggio,TOR
+2024-03-16, George Springer, Bo Bichette, Justin Turner, Daulton Varsho, Kevin Kiermaier, Isiah Kiner-Falefa, Cavan Biggio, Ernie Clement, Payton Henry,TOR
+2024-03-17a, George Springer, Bo Bichette, Vladimir Guerrero Jr., Justin Turner, Daulton Varsho, Kevin Kiermaier, Isiah Kiner-Falefa, Cavan Biggio, Brian Serven,TOR
+2024-03-17b, Ernie Clement, Joey Votto, Alejandro Kirk, Daniel Vogelbach, Davis Schneider, Santiago Espinal, Nathan Lukes, Eduardo Escobar, Alan Roden,TOR
+2024-03-19, George Springer, Vladimir Guerrero Jr., Bo Bichette, Justin Turner, Daulton Varsho, Alejandro Kirk, Kevin Kiermaier, Isiah Kiner-Falefa, Cavan Biggio,TOR
+2024-03-20, Ernie Clement, Vladimir Guerrero Jr., Daulton Varsho, Daniel Vogelbach, Davis Schneider, Isiah Kiner-Falefa, Eduardo Escobar, Nathan Lukes, Brian Serven,TOR
+2024-03-21, George Springer, Bo Bichette, Justin Turner, Alejandro Kirk, Kevin Kiermaier, Cavan Biggio, Davis Schneider, Spencer Horwitz, Rafael Lantigua,TOR
+2024-03-22, Daulton Varsho, Vladimir Guerrero Jr., Ernie Clement, Daniel Vogelbach, Isiah Kiner-Falefa, Nathan Lukes, Brian Serven, Addison Barger, Will Robertson,TOR
+2024-03-23a, Ernie Clement, Nathan Lukes, Davis Schneider, Daniel Vogelbach, Spencer Horwitz, Payton Henry, Rafael Lantigua, Jeffrey Wehler, Garrett Spain,TOR
+2024-03-23b, George Springer, Vladimir Guerrero Jr., Bo Bichette, Justin Turner, Daulton Varsho, Alejandro Kirk, Devonte Brown, Isiah Kiner-Falefa, Cavan Biggio,TOR
+2024-03-24, George Springer, Vladimir Guerrero Jr., Bo Bichette, Justin Turner, Daulton Varsho, Alejandro Kirk, Kevin Kiermaier, Isiah Kiner-Falefa, Cavan Biggio,TOR
+2024-03-25, George Springer, Bo Bichette, Justin Turner, Davis Schneider, Kevin Kiermaier, Isiah Kiner-Falefa, Cavan Biggio, Brian Serven, Damiano Palmegiani,TOR
+2024-02-24, Michael Harris II, David Fletcher, Marcell Ozuna, Phillip Evans, Jarred Kelenic, Chadwick Tromp, Luis Guillorme, Nacho Alvarez Jr., Forrest Wall,ATL
+2024-02-25, Ronald Acuna Jr., Ozzie Albies, Austin Riley, Matt Olson, Marcell Ozuna, Sean Murphy, Orlando Arcia, Jordan Luplow, Eli White,ATL
+2024-02-26, Ronald Acuna Jr., Ozzie Albies, Austin Riley, Matt Olson, Marcell Ozuna, Michael Harris II, Travis d'Arnaud, Jarred Kelenic, Orlando Arcia,ATL
+2024-02-27, J.P. Martinez, David Fletcher, Sean Murphy, Jordan Luplow, Eli White, Phillip Evans, Luke Williams, Andrew Velazquez, Ryan Casteel,ATL
+2024-02-28, Michael Harris II, Luis Guillorme, Jarred Kelenic, Jordan Luplow, Eli White, Chadwick Tromp, Phillip Evans, Luke Williams, Alejo Lopez,ATL
+2024-02-29a, Forrest Wall, Jarred Kelenic, Marcell Ozuna, Travis d'Arnaud, David Fletcher, Phillip Evans, Andrew Velazquez, Luis Liberato, Luke Waddell,ATL
+2024-02-29b, Ronald Acuna Jr., Ozzie Albies, Austin Riley, Matt Olson, Sean Murphy, Michael Harris II, Orlando Arcia, Jordan Luplow, Eli White,ATL
+2024-03-01, Luis Liberato, Jarred Kelenic, Austin Riley, Matt Olson, Marcell Ozuna, Forrest Wall, David Fletcher, Chadwick Tromp, Luke Waddell,ATL
+2024-03-02, Ozzie Albies, Orlando Arcia, Travis d'Arnaud, Jordan Luplow, Luis Liberato, Eli White, Leury Garcia, Luke Williams, J.P. Martinez,ATL
+2024-03-03, Michael Harris II, Ozzie Albies, Austin Riley, Matt Olson, Marcell Ozuna, Jarred Kelenic, Orlando Arcia, Forrest Wall, Chadwick Tromp,ATL
+2024-03-04, Michael Harris II, Jarred Kelenic, Austin Riley, Matt Olson, Jordan Luplow, Drake Baldwin, David Fletcher, Andrew Velazquez, Leury Garcia,ATL
+2024-03-05, Forrest Wall, Ozzie Albies, Orlando Arcia, Marcell Ozuna, Travis d'Arnaud, Eli White, David Fletcher, Luis Liberato, J.P. Martinez,ATL
+2024-03-07, Michael Harris II, Jarred Kelenic, Austin Riley, Matt Olson, Marcell Ozuna, Jordan Luplow, Chadwick Tromp, David Fletcher, Andrew Velazquez,ATL
+2024-03-08, Michael Harris II, Ozzie Albies, Sean Murphy, Marcell Ozuna, Jarred Kelenic, Orlando Arcia, Eli White, Forrest Wall, David Fletcher,ATL
+2024-03-09, Ozzie Albies, Austin Riley, Matt Olson, Marcell Ozuna, Travis d'Arnaud, Orlando Arcia, Jordan Luplow, Eli White, Luis Liberato,ATL
+2024-03-10, Michael Harris II, David Fletcher, Jarred Kelenic, Sean Murphy, Nacho Alvarez Jr., Forrest Wall, Luke Williams, Luis Liberato, Luis Liberato,ATL
+2024-03-11, Michael Harris II, Ozzie Albies, Matt Olson, Marcell Ozuna, Travis d'Arnaud, Orlando Arcia, Jordan Luplow, Eli White, Luke Williams,ATL
+2024-03-12, Forrest Wall, Luis Guillorme, Sean Murphy, Jarred Kelenic, Eli White, Jordan Luplow, David Fletcher, Luke Williams, Andrew Velazquez,ATL
+2024-03-13, Michael Harris II, Ozzie Albies, Matt Olson, Travis d'Arnaud, Jarred Kelenic, Orlando Arcia, Luis Guillorme, Jordan Luplow, Eli White,ATL
+2024-03-14, Ronald Acuna Jr., Austin Riley, Sean Murphy, Marcell Ozuna, Forrest Wall, Eli White, Luke Williams, David Fletcher, Andrew Velazquez,ATL
+2024-03-15, Michael Harris II, Ozzie Albies, Matt Olson, Orlando Arcia, Jarred Kelenic, Chadwick Tromp, Luis Guillorme, Eli White, Drake Baldwin,ATL
+2024-03-16, Michael Harris II, Ozzie Albies, Austin Riley, Matt Olson, Marcell Ozuna, Travis d'Arnaud, Orlando Arcia, Jarred Kelenic, Forrest Wall,ATL
+2024-03-17a, Forrest Wall, Austin Riley, Sean Murphy, Marcell Ozuna, Luis Guillorme, Eli White, Luke Williams, Andrew Velazquez, Phillip Evans,ATL
+2024-03-17b, Ronald Acuna Jr., Ozzie Albies, Michael Harris II, Matt Olson, Orlando Arcia, Jarred Kelenic, David Fletcher, Chadwick Tromp, Drake Baldwin,ATL
+2024-03-18, Ronald Acuna Jr., Luis Guillorme, Austin Riley, Travis d'Arnaud, David Fletcher, Forrest Wall, Eli White, Luke Williams, Andrew Velazquez,ATL
+2024-03-20, Ronald Acuna Jr., Ozzie Albies, Austin Riley, Matt Olson, Marcell Ozuna, Michael Harris II, Sean Murphy, Orlando Arcia, Jarred Kelenic,ATL
+2024-03-21, Ronald Acuna Jr., Ozzie Albies, Austin Riley, Matt Olson, Marcell Ozuna, Michael Harris II, Sean Murphy, Orlando Arcia, Jarred Kelenic,ATL
+2024-03-23, Ronald Acuna Jr., Ozzie Albies, Austin Riley, Matt Olson, Marcell Ozuna, Michael Harris II, Travis d'Arnaud, Adam Duvall, Orlando Arcia,ATL
+2024-03-24, Ronald Acuna Jr., Ozzie Albies, Austin Riley, Matt Olson, Marcell Ozuna, Michael Harris II, Sean Murphy, Orlando Arcia, Jarred Kelenic,ATL
+2024-03-25, Ozzie Albies, Austin Riley, Adam Duvall, Matt Olson, Marcell Ozuna, Travis d'Arnaud, Jarred Kelenic, Orlando Arcia, Forrest Wall,ATL
+2024-03-26, Ronald Acuna Jr., Ozzie Albies, Austin Riley, Matt Olson, Marcell Ozuna, Michael Harris II, Nick Clarno, Orlando Arcia, Jarred Kelenic,ATL
+2024-02-24, Sal Frelick, Jackson Chourio, Tyler Black, Joey Wiemer, Blake Perkins, Brice Turang, Eric Haase, Oliver Dunn, Wes Clarke,MIL
+2024-02-25, Garrett Mitchell, William Contreras, Tyler Black, Willy Adames, Jake Bauers, Oliver Dunn, Owen Miller, Blake Perkins, Chris Roller,MIL
+2024-02-26, Sal Frelick, William Contreras, Jackson Chourio, Joey Wiemer, Joey Ortiz, Andruw Monasterio, Owen Miller, Owen Miller, Eric Haase,MIL
+2024-02-27, Garrett Mitchell, Sal Frelick, Willy Adames, Tyler Black, Joey Wiemer, Blake Perkins, Brice Turang, Oliver Dunn, Jeferson Quero,MIL
+2024-02-28, Garrett Mitchell, William Contreras, Jake Bauers, Willy Adames, Jackson Chourio, Christian Arroyo, Blake Perkins, Andruw Monasterio, Vinny Capra,MIL
+2024-02-29, Sal Frelick, Jackson Chourio, Tyler Black, Joey Wiemer, Brice Turang, Joey Ortiz, Oliver Dunn, Eric Haase, Brock Wilken,MIL
+2024-03-01, Garrett Mitchell, William Contreras, Christian Yelich, Rhys Hoskins, Willy Adames, Tyler Black, Christian Arroyo, Brice Turang, Blake Perkins,MIL
+2024-03-02, Sal Frelick, William Contreras, Oliver Dunn, Joey Wiemer, Jackson Chourio, Owen Miller, Joey Ortiz, Andruw Monasterio, Eric Haase,MIL
+2024-03-03, Jackson Chourio, Christian Yelich, Willy Adames, Rhys Hoskins, Garrett Mitchell, Christian Arroyo, Brice Turang, Joey Wiemer, Jeferson Quero,MIL
+2024-03-05, Sal Frelick, William Contreras, Willy Adames, Rhys Hoskins, Jake Bauers, Jackson Chourio, Brice Turang, Joey Ortiz, Blake Perkins,MIL
+2024-03-06a, Jackson Chourio, Andruw Monasterio, Tyler Black, Christian Arroyo, Owen Miller, Blake Perkins, Joey Ortiz, Jeferson Quero, Chris Roller,MIL
+2024-03-06b, Garrett Mitchell, William Contreras, Christian Yelich, Jake Bauers, Sal Frelick, Joey Wiemer, Brice Turang, Brice Turang, Oliver Dunn,MIL
+2024-03-07, Andruw Monasterio, Rhys Hoskins, Joey Wiemer, Wes Clarke, Jeferson Quero, Vinny Capra, Brewer Hicklen, Yonny Hernandez, Luis Lara,MIL
+2024-03-08a, Garrett Mitchell, William Contreras, Christian Yelich, Rhys Hoskins, Christian Arroyo, Brice Turang, Andruw Monasterio, Owen Miller, Luis Lara,MIL
+2024-03-08b, Jackson Chourio, Sal Frelick, Jake Bauers, Oliver Dunn, Joey Ortiz, Tyler Black, Joey Wiemer, Eric Haase, Yonny Hernandez,MIL
+2024-03-09a, Owen Miller, William Contreras, Gary Sanchez, Christian Arroyo, Wes Clarke, Vinny Capra, Luis Lara, Dylan O'Rae, Hedbert Perez,MIL
+2024-03-09b, Jackson Chourio, Oliver Dunn, Brock Wilken, Joey Ortiz, Jeferson Quero, Brewer Hicklen, Ernesto Martinez Jr., Chris Roller, Eric Brown Jr.,MIL
+2024-03-10, Garrett Mitchell, Rhys Hoskins, Christian Yelich, Willy Adames, Gary Sanchez, Sal Frelick, Eric Haase, Brice Turang, Joey Wiemer,MIL
+2024-03-12, Garrett Mitchell, William Contreras, Christian Yelich, Rhys Hoskins, Willy Adames, Jake Bauers, Jackson Chourio, Brice Turang, Joey Ortiz,MIL
+2024-03-13, Sal Frelick, William Contreras, Gary Sanchez, Tyler Black, Joey Wiemer, Andruw Monasterio, Owen Miller, Brewer Hicklen, Luis Lara,MIL
+2024-03-14, Jackson Chourio, Oliver Dunn, Gary Sanchez, Jake Bauers, Andruw Monasterio, Eric Haase, Brewer Hicklen, Yonny Hernandez, Chris Roller,MIL
+2024-03-16a, Andruw Monasterio, Tyler Black, Gary Sanchez, Jake Bauers, Oliver Dunn, Vinny Capra, Brewer Hicklen, Chris Roller, Chavez Young,MIL
+2024-03-16b, Sal Frelick, William Contreras, Christian Yelich, Rhys Hoskins, Willy Adames, Jackson Chourio, Brice Turang, Joey Wiemer, Joey Ortiz,MIL
+2024-03-17, Garrett Mitchell, Gary Sanchez, Jake Bauers, Joey Wiemer, Eric Haase, Oliver Dunn, Owen Miller, Andruw Monasterio, Blake Perkins,MIL
+2024-03-18, Garrett Mitchell, William Contreras, Christian Yelich, Rhys Hoskins, Willy Adames, Sal Frelick, Joey Wiemer, Brice Turang, Jackson Chourio,MIL
+2024-03-19, Garrett Mitchell, Rhys Hoskins, Jake Bauers, Willy Adames, Gary Sanchez, Sal Frelick, Blake Perkins, Joey Ortiz, Andruw Monasterio,MIL
+2024-03-21, Garrett Mitchell, William Contreras, Rhys Hoskins, Willy Adames, Sal Frelick, Jackson Chourio, Jake Bauers, Joey Wiemer, Brice Turang,MIL
+2024-03-22a, Andruw Monasterio, William Contreras, Jake Bauers, Gary Sanchez, Joey Wiemer, Joey Ortiz, Vinny Capra, Brewer Hicklen, Chavez Young,MIL
+2024-03-22b, Garrett Mitchell, Rhys Hoskins, Christian Yelich, Willy Adames, Sal Frelick, Jackson Chourio, Eric Haase, Brice Turang, Blake Perkins,MIL
+2024-03-23, Jackson Chourio, Gary Sanchez, Jake Bauers, Eric Haase, Blake Perkins, Joey Wiemer, Joey Ortiz, Oliver Dunn, Andruw Monasterio,MIL
+2024-03-24, Sal Frelick, Rhys Hoskins, Christian Yelich, Willy Adames, Gary Sanchez, Blake Perkins, Brice Turang, Andruw Monasterio, Luis Lara,MIL
+2024-03-25, Sal Frelick, William Contreras, Christian Yelich, Rhys Hoskins, Willy Adames, Gary Sanchez, Jackson Chourio, Joey Ortiz, Carlos D. Rodriguez,MIL
+2024-03-26, Yophery Rodriguez, Luis Lara, Brock Wilken, Wes Clarke, Eric Brown Jr., Ethan Murray, Matthew Wood, Carlos D. Rodriguez, Ernesto Martinez Jr.,MIL
+2024-02-24a, Dylan Carlson, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Willson Contreras, Willson Contreras, Matt Carpenter, Alec Burleson, Jose Fermin,STL
+2024-02-24b, Brendan Donovan, Lars Nootbaar, Jordan Walker, Ivan Herrera, Luken Baker, Alfonso Rivas III, Buddy Kennedy, Victor Scott II, Arquimedes Gamboa,STL
+2024-02-25, Masyn Winn, Alec Burleson, Luken Baker, Alfonso Rivas III, Thomas Saggese, Jared Young, Buddy Kennedy, Pedro Pages, Victor Scott II,STL
+2024-02-26, Dylan Carlson, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Jordan Walker, Alfonso Rivas III, Ivan Herrera, Jeremy Rivas, Michael Siani,STL
+2024-02-27, Brendan Donovan, Paul Goldschmidt, Lars Nootbaar, Nolan Arenado, Willson Contreras, Jordan Walker, Masyn Winn, Thomas Saggese, Victor Scott II,STL
+2024-02-28, Dylan Carlson, Alec Burleson, Nolan Gorman, Luken Baker, Alfonso Rivas III, Jared Young, Pedro Pages, Jose Fermin, Arquimedes Gamboa,STL
+2024-02-29, Brendan Donovan, Paul Goldschmidt, Lars Nootbaar, Nolan Arenado, Matt Carpenter, Jordan Walker, Masyn Winn, Victor Scott II, Nick Raposo,STL
+2024-03-01, Dylan Carlson, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Willson Contreras, Matt Carpenter, Jordan Walker, Alec Burleson, Jose Fermin,STL
+2024-03-02, Brendan Donovan, Lars Nootbaar, Alec Burleson, Luken Baker, Dylan Carlson, Masyn Winn, Victor Scott II, Pedro Pages, Jose Fermin,STL
+2024-03-04, Brendan Donovan, Jordan Walker, Nolan Gorman, Nolan Arenado, Willson Contreras, Matt Carpenter, Alec Burleson, Masyn Winn, Victor Scott II,STL
+2024-03-05, Brendan Donovan, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Jordan Walker, Dylan Carlson, Ivan Herrera, Masyn Winn, Michael Siani,STL
+2024-03-07, Brendan Donovan, Paul Goldschmidt, Matt Carpenter, Nolan Arenado, Willson Contreras, Jordan Walker, Alec Burleson, Dylan Carlson, Masyn Winn,STL
+2024-03-08, Victor Scott II, Jordan Walker, Nolan Gorman, Ivan Herrera, Alec Burleson, Luken Baker, Thomas Saggese, Jose Fermin, Michael Siani,STL
+2024-03-09, Brendan Donovan, Paul Goldschmidt, Brandon Crawford, Nolan Arenado, Willson Contreras, Dylan Carlson, Alfonso Rivas III, Jared Young, Arquimedes Gamboa,STL
+2024-03-10, Victor Scott II, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Matt Carpenter, Jordan Walker, Alec Burleson, Ivan Herrera, Masyn Winn,STL
+2024-03-11, Brendan Donovan, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Willson Contreras, Brandon Crawford, Dylan Carlson, Jared Young, Michael Siani,STL
+2024-03-12, Victor Scott II, Masyn Winn, Alec Burleson, Jordan Walker, Ivan Herrera, Thomas Saggese, Alfonso Rivas III, Jose Fermin, Pedro Pages,STL
+2024-03-13, Victor Scott II, Dylan Carlson, Nolan Gorman, Jordan Walker, Alec Burleson, Ivan Herrera, Masyn Winn, Thomas Saggese, Jared Young,STL
+2024-03-14, Brendan Donovan, Paul Goldschmidt, Brandon Crawford, Nolan Arenado, Willson Contreras, Matt Carpenter, Dylan Carlson, Michael Siani, Jose Fermin,STL
+2024-03-15, Michael Siani, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Alec Burleson, Ivan Herrera, Jordan Walker, Luken Baker, Jose Fermin,STL
+2024-03-16, Dylan Carlson, Masyn Winn, Matt Carpenter, Willson Contreras, Brandon Crawford, Thomas Saggese, Cesar Prieto, Jared Young, Matt Koperniak,STL
+2024-03-17, Dylan Carlson, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Willson Contreras, Brandon Crawford, Matt Carpenter, Jordan Walker, Alec Burleson,STL
+2024-03-19a, Brendan Donovan, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Willson Contreras, Dylan Carlson, Victor Scott II, Jose Fermin, Matt Koperniak,STL
+2024-03-19b, Masyn Winn, Jordan Walker, Alec Burleson, Ivan Herrera, Thomas Saggese, Cesar Prieto, Luken Baker, Alfonso Rivas III, Michael Siani,STL
+2024-03-20, Victor Scott II, Dylan Carlson, Matt Carpenter, Willson Contreras, Alec Burleson, Thomas Saggese, Alfonso Rivas III, Jose Fermin, Cesar Prieto,STL
+2024-03-21, Brendan Donovan, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Alec Burleson, Ivan Herrera, Jordan Walker, Dylan Carlson, Masyn Winn,STL
+2024-03-23, Brendan Donovan, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Willson Contreras, Matt Carpenter, Jordan Walker, Dylan Carlson, Masyn Winn,STL
+2024-03-24, Brendan Donovan, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Alec Burleson, Ivan Herrera, Jordan Walker, Michael Siani, Masyn Winn,STL
+2024-03-25, Brendan Donovan, Paul Goldschmidt, Nolan Gorman, Nolan Arenado, Willson Contreras, Dylan Carlson, Ivan Herrera, Jordan Walker, Masyn Winn,STL
+2024-03-26, Brendan Donovan, Paul Goldschmidt, Nolan Arenado, Nolan Gorman, Willson Contreras, Jordan Walker, Alec Burleson, Brandon Crawford, Michael Siani,STL
+2024-02-23, Ian Happ, Christopher Morel, Miguel Amaya, Matt Mervis, Alexander Canario, Pete Crow-Armstrong, Luis Vazquez, Joe Hudson, Matt Shaw,CHC
+2024-02-24, Mike Tauchman, Nick Madrigal, Patrick Wisdom, Matt Mervis, Jorge Alfaro, Miles Mastrobuoni, Kevin Alcantara, Brennen Davis, Matt Shaw,CHC
+2024-02-25, Nico Hoerner, Ian Happ, Dansby Swanson, Christopher Morel, Yan Gomes, Patrick Wisdom, Matt Mervis, Alexander Canario, Pete Crow-Armstrong,CHC
+2024-02-26, Mike Tauchman, Seiya Suzuki, Michael Busch, Miguel Amaya, Nick Madrigal, Jorge Alfaro, Miles Mastrobuoni, Luis Vazquez, Owen Caissie,CHC
+2024-02-27, Ian Happ, Dansby Swanson, Christopher Morel, Nico Hoerner, Mike Tauchman, Yan Gomes, Patrick Wisdom, Alexander Canario, James Triantos,CHC
+2024-02-28, Miles Mastrobuoni, Seiya Suzuki, Michael Busch, Nick Madrigal, Alexander Canario, Pete Crow-Armstrong, Matt Shaw, Owen Caissie, Pablo Aliendo,CHC
+2024-02-29, Ian Happ, Dansby Swanson, Christopher Morel, Nico Hoerner, Mike Tauchman, Jorge Alfaro, Matt Mervis, Alexander Canario, Pablo Aliendo,CHC
+2024-03-01, Nick Madrigal, Seiya Suzuki, Michael Busch, Yan Gomes, Miles Mastrobuoni, Matt Shaw, Pete Crow-Armstrong, Owen Caissie, David Bote,CHC
+2024-03-02, Nico Hoerner, Dansby Swanson, Christopher Morel, Mike Tauchman, Miguel Amaya, Matt Mervis, Alexander Canario, Owen Caissie, Moises Ballesteros,CHC
+2024-03-03, Mike Tauchman, Seiya Suzuki, Dansby Swanson, Michael Busch, Yan Gomes, Nick Madrigal, Miles Mastrobuoni, Joe Hudson, Luis Vazquez,CHC
+2024-03-04, Nico Hoerner, Dominic Smith, Christopher Morel, Garrett Cooper, Nick Madrigal, Miguel Amaya, Owen Caissie, Alexander Canario, Pete Crow-Armstrong,CHC
+2024-03-05, Miles Mastrobuoni, Garrett Cooper, Michael Busch, Alexander Canario, Matt Shaw, Pete Crow-Armstrong, Kevin Alcantara, Joe Hudson, Luis Vazquez,CHC
+2024-03-06, Nico Hoerner, Seiya Suzuki, Cody Bellinger, Christopher Morel, Dansby Swanson, Mike Tauchman, Yan Gomes, Dominic Smith, Miles Mastrobuoni,CHC
+2024-03-07, Owen Caissie, Garrett Cooper, Michael Busch, Jorge Alfaro, Alexander Canario, Pete Crow-Armstrong, David Bote, Matt Shaw, Luis Vazquez,CHC
+2024-03-08a, Nico Hoerner, Seiya Suzuki, Cody Bellinger, Dansby Swanson, Garrett Cooper, Dominic Smith, Yan Gomes, Alexander Canario, Matt Shaw,CHC
+2024-03-08b, Mike Tauchman, Christopher Morel, Michael Busch, Miguel Amaya, Miles Mastrobuoni, David Bote, Owen Caissie, Moises Ballesteros, Brett Bateman,CHC
+2024-03-09, Nico Hoerner, Seiya Suzuki, Cody Bellinger, Dansby Swanson, Dominic Smith, Yan Gomes, Patrick Wisdom, Garrett Cooper, Alexander Canario,CHC
+2024-03-10, Mike Tauchman, Alexander Canario, Christopher Morel, Michael Busch, Miguel Amaya, Miles Mastrobuoni, Jorge Alfaro, David Bote, Chase Strumpf,CHC
+2024-03-12, Mike Tauchman, Seiya Suzuki, Cody Bellinger, Christopher Morel, Dansby Swanson, Michael Busch, Nico Hoerner, David Peralta, Yan Gomes,CHC
+2024-03-13, Miles Mastrobuoni, Garrett Cooper, Dominic Smith, Patrick Wisdom, Miguel Amaya, Alexander Canario, Owen Caissie, Matt Shaw, Pete Crow-Armstrong,CHC
+2024-03-14, Nico Hoerner, Seiya Suzuki, Cody Bellinger, Christopher Morel, Dansby Swanson, Michael Busch, Mike Tauchman, Yan Gomes, David Peralta,CHC
+2024-03-15, Miles Mastrobuoni, Dansby Swanson, Dominic Smith, Garrett Cooper, Matt Mervis, Miguel Amaya, Alexander Canario, David Bote, Brennen Davis,CHC
+2024-03-16a, Nico Hoerner, Seiya Suzuki, Cody Bellinger, Yan Gomes, Michael Busch, Miles Mastrobuoni, David Bote, Matt Mervis, Owen Caissie,CHC
+2024-03-16b, Mike Tauchman, Garrett Cooper, Dominic Smith, Christopher Morel, David Peralta, Alexander Canario, Joe Hudson, Matt Shaw, Luis Vazquez,CHC
+2024-03-17, Ian Happ, Seiya Suzuki, Cody Bellinger, Christopher Morel, Dansby Swanson, Michael Busch, Nico Hoerner, Mike Tauchman, Miguel Amaya,CHC
+2024-03-19, Nico Hoerner, Seiya Suzuki, Cody Bellinger, Christopher Morel, Dansby Swanson, Ian Happ, Yan Gomes, Michael Busch, Dominic Smith,CHC
+2024-03-20, Mike Tauchman, Nico Hoerner, Cody Bellinger, Garrett Cooper, David Peralta, Miguel Amaya, Miles Mastrobuoni, Alexander Canario, David Bote,CHC
+2024-03-21, Ian Happ, Dansby Swanson, Michael Busch, Christopher Morel, Dominic Smith, Garrett Cooper, Yan Gomes, Miles Mastrobuoni, Alexander Canario,CHC
+2024-03-22a, Miles Mastrobuoni, Nico Hoerner, Cody Bellinger, Yan Gomes, Michael Busch, Alexander Canario, Kevin Alcantara, Luis Vazquez, Cole Roederer,CHC
+2024-03-22b, Mike Tauchman, Seiya Suzuki, Christopher Morel, Dansby Swanson, David Peralta, Miguel Amaya, Matt Mervis, Matt Shaw, Owen Caissie,CHC
+2024-03-23, Nico Hoerner, Seiya Suzuki, Cody Bellinger, Christopher Morel, Dansby Swanson, Michael Busch, Yan Gomes, Mike Tauchman, Miguel Amaya,CHC
+2024-03-24, Nick Madrigal, Michael Busch, Garrett Cooper, David Peralta, Miguel Amaya, Miles Mastrobuoni, Alexander Canario, Owen Caissie, Luis Vazquez,CHC
+2024-03-25, Ian Happ, Seiya Suzuki, Cody Bellinger, Christopher Morel, Dansby Swanson, Nico Hoerner, Michael Busch, Yan Gomes, Mike Tauchman,CHC
+2024-03-26, Ian Happ, Nico Hoerner, Cody Bellinger, Christopher Morel, Dansby Swanson, Miguel Amaya, Mike Tauchman, Garrett Cooper, Miles Mastrobuoni,CHC
+2024-02-23, Ketel Marte, Jake McCarthy, Gabriel Moreno, Christian Walker, Joc Pederson, Eugenio Suarez, Geraldo Perdomo, Ivan Melendez, Jorge Barrosa,AZ
+2024-02-24, Corbin Carroll, Alek Thomas, Lourdes Gurriel Jr., Jace Peterson, Jordan Lawlar, Jose Herrera, Ivan Melendez, Tristin English, Corbin Carroll,AZ
+2024-02-25, Ketel Marte, Jake McCarthy, Joc Pederson, Christian Walker, Pavin Smith, Eugenio Suarez, Geraldo Perdomo, Tucker Barnhart, Jorge Barrosa,AZ
+2024-02-26, Corbin Carroll, Jordan Lawlar, Gabriel Moreno, Lourdes Gurriel Jr., Jace Peterson, Emmanuel Rivera, Andres Chaparro, Ivan Melendez, Kristian Robinson,AZ
+2024-02-27, Ketel Marte, Jake McCarthy, Pavin Smith, Christian Walker, Eugenio Suarez, Geraldo Perdomo, Jose Herrera, A.J. Vukovich, Jorge Barrosa,AZ
+2024-02-28, Corbin Carroll, Emmanuel Rivera, Lourdes Gurriel Jr., Pavin Smith, Jordan Lawlar, Kevin Newman, Tucker Barnhart, Kyle Garlick, Jorge Barrosa,AZ
+2024-02-29, Ketel Marte, Jake McCarthy, Gabriel Moreno, Christian Walker, Geraldo Perdomo, Blaze Alexander, A.J. Vukovich, Albert Almora Jr., Tristin English,AZ
+2024-03-01, Corbin Carroll, Geraldo Perdomo, Lourdes Gurriel Jr., Pavin Smith, Emmanuel Rivera, Jake McCarthy, Jose Herrera, Kyle Garlick, Blaze Alexander,AZ
+2024-03-02, Ketel Marte, Jordan Lawlar, Joc Pederson, Andres Chaparro, Tucker Barnhart, Kevin Newman, Albert Almora Jr., Tristin English, Jorge Barrosa,AZ
+2024-03-03, Corbin Carroll, Geraldo Perdomo, Gabriel Moreno, Lourdes Gurriel Jr., Pavin Smith, Emmanuel Rivera, Jake McCarthy, Kyle Garlick, Blaze Alexander,AZ
+2024-03-04, Ketel Marte, Jace Peterson, Joc Pederson, Kyle Garlick, Jose Herrera, Jordan Lawlar, Andres Chaparro, Albert Almora Jr., Jorge Barrosa,AZ
+2024-03-05, Corbin Carroll, Ketel Marte, Lourdes Gurriel Jr., Joc Pederson, Eugenio Suarez, Pavin Smith, Alek Thomas, Geraldo Perdomo, Tucker Barnhart,AZ
+2024-03-07, Alek Thomas, Jake McCarthy, Gabriel Moreno, Christian Walker, Jace Peterson, Emmanuel Rivera, Blaze Alexander, Kevin Newman, Albert Almora Jr.,AZ
+2024-03-08, Corbin Carroll, Ketel Marte, Lourdes Gurriel Jr., Joc Pederson, Eugenio Suarez, Jake McCarthy, Pavin Smith, Geraldo Perdomo, Jose Herrera,AZ
+2024-03-09a, Corbin Carroll, Ketel Marte, Gabriel Moreno, Christian Walker, Joc Pederson, Eugenio Suarez, Jordan Lawlar, Blaze Alexander, Jorge Barrosa,AZ
+2024-03-09b, Alek Thomas, Emmanuel Rivera, Pavin Smith, Andres Chaparro, Jace Peterson, Kevin Newman, Kyle Garlick, Albert Almora Jr., Tucker Barnhart,AZ
+2024-03-10, Geraldo Perdomo, Elvis Andrus, Lourdes Gurriel Jr., Emmanuel Rivera, Jake McCarthy, Kyle Garlick, Albert Almora Jr., Blaze Alexander, Jose Herrera,AZ
+2024-03-11, Corbin Carroll, Ketel Marte, Gabriel Moreno, Christian Walker, Joc Pederson, Lourdes Gurriel Jr., Eugenio Suarez, Alek Thomas, Geraldo Perdomo,AZ
+2024-03-12, Jake McCarthy, Pavin Smith, Elvis Andrus, Jace Peterson, Emmanuel Rivera, Blaze Alexander, Kyle Garlick, Albert Almora Jr., Tucker Barnhart,AZ
+2024-03-13, Corbin Carroll, Ketel Marte, Lourdes Gurriel Jr., Christian Walker, Joc Pederson, Eugenio Suarez, Jace Peterson, Alek Thomas, Jose Herrera,AZ
+2024-03-14, Corbin Carroll, Ketel Marte, Lourdes Gurriel Jr., Christian Walker, Eugenio Suarez, Alek Thomas, Emmanuel Rivera, Pavin Smith, Tucker Barnhart,AZ
+2024-03-16, Ketel Marte, Corbin Carroll, Lourdes Gurriel Jr., Emmanuel Rivera, Pavin Smith, Elvis Andrus, Alek Thomas, Blaze Alexander, Tucker Barnhart,AZ
+2024-03-17a, Jake McCarthy, Elvis Andrus, Pavin Smith, Emmanuel Rivera, Jace Peterson, Kyle Garlick, Kevin Newman, Jose Herrera, Jack Hurley,AZ
+2024-03-17b, Ketel Marte, Corbin Carroll, Lourdes Gurriel Jr., Christian Walker, Joc Pederson, Eugenio Suarez, Alek Thomas, Blaze Alexander, Tucker Barnhart,AZ
+2024-03-18, Jake McCarthy, Gabriel Moreno, Joc Pederson, Christian Walker, Eugenio Suarez, Jace Peterson, Kevin Newman, Albert Almora Jr., Jose Fernandez,AZ
+2024-03-19, Corbin Carroll, Geraldo Perdomo, Lourdes Gurriel Jr., Emmanuel Rivera, Elvis Andrus, Pavin Smith, Alek Thomas, Blaze Alexander, Jose Herrera,AZ
+2024-03-20, Corbin Carroll, Ketel Marte, Lourdes Gurriel Jr., Christian Walker, Joc Pederson, Gabriel Moreno, Eugenio Suarez, Emmanuel Rivera, Alek Thomas,AZ
+2024-03-22, Corbin Carroll, Ketel Marte, Lourdes Gurriel Jr., Christian Walker, Joc Pederson, Gabriel Moreno, Eugenio Suarez, Alek Thomas, Geraldo Perdomo,AZ
+2024-03-23a, Ketel Marte, Geraldo Perdomo, Gabriel Moreno, Christian Walker, Joc Pederson, Eugenio Suarez, Jake McCarthy, Albert Almora Jr., Neyfy Castillo,AZ
+2024-03-23b, Corbin Carroll, Blaze Alexander, Lourdes Gurriel Jr., Jace Peterson, Emmanuel Rivera, Alek Thomas, Kevin Newman, Jose Herrera, Gavin Conticello,AZ
+2024-03-24, Jake McCarthy, Blaze Alexander, Jace Peterson, Emmanuel Rivera, Tucker Barnhart, Cristofer Torin, Albert Almora Jr., Jackson Feltner, Jakey Josepha,AZ
+2024-03-25, Corbin Carroll, Ketel Marte, Lourdes Gurriel Jr., Christian Walker, Joc Pederson, Gabriel Moreno, Eugenio Suarez, Alek Thomas, Geraldo Perdomo,AZ
+2024-03-26, Corbin Carroll, Ketel Marte, Lourdes Gurriel Jr., Christian Walker, Joc Pederson, Eugenio Suarez, Alek Thomas, Tucker Barnhart, Geraldo Perdomo,AZ
+2024-02-22, Mookie Betts, Chris Taylor, James Outman, Teoscar Hernandez, Austin Barnes, Gavin Lux, Chris Owings, Andy Pages, Kevin Padlo,LAD
+2024-02-23, Miguel Rojas, Freddie Freeman, Will Smith, Max Muncy, Manuel Margot, Miguel Vargas, Chris Owings, Dalton Rushing, Jose Ramos,LAD
+2024-02-24, Mookie Betts, James Outman, Chris Taylor, Teoscar Hernandez, Austin Barnes, Gavin Lux, Andy Pages, Trey Sweeney, Kevin Padlo,LAD
+2024-02-25, Manuel Margot, Freddie Freeman, Will Smith, Chris Taylor, Max Muncy, Jason Heyward, Miguel Rojas, James Outman, Miguel Vargas,LAD
+2024-02-26, Mookie Betts, Freddie Freeman, Teoscar Hernandez, Austin Barnes, Gavin Lux, Miguel Vargas, Chris Owings, Andy Pages, Jose Ramos,LAD
+2024-02-27, Mookie Betts, Shohei Ohtani, Freddie Freeman, Will Smith, Max Muncy, Teoscar Hernandez, Jason Heyward, Miguel Rojas, Jose Ramos,LAD
+2024-02-28, Chris Taylor, Gavin Lux, Max Muncy, Austin Barnes, James Outman, Miguel Vargas, Kevin Padlo, Drew Avans, Andy Pages,LAD
+2024-02-29, Mookie Betts, Jason Heyward, Will Smith, Teoscar Hernandez, James Outman, Chris Taylor, Gavin Lux, Chris Owings, Kevin Padlo,LAD
+2024-03-01, Mookie Betts, Shohei Ohtani, Freddie Freeman, Enrique Hernandez, Jason Heyward, Austin Barnes, Miguel Rojas, Miguel Vargas, Chris Owings,LAD
+2024-03-02a, Gavin Lux, Enrique Hernandez, James Outman, Chris Taylor, Austin Barnes, Chris Owings, Miguel Vargas, Jose Ramos, Kevin Padlo,LAD
+2024-03-02b, Miguel Rojas, Freddie Freeman, Will Smith, Max Muncy, Teoscar Hernandez, Andy Pages, Ryan Ward, Austin Gauthier, Drew Avans,LAD
+2024-03-03, Mookie Betts, Shohei Ohtani, Freddie Freeman, Will Smith, Max Muncy, Teoscar Hernandez, Jason Heyward, Gavin Lux, Andy Pages,LAD
+2024-03-05, Mookie Betts, Shohei Ohtani, Freddie Freeman, Teoscar Hernandez, Max Muncy, Jason Heyward, Enrique Hernandez, Miguel Rojas, Chris Okey,LAD
+2024-03-06, Mookie Betts, Shohei Ohtani, Freddie Freeman, Chris Taylor, Max Muncy, James Outman, Gavin Lux, Austin Barnes, Andy Pages,LAD
+2024-03-09, Mookie Betts, Freddie Freeman, Will Smith, Max Muncy, James Outman, Chris Taylor, Enrique Hernandez, Miguel Rojas, Miguel Vargas,LAD
+2024-03-10, Mookie Betts, Shohei Ohtani, Freddie Freeman, Will Smith, Jason Heyward, Teoscar Hernandez, James Outman, Chris Taylor, Gavin Lux,LAD
+2024-03-11, Gavin Lux, Enrique Hernandez, James Outman, Teoscar Hernandez, Chris Taylor, Austin Barnes, Miguel Vargas, Chris Owings, Kevin Padlo,LAD
+2024-03-12, Mookie Betts, Shohei Ohtani, Freddie Freeman, Will Smith, Jason Heyward, Teoscar Hernandez, Enrique Hernandez, Miguel Rojas, Chris Owings,LAD
+2024-03-13, Mookie Betts, Shohei Ohtani, Freddie Freeman, Chris Taylor, Jason Heyward, James Outman, Austin Barnes, Gavin Lux, Chris Owings,LAD
+2024-03-24, Mookie Betts, Shohei Ohtani, Freddie Freeman, Will Smith, Max Muncy, Teoscar Hernandez, James Outman, Jason Heyward, Gavin Lux,LAD
+2024-03-25, Mookie Betts, Shohei Ohtani, Freddie Freeman, Will Smith, Max Muncy, Teoscar Hernandez, Enrique Hernandez, Chris Taylor, Miguel Rojas,LAD
+2024-03-26, Mookie Betts, Shohei Ohtani, Freddie Freeman, Will Smith, Max Muncy, Teoscar Hernandez, James Outman, Chris Taylor, Gavin Lux,LAD
+2024-02-24, Austin Slater, Wilmer Flores, Michael Conforto, J.D. Davis, Thairo Estrada, Patrick Bailey, Heliot Ramos, Casey Schmitt, Luis Matos,SF
+2024-02-25, Tyler Fitzgerald, Tom Murphy, LaMonte Wade Jr., David Villar, Pablo Sandoval, Heliot Ramos, Wade Meckler, Luis Matos, Donovan Walton,SF
+2024-02-26, Thairo Estrada, Wilmer Flores, Michael Conforto, Jorge Soler, J.D. Davis, Tyler Fitzgerald, Joey Bart, Wade Meckler, Chase Pinder,SF
+2024-02-27, Jung Hoo Lee, Thairo Estrada, LaMonte Wade Jr., Jorge Soler, Wilmer Flores, Patrick Bailey, Casey Schmitt, Heliot Ramos, Luis Matos,SF
+2024-02-28, LaMonte Wade Jr., Tyler Fitzgerald, Mike Yastrzemski, J.D. Davis, Tom Murphy, Wade Meckler, Yusniel Diaz, Donovan Walton, Luis Matos,SF
+2024-02-29, Jung Hoo Lee, Marco Luciano, Michael Conforto, David Villar, Pablo Sandoval, Joey Bart, Casey Schmitt, Brett Wisely, Heliot Ramos,SF
+2024-03-01, Jung Hoo Lee, Thairo Estrada, Michael Conforto, Jorge Soler, Wilmer Flores, J.D. Davis, Nick Ahmed, Luis Matos, Jung Hoo Lee,SF
+2024-03-02, LaMonte Wade Jr., Thairo Estrada, Wilmer Flores, Jorge Soler, Marco Luciano, Wade Meckler, Tom Murphy, Heliot Ramos, Grant McCray,SF
+2024-03-03, Jung Hoo Lee, Marco Luciano, LaMonte Wade Jr., J.D. Davis, Luis Matos, Blake Sabol, Joey Bart, Nick Ahmed, Donovan Walton,SF
+2024-03-04, Jung Hoo Lee, Mike Yastrzemski, Michael Conforto, J.D. Davis, Patrick Bailey, David Villar, Pablo Sandoval, Nick Ahmed, Brett Wisely,SF
+2024-03-05, LaMonte Wade Jr., Thairo Estrada, Michael Conforto, Jorge Soler, Wilmer Flores, Tom Murphy, Wade Meckler, Marco Luciano, Luis Matos,SF
+2024-03-09, Jung Hoo Lee, Austin Slater, Wilmer Flores, Jorge Soler, Matt Chapman, Thairo Estrada, Tom Murphy, Nick Ahmed, Luis Matos,SF
+2024-03-10a, Austin Slater, Mike Yastrzemski, Michael Conforto, Jorge Soler, Matt Chapman, Wilmer Flores, Thairo Estrada, Nick Ahmed, Joey Bart,SF
+2024-03-10b, Jung Hoo Lee, Marco Luciano, LaMonte Wade Jr., Patrick Bailey, Luis Matos, David Villar, Casey Schmitt, Heliot Ramos, Tyler Fitzgerald,SF
+2024-03-11, Tyler Fitzgerald, Marco Luciano, Tom Murphy, Luis Matos, Casey Schmitt, David Villar, Joey Bart, Wade Meckler, Otto Lopez,SF
+2024-03-12, Jung Hoo Lee, Thairo Estrada, LaMonte Wade Jr., Matt Chapman, Mike Yastrzemski, Patrick Bailey, Austin Slater, Yoshi Tsutsugo, Nick Ahmed,SF
+2024-03-13, Jung Hoo Lee, Wilmer Flores, Michael Conforto, Jorge Soler, Matt Chapman, Mike Yastrzemski, Thairo Estrada, Tom Murphy, Nick Ahmed,SF
+2024-03-16a, Austin Slater, Tyler Fitzgerald, LaMonte Wade Jr., David Villar, Marco Luciano, Casey Schmitt, Joey Bart, Ismael Munguia, Chase Pinder,SF
+2024-03-16b, Mike Yastrzemski, Wilmer Flores, Michael Conforto, Jorge Soler, Matt Chapman, Thairo Estrada, Tom Murphy, Nick Ahmed, Luis Matos,SF
+2024-03-17, Mike Yastrzemski, Jorge Soler, Michael Conforto, Matt Chapman, Wilmer Flores, Thairo Estrada, Austin Slater, Tom Murphy, Nick Ahmed,SF
+2024-03-18, Tyler Fitzgerald, Luis Matos, LaMonte Wade Jr., David Villar, Marco Luciano, Casey Schmitt, Joey Bart, Ismael Munguia, Wade Meckler,SF
+2024-03-19, Mike Yastrzemski, Wilmer Flores, Michael Conforto, Jorge Soler, Matt Chapman, Thairo Estrada, Luis Matos, Nick Ahmed, Tom Murphy,SF
+2024-03-20, Jung Hoo Lee, Matt Chapman, Michael Conforto, Jorge Soler, Thairo Estrada, Patrick Bailey, Mike Yastrzemski, Nick Ahmed, LaMonte Wade Jr.,SF
+2024-03-21, Tyler Fitzgerald, Marco Luciano, Luis Matos, Patrick Bailey, Tom Murphy, Blake Sabol, Jimmy Glowenke, Trenton Brooks, Ismael Munguia,SF
+2024-03-22a, Ismael Munguia, Tom Murphy, Wilmer Flores, Luis Matos, Joey Bart, Marco Luciano, Tyler Fitzgerald, Pablo Sandoval, Blake Sabol,SF
+2024-03-22b, Jung Hoo Lee, Jorge Soler, LaMonte Wade Jr., Matt Chapman, Michael Conforto, Thairo Estrada, Mike Yastrzemski, Patrick Bailey, Nick Ahmed,SF
+2024-03-23, Marco Luciano, Michael Conforto, Wilmer Flores, Jorge Soler, Tom Murphy, Tyler Fitzgerald, Pablo Sandoval, Victor Bericoto, Ismael Munguia,SF
+2024-03-25, Jung Hoo Lee, Austin Slater, Wilmer Flores, Jorge Soler, Matt Chapman, Tom Murphy, Michael Conforto, Thairo Estrada, Marco Luciano,SF
+2024-03-26, Jung Hoo Lee, Matt Chapman, LaMonte Wade Jr., Jorge Soler, Michael Conforto, Thairo Estrada, Mike Yastrzemski, Patrick Bailey, Nick Ahmed,SF
+2024-02-24, Steven Kwan, Andres Gimenez, Jose Ramirez, Josh Naylor, Ramon Laureano, Deyvison De Los Santos, Bo Naylor, Brayan Rocchio, Myles Straw,CLE
+2024-02-25, Estevan Florial, Tyler Freeman, Will Brennan, Gabriel Arias, Austin Hedges, David Fry, Kyle Manzardo, Jhonkensy Noel, Jose Tena,CLE
+2024-02-26, Steven Kwan, Myles Straw, Andres Gimenez, Josh Naylor, Ramon Laureano, David Fry, Tyler Freeman, Juan Brito, Dom Nunez,CLE
+2024-02-27, Myles Straw, Estevan Florial, Jose Ramirez, Jhonkensy Noel, Will Brennan, Gabriel Arias, Brayan Rocchio, Jose Tena, Dom Nunez,CLE
+2024-02-28, Steven Kwan, Ramon Laureano, Jose Ramirez, Josh Naylor, Gabriel Arias, Andres Gimenez, Austin Hedges, Deyvison De Los Santos, Tyler Freeman,CLE
+2024-02-29, Estevan Florial, Tyler Freeman, Will Brennan, David Fry, Brayan Rocchio, Jhonkensy Noel, Chase DeLauter, Johnathan Rodriguez, Juan Brito,CLE
+2024-03-01, Steven Kwan, Jose Ramirez, Josh Naylor, Ramon Laureano, Andres Gimenez, Gabriel Arias, Will Brennan, Austin Hedges, David Fry,CLE
+2024-03-02, Brayan Rocchio, Tyler Freeman, Estevan Florial, Jhonkensy Noel, Kyle Manzardo, Johnathan Rodriguez, Angel Martinez, Dom Nunez, Daniel Schneemann,CLE
+2024-03-03a, Steven Kwan, Andres Gimenez, Jose Ramirez, Josh Naylor, Ramon Laureano, Gabriel Arias, Estevan Florial, David Fry, Jose Tena,CLE
+2024-03-03b, Brayan Rocchio, Tyler Freeman, Will Brennan, Deyvison De Los Santos, Austin Hedges, Jhonkensy Noel, Angel Martinez, Johnathan Rodriguez, Juan Brito,CLE
+2024-03-05, Estevan Florial, Jose Ramirez, Josh Naylor, Ramon Laureano, Will Brennan, Gabriel Arias, Austin Hedges, Jhonkensy Noel, Juan Brito,CLE
+2024-03-06, Steven Kwan, Andres Gimenez, Tyler Freeman, Bo Naylor, Brayan Rocchio, Kyle Manzardo, Deyvison De Los Santos, Chase DeLauter, Angel Martinez,CLE
+2024-03-08, Steven Kwan, Tyler Freeman, Jose Ramirez, Josh Naylor, Andres Gimenez, Bo Naylor, Will Brennan, Gabriel Arias, Brayan Rocchio,CLE
+2024-03-09, Tyler Freeman, Andres Gimenez, Jose Ramirez, Josh Naylor, Ramon Laureano, Estevan Florial, Austin Hedges, Jhonkensy Noel, Dom Nunez,CLE
+2024-03-10, Steven Kwan, Myles Straw, Bo Naylor, Estevan Florial, Brayan Rocchio, Will Brennan, Angel Martinez, Deyvison De Los Santos, Jose Tena,CLE
+2024-03-11, Steven Kwan, Ramon Laureano, Jose Ramirez, Josh Naylor, Tyler Freeman, Andres Gimenez, David Fry, Deyvison De Los Santos, Angel Martinez,CLE
+2024-03-12, Myles Straw, Estevan Florial, Bo Naylor, David Fry, Chase DeLauter, Brayan Rocchio, Kyle Manzardo, Daniel Schneemann, Jose Tena,CLE
+2024-03-13, Steven Kwan, Jose Ramirez, Ramon Laureano, Josh Naylor, Tyler Freeman, Andres Gimenez, Austin Hedges, Bo Naylor, Angel Martinez,CLE
+2024-03-14, Estevan Florial, Ramon Laureano, Josh Naylor, David Fry, Will Brennan, Brayan Rocchio, Myles Straw, Daniel Schneemann, Jose Tena,CLE
+2024-03-15, Steven Kwan, Andres Gimenez, Jose Ramirez, Bo Naylor, Gabriel Arias, Kyle Manzardo, David Fry, Chase DeLauter, Deyvison De Los Santos,CLE
+2024-03-16, Brayan Rocchio, Myles Straw, Josh Naylor, Ramon Laureano, Will Brennan, Austin Hedges, Estevan Florial, Daniel Schneemann, Jose Tena,CLE
+2024-03-17, Steven Kwan, Andres Gimenez, Jose Ramirez, Josh Naylor, Ramon Laureano, Will Brennan, Bo Naylor, Gabriel Arias, Estevan Florial,CLE
+2024-03-18, Brayan Rocchio, Myles Straw, David Fry, Austin Hedges, Chase DeLauter, Gabriel Arias, Daniel Schneemann, Deyvison De Los Santos, Jose Tena,CLE
+2024-03-19a, Steven Kwan, Jose Ramirez, Josh Naylor, Ramon Laureano, Andres Gimenez, Bo Naylor, Myles Straw, Brayan Rocchio, Deyvison De Los Santos,CLE
+2024-03-19b, Estevan Florial, Gabriel Arias, Will Brennan, David Fry, Austin Hedges, Chase DeLauter, Daniel Schneemann, Jose Tena, Dom Nunez,CLE
+2024-03-21, Steven Kwan, Andres Gimenez, Jose Ramirez, Josh Naylor, Ramon Laureano, Will Brennan, Myles Straw, Bo Naylor, Gabriel Arias,CLE
+2024-03-22, Steven Kwan, Jose Ramirez, Ramon Laureano, Josh Naylor, Tyler Freeman, Andres Gimenez, Austin Hedges, Estevan Florial, Brayan Rocchio,CLE
+2024-03-23, Brayan Rocchio, Tyler Freeman, Bo Naylor, David Fry, Will Brennan, Gabriel Arias, Estevan Florial, Austin Hedges, Daniel Schneemann,CLE
+2024-03-24, Steven Kwan, Ramon Laureano, Jose Ramirez, Josh Naylor, Andres Gimenez, Will Brennan, Gabriel Arias, Estevan Florial, David Fry,CLE
+2024-03-25, Steven Kwan, Jose Ramirez, Ramon Laureano, Josh Naylor, David Fry, Tyler Freeman, Andres Gimenez, Andres Gimenez, Bo Naylor,CLE
+2024-03-26, Steven Kwan, Andres Gimenez, Josh Naylor, Ramon Laureano, Will Brennan, David Fry, Estevan Florial, Gabriel Arias, Brayan Rocchio,CLE
+2024-02-24, J.P. Crawford, Jorge Polanco, Mitch Garver, Ty France, Taylor Trammell, Josh Rojas, Seby Zavala, Cade Marlowe, Nick Solak,SEA
+2024-02-25, Ryan Bliss, Mitch Haniger, Cal Raleigh, Luke Raley, Dominic Canzone, Dylan Moore, Sam Haggerty, Samad Taylor, Michael Chavis,SEA
+2024-02-26, J.P. Crawford, Jorge Polanco, Ty France, Cade Marlowe, Luis Urias, Josh Rojas, Sam Haggerty, Taylor Trammell, Seby Zavala,SEA
+2024-02-27, Dylan Moore, Dominic Canzone, Mitch Garver, Luke Raley, Tyler Locklear, Harry Ford, Samad Taylor, Michael Chavis, Ryan Bliss,SEA
+2024-02-28, J.P. Crawford, Jorge Polanco, Mitch Haniger, Cal Raleigh, Ty France, Josh Rojas, Sam Haggerty, Cade Marlowe, Taylor Trammell,SEA
+2024-02-29, Dylan Moore, Dominic Canzone, Mitch Garver, Luke Raley, Luis Urias, Cade Marlowe, Brian Anderson, Samad Taylor, Jonatan Clase,SEA
+2024-03-01, Sam Haggerty, Jorge Polanco, Ty France, Michael Chavis, Josh Rojas, Ryan Bliss, Taylor Trammell, Seby Zavala, Nick Solak,SEA
+2024-03-02, J.P. Crawford, Julio Rodriguez, Cal Raleigh, Mitch Haniger, Luke Raley, Luis Urias, Dominic Canzone, Dylan Moore, Samad Taylor,SEA
+2024-03-03, Sam Haggerty, Jorge Polanco, Mitch Garver, Taylor Trammell, Josh Rojas, Jonatan Clase, Cade Marlowe, Blake Hunt, Ryan Bliss,SEA
+2024-03-05a, J.P. Crawford, Julio Rodriguez, Mitch Garver, Cal Raleigh, Mitch Haniger, Ty France, Luis Urias, Taylor Trammell, Sam Haggerty,SEA
+2024-03-05b, Dylan Moore, Jorge Polanco, Luke Raley, Dominic Canzone, Brian Anderson, Josh Rojas, Cade Marlowe, Seby Zavala, Jonatan Clase,SEA
+2024-03-06, Dylan Moore, Cal Raleigh, Ty France, Luke Raley, Brian Anderson, Josh Rojas, Ryan Bliss, Samad Taylor, Blake Hunt,SEA
+2024-03-07, J.P. Crawford, Julio Rodriguez, Jorge Polanco, Mitch Garver, Mitch Haniger, Dominic Canzone, Luis Urias, Seby Zavala, Michael Chavis,SEA
+2024-03-08, Samad Taylor, Cal Raleigh, Ty France, Dylan Moore, Luis Urias, Cade Marlowe, Brian Anderson, Ryan Bliss, Jonatan Clase,SEA
+2024-03-09, J.P. Crawford, Julio Rodriguez, Mitch Garver, Mitch Haniger, Dominic Canzone, Luke Raley, Seby Zavala, Cole Young, Brian Anderson,SEA
+2024-03-10, Dylan Moore, Jorge Polanco, Cal Raleigh, Ty France, Luke Raley, Josh Rojas, Samad Taylor, Taylor Trammell, Michael Papierski,SEA
+2024-03-11, J.P. Crawford, Julio Rodriguez, Jorge Polanco, Mitch Garver, Mitch Haniger, Dominic Canzone, Ty France, Luis Urias, Seby Zavala,SEA
+2024-03-12, Sam Haggerty, Dylan Moore, Cal Raleigh, Luis Urias, Dominic Canzone, Samad Taylor, Luke Raley, Jonatan Clase, Brian Anderson,SEA
+2024-03-13, J.P. Crawford, Julio Rodriguez, Jorge Polanco, Mitch Garver, Mitch Haniger, Ty France, Josh Rojas, Taylor Trammell, Seby Zavala,SEA
+2024-03-14, J.P. Crawford, Mitch Haniger, Cal Raleigh, Ty France, Dominic Canzone, Luis Urias, Luke Raley, Dylan Moore, Sam Haggerty,SEA
+2024-03-16a, J.P. Crawford, Julio Rodriguez, Jorge Polanco, Mitch Garver, Mitch Haniger, Dominic Canzone, Luke Raley, Josh Rojas, Michael Papierski,SEA
+2024-03-16b, Sam Haggerty, Ty France, Dylan Moore, Luis Urias, Brian Anderson, Taylor Trammell, Ryan Bliss, Seby Zavala, Jonatan Clase,SEA
+2024-03-17, Dylan Moore, Julio Rodriguez, Jorge Polanco, Mitch Garver, Cal Raleigh, Mitch Haniger, Ty France, Luis Urias, Samad Taylor,SEA
+2024-03-18, J.P. Crawford, Josh Rojas, Cal Raleigh, Dominic Canzone, Luke Raley, Seby Zavala, Cade Marlowe, Brian Anderson, Ryan Bliss,SEA
+2024-03-19, Dylan Moore, Julio Rodriguez, Jorge Polanco, Mitch Garver, Mitch Haniger, Dominic Canzone, Ty France, Luis Urias, Seby Zavala,SEA
+2024-03-21, J.P. Crawford, Julio Rodriguez, Jorge Polanco, Mitch Garver, Cal Raleigh, Mitch Haniger, Luke Raley, Dylan Moore, Josh Rojas,SEA
+2024-03-22a, J.P. Crawford, Julio Rodriguez, Jorge Polanco, Mitch Garver, Cal Raleigh, Mitch Haniger, Ty France, Luis Urias, Taylor Trammell,SEA
+2024-03-22b, Dylan Moore, Josh Rojas, Dominic Canzone, Luke Raley, Seby Zavala, Michael Papierski, Samad Taylor, Brock Rodden, Brock Rodden,SEA
+2024-03-23, Taylor Trammell, Ty France, Dominic Canzone, Luis Urias, Luke Raley, Brian Anderson, Seby Zavala, Leo Rivas, Morgan McCullough,SEA
+2024-03-24, J.P. Crawford, Julio Rodriguez, Jorge Polanco, Mitch Garver, Cal Raleigh, Mitch Haniger, Luke Raley, Dylan Moore, Josh Rojas,SEA
+2024-03-25, J.P. Crawford, Julio Rodriguez, Jorge Polanco, Mitch Garver, Cal Raleigh, Mitch Haniger, Dominic Canzone, Ty France, Luis Urias,SEA
+2024-03-26, J.P. Crawford, Julio Rodriguez, Dominic Canzone, Mitch Garver, Ty France, Luke Raley, Dylan Moore, Josh Rojas, Seby Zavala,SEA
+2024-02-24, Xavier Edwards, Josh Bell, Jake Burger, Bryan De La Cruz, Jesus Sanchez, Trey Mancini, Dane Myers, Nick Fortes, Vidal Brujan,MIA
+2024-02-25, Luis Arraez, Jon Berti, Nick Gordon, Jazz Chisholm Jr., Avisail Garcia, Trey Mancini, Christian Bethancourt, Jonah Bride, Jonathan Davis,MIA
+2024-02-26, Xavier Edwards, Josh Bell, Jake Burger, Jesus Sanchez, Bryan De La Cruz, Vidal Brujan, Dane Myers, Curt Casali, Nick Fortes,MIA
+2024-02-27, Luis Arraez, Jon Berti, Jazz Chisholm Jr., Avisail Garcia, Nick Gordon, Trey Mancini, Tristan Gray, Jonah Bride, Nick Fortes,MIA
+2024-02-28, Xavier Edwards, Jake Burger, Josh Bell, Jesus Sanchez, Bryan De La Cruz, Vidal Brujan, Christian Bethancourt, Christian Bethancourt, Dane Myers,MIA
+2024-02-29, Luis Arraez, Tim Anderson, Jazz Chisholm Jr., Nick Gordon, Avisail Garcia, Jon Berti, Dane Myers, Trey Mancini, Nick Fortes,MIA
+2024-03-01, Xavier Edwards, Jake Burger, Josh Bell, Bryan De La Cruz, Jesus Sanchez, Vidal Brujan, Christian Bethancourt, Tristan Gray, Jonathan Davis,MIA
+2024-03-02, Luis Arraez, Tim Anderson, Jazz Chisholm Jr., Avisail Garcia, Nick Gordon, Jon Berti, Trey Mancini, Nick Fortes, Curt Casali,MIA
+2024-03-04, Luis Arraez, Josh Bell, Jake Burger, Jazz Chisholm Jr., Tim Anderson, Avisail Garcia, Jesus Sanchez, Christian Bethancourt, Dane Myers,MIA
+2024-03-05, Vidal Brujan, Jon Berti, Bryan De La Cruz, Nick Gordon, Trey Mancini, Nick Fortes, Tristan Gray, Xavier Edwards, Jonah Bride,MIA
+2024-03-06, Luis Arraez, Tim Anderson, Jake Burger, Josh Bell, Avisail Garcia, Christian Bethancourt, Victor Mesa Jr., Marty Costes, Griffin Conine,MIA
+2024-03-08, Luis Arraez, Josh Bell, Jake Burger, Jazz Chisholm Jr., Tim Anderson, Jesus Sanchez, Avisail Garcia, Bryan De La Cruz, Christian Bethancourt,MIA
+2024-03-09, Jon Berti, Nick Gordon, Bryan De La Cruz, Vidal Brujan, Trey Mancini, Nick Fortes, Tristan Gray, Curt Casali, Curt Casali,MIA
+2024-03-10a, Vidal Brujan, Bryan De La Cruz, Jazz Chisholm Jr., Jesus Sanchez, Trey Mancini, Nick Gordon, Jonah Bride, Curt Casali, Jacob Amaya,MIA
+2024-03-10b, Luis Arraez, Josh Bell, Jake Burger, Tim Anderson, Dane Myers, Christian Bethancourt, Troy Johnston, Jonathan Davis, Victor Mesa Jr.,MIA
+2024-03-11, Luis Arraez, Josh Bell, Jake Burger, Jazz Chisholm Jr., Tim Anderson, Jesus Sanchez, Avisail Garcia, Jon Berti, Nick Fortes,MIA
+2024-03-12, Nick Gordon, Vidal Brujan, Bryan De La Cruz, Avisail Garcia, Dane Myers, Jon Berti, Trey Mancini, Christian Bethancourt, Nick Fortes,MIA
+2024-03-13, Luis Arraez, Josh Bell, Bryan De La Cruz, Jazz Chisholm Jr., Jake Burger, Tim Anderson, Jesus Sanchez, Nick Gordon, Christian Bethancourt,MIA
+2024-03-15, Luis Arraez, Tim Anderson, Josh Bell, Jake Burger, Jazz Chisholm Jr., Bryan De La Cruz, Avisail Garcia, Jon Berti, Christian Bethancourt,MIA
+2024-03-16, Luis Arraez, Tim Anderson, Josh Bell, Jake Burger, Jazz Chisholm Jr., Bryan De La Cruz, Jesus Sanchez, Nick Fortes, Nick Gordon,MIA
+2024-03-17, Jon Berti, Dane Myers, Jesus Sanchez, Avisail Garcia, Christian Bethancourt, Trey Mancini, Nick Fortes, Tristan Gray, Javier Sanoja,MIA
+2024-03-18, Luis Arraez, Josh Bell, Jake Burger, Jazz Chisholm Jr., Tim Anderson, Bryan De La Cruz, Avisail Garcia, Nick Gordon, Nick Fortes,MIA
+2024-03-19a, Luis Arraez, Josh Bell, Jake Burger, Jazz Chisholm Jr., Jesus Sanchez, Nick Gordon, Jon Berti, Christian Bethancourt, Yiddi Cappe,MIA
+2024-03-19b, Vidal Brujan, Dane Myers, Bryan De La Cruz, Nick Fortes, Trey Mancini, Tristan Gray, Javier Sanoja, Harrison Spohn, Cameron Barstad,MIA
+2024-03-20, Vidal Brujan, Nick Gordon, Jesus Sanchez, Avisail Garcia, Jon Berti, Dane Myers, Christian Bethancourt, Trey Mancini, Jonah Bride,MIA
+2024-03-23, Luis Arraez, Jesus Sanchez, Josh Bell, Jazz Chisholm Jr., Jake Burger, Tim Anderson, Bryan De La Cruz, Avisail Garcia, Christian Bethancourt,MIA
+2024-03-24, Luis Arraez, Josh Bell, Jazz Chisholm Jr., Jake Burger, Tim Anderson, Avisail Garcia, Nick Gordon, Jon Berti, Nick Fortes,MIA
+2024-02-24, DJ Stewart, Francisco Lindor, Pete Alonso, Brett Baty, Mark Vientos, Jose Iglesias, Trayce Thompson, Tomas Nido, Taylor Kohlwey,NYM
+2024-02-25, Tyrone Taylor, Francisco Alvarez, Ji Man Choi, Mark Vientos, Luke Voit, Ben Gamel, Zack Short, Yolmer Sanchez, Alex Ramirez,NYM
+2024-02-26, DJ Stewart, Francisco Lindor, Pete Alonso, Brett Baty, Trayce Thompson, Drew Gilbert, Luisangel Acuna, Tomas Nido, Taylor Kohlwey,NYM
+2024-02-27, Tyrone Taylor, Francisco Alvarez, Ji Man Choi, Mark Vientos, Luke Voit, Ben Gamel, Jose Iglesias, Rylan Bannon, Alex Ramirez,NYM
+2024-02-28, Starling Marte, Francisco Lindor, Pete Alonso, DJ Stewart, Mark Vientos, Brett Baty, Trayce Thompson, Yolmer Sanchez, Tomas Nido,NYM
+2024-02-29, DJ Stewart, Francisco Alvarez, Brett Baty, Luke Voit, Ji Man Choi, Tyrone Taylor, Jose Iglesias, Taylor Kohlwey, Zack Short,NYM
+2024-03-01, Starling Marte, Francisco Lindor, Pete Alonso, Ji Man Choi, Mark Vientos, Omar Narvaez, Trayce Thompson, Ben Gamel, Ben Gamel,NYM
+2024-03-02, DJ Stewart, Francisco Lindor, Pete Alonso, Francisco Alvarez, Brett Baty, Mark Vientos, Tyrone Taylor, Jose Iglesias, Taylor Kohlwey,NYM
+2024-03-03, Brandon Nimmo, Starling Marte, Brett Baty, Luke Voit, Ji Man Choi, Tyrone Taylor, Omar Narvaez, Rylan Bannon, Zack Short,NYM
+2024-03-05, Brandon Nimmo, Starling Marte, Francisco Lindor, Pete Alonso, Francisco Alvarez, Brett Baty, Harrison Bader, Mark Vientos, Zack Short,NYM
+2024-03-07, Brandon Nimmo, Francisco Lindor, Starling Marte, Pete Alonso, Brett Baty, Francisco Alvarez, Mark Vientos, Joey Wendle, Harrison Bader,NYM
+2024-03-08, Tyrone Taylor, DJ Stewart, Pete Alonso, Francisco Alvarez, Luke Voit, Trayce Thompson, Jose Iglesias, Zack Short, Yolmer Sanchez,NYM
+2024-03-09, Brandon Nimmo, Francisco Lindor, Starling Marte, Mark Vientos, Ji Man Choi, Brett Baty, Harrison Bader, Omar Narvaez, Joey Wendle,NYM
+2024-03-10, Tyrone Taylor, Francisco Lindor, Pete Alonso, Francisco Alvarez, DJ Stewart, Mark Vientos, Brett Baty, Zack Short, Ben Gamel,NYM
+2024-03-11, Brandon Nimmo, Francisco Lindor, Pete Alonso, Francisco Alvarez, Starling Marte, Brett Baty, Mark Vientos, Joey Wendle, Harrison Bader,NYM
+2024-03-12, Brandon Nimmo, Harrison Bader, Pete Alonso, Ji Man Choi, Starling Marte, Jose Iglesias, Omar Narvaez, Zack Short, Yolmer Sanchez,NYM
+2024-03-13, DJ Stewart, Francisco Lindor, Francisco Alvarez, Ji Man Choi, Starling Marte, Omar Narvaez, Mark Vientos, Joey Wendle, Tyrone Taylor,NYM
+2024-03-14, Brandon Nimmo, Francisco Lindor, Pete Alonso, Brett Baty, Harrison Bader, Luke Voit, Tyrone Taylor, Zack Short, Tomas Nido,NYM
+2024-03-15, DJ Stewart, Francisco Lindor, Brett Baty, Francisco Alvarez, Starling Marte, Ji Man Choi, Mark Vientos, Harrison Bader, Joey Wendle,NYM
+2024-03-16, Brandon Nimmo, Tyrone Taylor, Pete Alonso, DJ Stewart, Mark Vientos, Omar Narvaez, Jose Iglesias, Zack Short, Yolmer Sanchez,NYM
+2024-03-17a, Brandon Nimmo, Francisco Lindor, Francisco Alvarez, Tyrone Taylor, Starling Marte, Mark Vientos, Ji Man Choi, Jose Iglesias, Harrison Bader,NYM
+2024-03-17b, DJ Stewart, Trayce Thompson, Pete Alonso, Brett Baty, Luke Voit, Omar Narvaez, Joey Wendle, Zack Short, Ben Gamel,NYM
+2024-03-19, Brandon Nimmo, Francisco Lindor, Pete Alonso, Jeff McNeil, Starling Marte, Francisco Alvarez, Brett Baty, Mark Vientos, Harrison Bader,NYM
+2024-03-20, Brandon Nimmo, Tyrone Taylor, DJ Stewart, Luke Voit, Omar Narvaez, Ji Man Choi, Jose Iglesias, Joey Wendle, Zack Short,NYM
+2024-03-21, Jeff McNeil, Francisco Lindor, Pete Alonso, Ji Man Choi, Starling Marte, Francisco Alvarez, Brett Baty, Tyrone Taylor, Harrison Bader,NYM
+2024-03-22, Tyrone Taylor, Francisco Lindor, Pete Alonso, Brett Baty, Starling Marte, Francisco Alvarez, Mark Vientos, Harrison Bader, Zack Short,NYM
+2024-03-23, Brandon Nimmo, Jeff McNeil, Harrison Bader, DJ Stewart, Ji Man Choi, Mark Vientos, Omar Narvaez, Joey Wendle, Jose Iglesias,NYM
+2024-03-24a, Drew Gilbert, Zack Short, Omar Narvaez, Luke Voit, Jose Iglesias, Ryan Clifford, Alex Ramirez, Luke Ritter, Yohairo Cuevas,NYM
+2024-03-24b, Brandon Nimmo, Francisco Lindor, Pete Alonso, Jeff McNeil, Starling Marte, Francisco Alvarez, DJ Stewart, Brett Baty, Tyrone Taylor,NYM
+2024-03-25, Brandon Nimmo, Francisco Lindor, Pete Alonso, Jeff McNeil, Starling Marte, DJ Stewart, Francisco Alvarez, Brett Baty, Harrison Bader,NYM
+2024-02-24, CJ Abrams, Lane Thomas, Joey Gallo, Joey Meneses, Jesse Winker, Keibert Ruiz, Nick Senzel, Luis Garcia Jr., Victor Robles,WSH
+2024-02-25, Alex Call, Carter Kieboom, Joey Meneses, Riley Adams, Juan Yepez, James Wood, Trey Lipscomb, Ildemaro Vargas, Jacob Young,WSH
+2024-02-26, CJ Abrams, Lane Thomas, Joey Gallo, Keibert Ruiz, Jesse Winker, Brady House, Luis Garcia Jr., Victor Robles, Jacob Young,WSH
+2024-02-27, Lane Thomas, Ildemaro Vargas, James Wood, Joey Meneses, Jake Alu, Dylan Crews, Riley Adams, Robert Hassell III, Trey Lipscomb,WSH
+2024-02-28, CJ Abrams, Victor Robles, Jesse Winker, Joey Gallo, Dylan Crews, Luis Garcia Jr., Ildemaro Vargas, Drew Millas, Alex Call,WSH
+2024-02-29, Lane Thomas, James Wood, Joey Meneses, Travis Blankenhorn, Nick Senzel, Riley Adams, Jacob Young, Trey Lipscomb, Nasim Nunez,WSH
+2024-03-01, CJ Abrams, Lane Thomas, Keibert Ruiz, Nick Senzel, Jesse Winker, Juan Yepez, Trey Lipscomb, Travis Blankenhorn, Victor Robles,WSH
+2024-03-02, Jacob Young, Luis Garcia Jr., Joey Meneses, James Wood, Alex Call, Dylan Crews, Carter Kieboom, Riley Adams, Nasim Nunez,WSH
+2024-03-04, Lane Thomas, James Wood, Jesse Winker, Joey Meneses, Keibert Ruiz, Nick Senzel, Luis Garcia Jr., Ildemaro Vargas, Victor Robles,WSH
+2024-03-06, CJ Abrams, Lane Thomas, Jesse Winker, Joey Meneses, Keibert Ruiz, Nick Senzel, Dylan Crews, Luis Garcia Jr., Victor Robles,WSH
+2024-03-07, Lane Thomas, James Wood, Joey Meneses, Joey Gallo, Ildemaro Vargas, Carter Kieboom, Drew Millas, Jacob Young, Darren Baker,WSH
+2024-03-08, CJ Abrams, Lane Thomas, Jesse Winker, Joey Meneses, Joey Gallo, Keibert Ruiz, Nick Senzel, Luis Garcia Jr., Jacob Young,WSH
+2024-03-09a, CJ Abrams, Dylan Crews, Jesse Winker, Joey Meneses, Keibert Ruiz, Nick Senzel, Trey Lipscomb, Jake Alu, Jacob Young,WSH
+2024-03-09b, Luis Garcia Jr., Victor Robles, James Wood, Lane Thomas, Riley Adams, Ildemaro Vargas, Alex Call, Juan Yepez, Nasim Nunez,WSH
+2024-03-10, Victor Robles, Luis Garcia Jr., Ildemaro Vargas, Riley Adams, James Wood, Alex Call, Jake Alu, Carter Kieboom, Lewin Diaz,WSH
+2024-03-11, CJ Abrams, Lane Thomas, Jesse Winker, Joey Gallo, Keibert Ruiz, Eddie Rosario, Nick Senzel, Luis Garcia Jr., Jacob Young,WSH
+2024-03-12, CJ Abrams, Lane Thomas, Joey Meneses, Joey Gallo, Nick Senzel, Eddie Rosario, Trey Lipscomb, Riley Adams, Victor Robles,WSH
+2024-03-13, Jacob Young, James Wood, Jesse Winker, Keibert Ruiz, Luis Garcia Jr., Ildemaro Vargas, Trey Lipscomb, Dylan Crews, Juan Yepez,WSH
+2024-03-14, CJ Abrams, Lane Thomas, Jesse Winker, Joey Meneses, Joey Gallo, Keibert Ruiz, Eddie Rosario, Nick Senzel, Luis Garcia Jr.,WSH
+2024-03-15, Lane Thomas, Luis Garcia Jr., Joey Meneses, Joey Gallo, Nick Senzel, Alex Call, Ildemaro Vargas, Riley Adams, Victor Robles,WSH
+2024-03-16, CJ Abrams, Trey Lipscomb, Jesse Winker, Keibert Ruiz, Eddie Rosario, Juan Yepez, Ildemaro Vargas, Alex Call, Jacob Young,WSH
+2024-03-17, CJ Abrams, Lane Thomas, Jesse Winker, Joey Meneses, Joey Gallo, Eddie Rosario, Nick Senzel, Luis Garcia Jr., Drew Millas,WSH
+2024-03-18, CJ Abrams, Lane Thomas, Eddie Rosario, Joey Meneses, Joey Gallo, Keibert Ruiz, Victor Robles, Ildemaro Vargas, Trey Lipscomb,WSH
+2024-03-20, CJ Abrams, Lane Thomas, Jesse Winker, Joey Meneses, Riley Adams, Riley Adams, Nick Senzel, Victor Robles, Trey Lipscomb,WSH
+2024-03-21, CJ Abrams, Lane Thomas, Jesse Winker, Joey Gallo, Keibert Ruiz, Luis Garcia Jr., Ildemaro Vargas, Victor Robles, CJ Abrams,WSH
+2024-03-23a, CJ Abrams, Eddie Rosario, Nick Senzel, Joey Meneses, Keibert Ruiz, James Wood, Alex Call, Luis Garcia Jr., Jacob Young,WSH
+2024-03-23b, Lane Thomas, Jesse Winker, Juan Yepez, Joey Gallo, Ildemaro Vargas, Victor Robles, Riley Adams, Trey Lipscomb, Nasim Nunez,WSH
+2024-03-24, CJ Abrams, Lane Thomas, Jesse Winker, Eddie Rosario, Joey Gallo, Nick Senzel, Luis Garcia Jr., Riley Adams, Victor Robles,WSH
+2024-02-24, Cedric Mullins, Adley Rutschman, Anthony Santander, Ryan O'Hearn, Austin Hays, Ramon Urias, Jackson Holliday, Jorge Mateo, Ryan McKenna,BAL
+2024-02-25, Colton Cowser, Ryan Mountcastle, James McCann, Heston Kjerstad, Jordan Westburg, Jorge Mateo, Sam Hilliard, Nick Maton, Kyle Stowers,BAL
+2024-02-26a, Cedric Mullins, Adley Rutschman, Austin Hays, Ramon Urias, Coby Mayo, Nick Maton, Sam Hilliard, Tyler Nevin, Colton Cowser,BAL
+2024-02-26b, Ryan McKenna, Anthony Santander, Jordan Westburg, Ryan O'Hearn, Heston Kjerstad, Jackson Holliday, Kyle Stowers, Diego A. Castillo, Michael Perez,BAL
+2024-02-27, Jackson Holliday, Ryan Mountcastle, Heston Kjerstad, James McCann, Coby Mayo, Ryan McKenna, Jorge Mateo, Tyler Nevin, Daniel Johnson,BAL
+2024-02-28, Cedric Mullins, Anthony Santander, Ryan O'Hearn, Austin Hays, Ramon Urias, Jordan Westburg, Colton Cowser, Nick Maton, Maverick Handley,BAL
+2024-02-29, Jackson Holliday, Adley Rutschman, Heston Kjerstad, James McCann, Coby Mayo, Kyle Stowers, Jorge Mateo, Tyler Nevin, Ryan McKenna,BAL
+2024-03-01, Colton Cowser, Anthony Santander, Ryan Mountcastle, Ryan O'Hearn, James McCann, Ramon Urias, Jordan Westburg, Jackson Holliday, Tyler Nevin,BAL
+2024-03-02, Cedric Mullins, Adley Rutschman, Ryan Mountcastle, Ryan O'Hearn, Austin Hays, Coby Mayo, Kolten Wong, Jorge Mateo, Heston Kjerstad,BAL
+2024-03-03, Jorge Mateo, Anthony Santander, Jordan Westburg, James McCann, Ramon Urias, Ryan McKenna, Colton Cowser, Tyler Nevin, Jackson Holliday,BAL
+2024-03-04, Cedric Mullins, Adley Rutschman, Gunnar Henderson, Anthony Santander, Ryan O'Hearn, Ryan Mountcastle, Austin Hays, Kolten Wong, Nick Maton,BAL
+2024-03-05, Jackson Holliday, Jordan Westburg, Colton Cowser, Tyler Nevin, Heston Kjerstad, Coby Mayo, Kyle Stowers, Connor Norby, Michael Perez,BAL
+2024-03-06, Gunnar Henderson, Adley Rutschman, Anthony Santander, Ryan O'Hearn, Ryan Mountcastle, Austin Hays, Kolten Wong, Ramon Urias, Jorge Mateo,BAL
+2024-03-08, Gunnar Henderson, Anthony Santander, Ryan Mountcastle, Ryan O'Hearn, Austin Hays, James McCann, Kolten Wong, Heston Kjerstad, Jackson Holliday,BAL
+2024-03-09, Ryan McKenna, Adley Rutschman, Ramon Urias, Jordan Westburg, Jorge Mateo, Colton Cowser, Coby Mayo, Kyle Stowers, Tyler Nevin,BAL
+2024-03-10a, Adley Rutschman, Ryan Mountcastle, Ryan O'Hearn, Austin Hays, Ramon Urias, James McCann, Kolten Wong, Jorge Mateo, Colton Cowser,BAL
+2024-03-10b, Gunnar Henderson, Anthony Santander, Jordan Westburg, Heston Kjerstad, Ryan McKenna, Jackson Holliday, Coby Mayo, Michael Perez, Connor Norby,BAL
+2024-03-11, Jackson Holliday, Kolten Wong, Anthony Santander, Kyle Stowers, Heston Kjerstad, Nick Maton, Tyler Nevin, Daniel Johnson, Michael Perez,BAL
+2024-03-12, Gunnar Henderson, Adley Rutschman, Ryan Mountcastle, Ryan O'Hearn, Austin Hays, Ramon Urias, Jordan Westburg, Jorge Mateo, Colton Cowser,BAL
+2024-03-13, Colton Cowser, Anthony Santander, Ryan O'Hearn, Jordan Westburg, Heston Kjerstad, James McCann, Jackson Holliday, Kolten Wong, Ryan McKenna,BAL
+2024-03-14, Cedric Mullins, Adley Rutschman, Gunnar Henderson, Anthony Santander, Austin Hays, Ramon Urias, Jorge Mateo, Tyler Nevin, Kyle Stowers,BAL
+2024-03-15, Colton Cowser, Jordan Westburg, Ryan O'Hearn, James McCann, Heston Kjerstad, Kolten Wong, Ryan McKenna, Jackson Holliday, Connor Norby,BAL
+2024-03-16, Cedric Mullins, Adley Rutschman, Gunnar Henderson, Anthony Santander, Ramon Urias, Jorge Mateo, Kyle Stowers, Tyler Nevin, Coby Mayo,BAL
+2024-03-17a, Cedric Mullins, Jackson Holliday, Gunnar Henderson, Ryan O'Hearn, Ramon Urias, James McCann, Jorge Mateo, Kolten Wong, Coby Mayo,BAL
+2024-03-17b, Colton Cowser, Connor Norby, Jordan Westburg, Heston Kjerstad, Ryan McKenna, Kyle Stowers, Tyler Nevin, Nick Maton, Maverick Handley,BAL
+2024-03-19, Jackson Holliday, Adley Rutschman, Jordan Westburg, Colton Cowser, Tyler Nevin, Kyle Stowers, Coby Mayo, Heston Kjerstad, Connor Norby,BAL
+2024-03-20, Cedric Mullins, Adley Rutschman, Gunnar Henderson, Anthony Santander, Ryan Mountcastle, Ryan O'Hearn, Ramon Urias, Jorge Mateo, Ryan McKenna,BAL
+2024-03-21, Gunnar Henderson, Anthony Santander, Ryan Mountcastle, Jordan Westburg, Colton Cowser, Tyler Nevin, Kolten Wong, Ryan McKenna, Michael Perez,BAL
+2024-03-23a, Cedric Mullins, Adley Rutschman, Gunnar Henderson, Anthony Santander, Ryan Mountcastle, Ryan O'Hearn, Austin Hays, Ramon Urias, Jorge Mateo,BAL
+2024-03-23b, Kolten Wong, Colton Cowser, Ryan McKenna, Tyler Nevin, Coby Mayo, Nick Maton, Connor Norby, Michael Perez, Daniel Johnson,BAL
+2024-03-24, Cedric Mullins, Gunnar Henderson, Anthony Santander, Ryan Mountcastle, Ryan O'Hearn, Austin Hays, James McCann, Ramon Urias, Jordan Westburg,BAL
+2024-02-22, Fernando Tatis Jr., Xander Bogaerts, Jake Cronenworth, Luis Campusano, Ha-Seong Kim, Jackson Merrill, Eguy Rosario, Cal Mitchell, Jose Azocar,SD
+2024-02-23, Tyler Wade, Cal Mitchell, Graham Pauley, Kyle Higashioka, Matthew Batten, Robert Perez Jr., Bryce Johnson, Oscar Mercado, Mason McCoy,SD
+2024-02-24, Fernando Tatis Jr., Jake Cronenworth, Xander Bogaerts, Manny Machado, Ha-Seong Kim, Luis Campusano, Jackson Merrill, Eguy Rosario, Jose Azocar,SD
+2024-02-25, Jackson Merrill, Cal Mitchell, Tyler Wade, Kyle Higashioka, Matthew Batten, Graham Pauley, Jose Azocar, Oscar Mercado, Mason McCoy,SD
+2024-02-26, Fernando Tatis Jr., Xander Bogaerts, Jake Cronenworth, Manny Machado, Ha-Seong Kim, Jurickson Profar, Luis Campusano, Jakob Marsee, Matthew Batten,SD
+2024-02-27, Fernando Tatis Jr., Jackson Merrill, Manny Machado, Kyle Higashioka, Tyler Wade, Eguy Rosario, Bryce Johnson, Nathan Martorella, Mason McCoy,SD
+2024-02-28, Jakob Marsee, Xander Bogaerts, Jake Cronenworth, Luis Campusano, Ha-Seong Kim, Matthew Batten, Oscar Mercado, Brett Sullivan, Jose Azocar,SD
+2024-02-29, Jackson Merrill, Tyler Wade, Luis Campusano, Kyle Higashioka, Cal Mitchell, Eguy Rosario, Graham Pauley, Bryce Johnson, Mason McCoy,SD
+2024-03-01a, Jakob Marsee, Jackson Merrill, Oscar Mercado, Kyle Higashioka, Cal Mitchell, Matthew Batten, Tyler Wade, Nathan Martorella, Mason McCoy,SD
+2024-03-01b, Fernando Tatis Jr., Xander Bogaerts, Jake Cronenworth, Luis Campusano, Ha-Seong Kim, Jurickson Profar, Eguy Rosario, Jose Azocar, Tim Locastro,SD
+2024-03-02, Bryce Johnson, Jakob Marsee, Oscar Mercado, Eguy Rosario, Brett Sullivan, Jose Azocar, Graham Pauley, Matthew Batten, Kevin Plawecki,SD
+2024-03-03, Fernando Tatis Jr., Xander Bogaerts, Jake Cronenworth, Manny Machado, Ha-Seong Kim, Luis Campusano, Jackson Merrill, Tyler Wade, Tim Locastro,SD
+2024-03-04, Ha-Seong Kim, Fernando Tatis Jr., Xander Bogaerts, Manny Machado, Jurickson Profar, Jake Cronenworth, Eguy Rosario, Jackson Merrill, Kyle Higashioka,SD
+2024-03-05, Jakob Marsee, Jose Azocar, Graham Pauley, Luis Campusano, Tyler Wade, Eguy Rosario, Brett Sullivan, Tim Locastro, Matthew Batten,SD
+2024-03-06, Xander Bogaerts, Jake Cronenworth, Fernando Tatis Jr., Manny Machado, Jurickson Profar, Luis Campusano, Jackson Merrill, Tyler Wade, Eguy Rosario,SD
+2024-03-09, Xander Bogaerts, Jake Cronenworth, Fernando Tatis Jr., Manny Machado, Ha-Seong Kim, Luis Campusano, Jurickson Profar, Graham Pauley, Jackson Merrill,SD
+2024-03-10, Tyler Wade, Oscar Mercado, Graham Pauley, Brad Miller, Eguy Rosario, Kyle Higashioka, Jose Azocar, Tim Locastro, Mason McCoy,SD
+2024-03-11, Xander Bogaerts, Fernando Tatis Jr., Jake Cronenworth, Manny Machado, Ha-Seong Kim, Graham Pauley, Luis Campusano, Jurickson Profar, Jackson Merrill,SD
+2024-03-12, Xander Bogaerts, Fernando Tatis Jr., Jake Cronenworth, Manny Machado, Ha-Seong Kim, Tyler Wade, Jurickson Profar, Kyle Higashioka, Jackson Merrill,SD
+2024-03-13, Xander Bogaerts, Fernando Tatis Jr., Jake Cronenworth, Manny Machado, Ha-Seong Kim, Jurickson Profar, Luis Campusano, Eguy Rosario, Jackson Merrill,SD
+2024-03-25, Xander Bogaerts, Fernando Tatis Jr., Jake Cronenworth, Manny Machado, Ha-Seong Kim, Jurickson Profar, Luis Campusano, Tyler Wade, Jackson Merrill,SD
+2024-03-26, Xander Bogaerts, Fernando Tatis Jr., Jake Cronenworth, Manny Machado, Ha-Seong Kim, Jurickson Profar, Kyle Higashioka, Eguy Rosario, Jackson Merrill,SD
+2024-02-24, Whit Merrifield, Johan Rojas, Edmundo Sosa, Kody Clemens, Weston Wilson, David Dahl, Scott Kingery, Rodolfo Castro, Aramis Garcia,PHI
+2024-02-25, Trea Turner, Bryson Stott, Nick Castellanos, Kyle Schwarber, Weston Wilson, Darick Hall, Cristian Pache, Jake Cave, Garrett Stubbs,PHI
+2024-02-26, Whit Merrifield, Johan Rojas, Darick Hall, Edmundo Sosa, Kody Clemens, Aramis Garcia, David Dahl, Nick Podkul, Cal Stevenson,PHI
+2024-02-27, Trea Turner, Bryson Stott, Cristian Pache, Darick Hall, Weston Wilson, Jake Cave, Scott Kingery, Garrett Stubbs, Rodolfo Castro,PHI
+2024-02-28, Kyle Schwarber, J.T. Realmuto, Bryce Harper, Nick Castellanos, Alec Bohm, Whit Merrifield, Johan Rojas, Weston Wilson, Aramis Garcia,PHI
+2024-02-29, Bryson Stott, Trea Turner, Darick Hall, Edmundo Sosa, Garrett Stubbs, Cristian Pache, David Dahl, Scott Kingery, Matt Kroon,PHI
+2024-03-01a, Kyle Schwarber, Trea Turner, Bryce Harper, J.T. Realmuto, Alec Bohm, Nick Castellanos, Whit Merrifield, Jake Cave, Cristian Pache,PHI
+2024-03-01b, Johan Rojas, Bryson Stott, Edmundo Sosa, Aramis Garcia, Kody Clemens, Weston Wilson, Matt Kroon, Nick Podkul, Carlos De La Cruz,PHI
+2024-03-02, Kyle Schwarber, J.T. Realmuto, Bryce Harper, Nick Castellanos, Bryson Stott, Whit Merrifield, Darick Hall, Rodolfo Castro, Cal Stevenson,PHI
+2024-03-03, Johan Rojas, Alec Bohm, Edmundo Sosa, Weston Wilson, Garrett Stubbs, Cristian Pache, Jake Cave, David Dahl, Nick Podkul,PHI
+2024-03-04, Kyle Schwarber, Trea Turner, Bryce Harper, Nick Castellanos, Bryson Stott, Whit Merrifield, Johan Rojas, Aramis Garcia, Weston Wilson,PHI
+2024-03-05, Kyle Schwarber, Trea Turner, J.T. Realmuto, Alec Bohm, Jake Cave, Cristian Pache, Edmundo Sosa, Cal Stevenson, Cam Gallagher,PHI
+2024-03-07, Johan Rojas, Bryson Stott, Edmundo Sosa, Aramis Garcia, Rodolfo Castro, Matt Kroon, Nick Podkul, Cal Stevenson, Carlos De La Cruz,PHI
+2024-03-08, Kyle Schwarber, Trea Turner, Bryce Harper, J.T. Realmuto, Bryson Stott, Alec Bohm, Nick Castellanos, Jake Cave, David Dahl,PHI
+2024-03-09, Kyle Schwarber, Trea Turner, Bryce Harper, J.T. Realmuto, Bryson Stott, Nick Castellanos, Edmundo Sosa, Weston Wilson, Johan Rojas,PHI
+2024-03-10, Johan Rojas, Darick Hall, Alec Bohm, Edmundo Sosa, Jake Cave, Kody Clemens, Rodolfo Castro, Garrett Stubbs, Carlos De La Cruz,PHI
+2024-03-11, Kyle Schwarber, Trea Turner, Bryce Harper, J.T. Realmuto, Bryson Stott, Alec Bohm, Nick Castellanos, Whit Merrifield, Cristian Pache,PHI
+2024-03-13, Brandon Marsh, Trea Turner, Bryce Harper, J.T. Realmuto, Bryson Stott, Alec Bohm, Nick Castellanos, Whit Merrifield, Johan Rojas,PHI
+2024-03-14, Kyle Schwarber, Whit Merrifield, Bryce Harper, J.T. Realmuto, Alec Bohm, Edmundo Sosa, Cristian Pache, Weston Wilson, David Dahl,PHI
+2024-03-15, Johan Rojas, Trea Turner, Bryson Stott, Cristian Pache, Kody Clemens, Jake Cave, Weston Wilson, Darick Hall, Cam Gallagher,PHI
+2024-03-16, Brandon Marsh, Whit Merrifield, Alec Bohm, Nick Castellanos, Edmundo Sosa, Johan Rojas, Kody Clemens, Weston Wilson, William Simoneit,PHI
+2024-03-17, Kyle Schwarber, Trea Turner, J.T. Realmuto, Bryson Stott, Whit Merrifield, Jake Cave, Cristian Pache, Jordan Luplow, Rodolfo Castro,PHI
+2024-03-18a, Brandon Marsh, Johan Rojas, Kody Clemens, Alec Bohm, Garrett Stubbs, Darick Hall, Scott Kingery, David Dahl, Cal Stevenson,PHI
+2024-03-18b, Kyle Schwarber, Trea Turner, J.T. Realmuto, Nick Castellanos, Bryson Stott, Edmundo Sosa, Jake Cave, Weston Wilson, Cristian Pache,PHI
+2024-03-19, Johan Rojas, Whit Merrifield, Alec Bohm, Nick Castellanos, Nick Castellanos, Edmundo Sosa, Aramis Garcia, David Dahl, Scott Kingery,PHI
+2024-03-20, Kyle Schwarber, Trea Turner, Bryson Stott, Brandon Marsh, Jordan Luplow, Garrett Stubbs, Jake Cave, Cristian Pache, Kody Clemens,PHI
+2024-03-21, Whit Merrifield, Alec Bohm, J.T. Realmuto, Nick Castellanos, Kody Clemens, Johan Rojas, Edmundo Sosa, Weston Wilson, Jordan Luplow,PHI
+2024-03-22, Trea Turner, J.T. Realmuto, Alec Bohm, Bryson Stott, Nick Castellanos, Brandon Marsh, Whit Merrifield, Jake Cave, Edmundo Sosa,PHI
+2024-03-23, Bryson Stott, Whit Merrifield, Bryce Harper, Edmundo Sosa, Kody Clemens, Cristian Pache, Jake Cave, Johan Rojas, Garrett Stubbs,PHI
+2024-03-24, Bryson Stott, Trea Turner, Bryce Harper, J.T. Realmuto, Alec Bohm, Nick Castellanos, Brandon Marsh, Kody Clemens, Johan Rojas,PHI
+2024-03-25, Kyle Schwarber, Trea Turner, Bryce Harper, J.T. Realmuto, Alec Bohm, Bryson Stott, Nick Castellanos, Whit Merrifield, Brandon Marsh,PHI
+2024-02-24, Ji Hwan Bae, Jared Triolo, Henry Davis, Canaan Smith-Njigba, Edward Olivares, Jake Lamb, Alika Williams, Billy McKinney, Gilberto Celestino,PIT
+2024-02-25, Oneil Cruz, Bryan Reynolds, Ke'Bryan Hayes, Jack Suwinski, Rowdy Tellez, Yasmani Grandal, Connor Joe, Liover Peguero, Nick Gonzales,PIT
+2024-02-26, Nick Gonzales, Jared Triolo, Henry Davis, Edward Olivares, Canaan Smith-Njigba, Jason Delay, Alika Williams, Jake Lamb, Ji Hwan Bae,PIT
+2024-02-27, Oneil Cruz, Bryan Reynolds, Ke'Bryan Hayes, Yasmani Grandal, Connor Joe, Edward Olivares, Rowdy Tellez, Jack Suwinski, Liover Peguero,PIT
+2024-02-28, Nick Gonzales, Jared Triolo, Connor Joe, Gilberto Celestino, Jason Delay, Ji Hwan Bae, Alika Williams, Billy McKinney, Tsung-Che Cheng,PIT
+2024-02-29, Oneil Cruz, Jack Suwinski, Ke'Bryan Hayes, Rowdy Tellez, Henry Davis, Edward Olivares, Liover Peguero, Canaan Smith-Njigba, Nick Gonzales,PIT
+2024-03-01, Jared Triolo, Bryan Reynolds, Ke'Bryan Hayes, Connor Joe, Rowdy Tellez, Liover Peguero, Jason Delay, Billy McKinney, Sergio Alcantara,PIT
+2024-03-02, Oneil Cruz, Ji Hwan Bae, Henry Davis, Jack Suwinski, Edward Olivares, Canaan Smith-Njigba, Nick Gonzales, Jake Lamb, Alika Williams,PIT
+2024-03-03, Jared Triolo, Bryan Reynolds, Ke'Bryan Hayes, Rowdy Tellez, Connor Joe, Edward Olivares, Liover Peguero, Jason Delay, Billy McKinney,PIT
+2024-03-04, Oneil Cruz, Jared Triolo, Jack Suwinski, Henry Davis, Nick Gonzales, Billy McKinney, Canaan Smith-Njigba, Jake Lamb, Alika Williams,PIT
+2024-03-05, Oneil Cruz, Bryan Reynolds, Andrew McCutchen, Ke'Bryan Hayes, Rowdy Tellez, Connor Joe, Edward Olivares, Ji Hwan Bae, Jason Delay,PIT
+2024-03-06, Joshua Palacios, Bryan Reynolds, Jack Suwinski, Rowdy Tellez, Henry Davis, Connor Joe, Jared Triolo, Liover Peguero, Alika Williams,PIT
+2024-03-08a, Andrew McCutchen, Bryan Reynolds, Ke'Bryan Hayes, Jack Suwinski, Rowdy Tellez, Joshua Palacios, Liover Peguero, Tsung-Che Cheng, Jason Delay,PIT
+2024-03-08b, Jared Triolo, Connor Joe, Edward Olivares, Ali Sanchez, Gilberto Celestino, Billy McKinney, Canaan Smith-Njigba, Alika Williams, Sergio Alcantara,PIT
+2024-03-09, Canaan Smith-Njigba, Liover Peguero, Henry Davis, Jake Lamb, Gilberto Celestino, Alika Williams, Joe Perez, Sergio Alcantara, Abrahan Gutierrez,PIT
+2024-03-10, Oneil Cruz, Bryan Reynolds, Ke'Bryan Hayes, Jack Suwinski, Rowdy Tellez, Jared Triolo, Edward Olivares, Ali Sanchez, Carter Bins,PIT
+2024-03-11, Billy McKinney, Liover Peguero, Henry Davis, Jake Lamb, Edward Olivares, Canaan Smith-Njigba, Gilberto Celestino, Alika Williams, Sergio Alcantara,PIT
+2024-03-12, Oneil Cruz, Bryan Reynolds, Ke'Bryan Hayes, Jack Suwinski, Rowdy Tellez, Jared Triolo, Billy McKinney, Nick Gonzales, Jason Delay,PIT
+2024-03-13, Oneil Cruz, Liover Peguero, Rowdy Tellez, Henry Davis, Edward Olivares, Jake Lamb, Gilberto Celestino, Alika Williams, Joe Perez,PIT
+2024-03-14, Connor Joe, Bryan Reynolds, Ke'Bryan Hayes, Jack Suwinski, Rowdy Tellez, Henry Davis, Nick Gonzales, Billy McKinney, Alika Williams,PIT
+2024-03-15, Billy McKinney, Nick Gonzales, Jack Suwinski, Jake Lamb, Edward Olivares, Gilberto Celestino, Jason Delay, Sergio Alcantara, Jack Brannigan,PIT
+2024-03-16a, Joshua Palacios, Nick Gonzales, Billy McKinney, Jack Suwinski, Carter Bins, Jake Lamb, Tsung-Che Cheng, Joe Perez, Termarr Johnson,PIT
+2024-03-16b, Andrew McCutchen, Bryan Reynolds, Ke'Bryan Hayes, Henry Davis, Connor Joe, Edward Olivares, Gilberto Celestino, Sergio Alcantara, Alika Williams,PIT
+2024-03-17, Oneil Cruz, Bryan Reynolds, Ke'Bryan Hayes, Andrew McCutchen, Connor Joe, Edward Olivares, Nick Gonzales, Ali Sanchez, Gilberto Celestino,PIT
+2024-03-18, Oneil Cruz, Bryan Reynolds, Ke'Bryan Hayes, Jack Suwinski, Henry Davis, Rowdy Tellez, Joshua Palacios, Jared Triolo, Billy McKinney,PIT
+2024-03-20, Oneil Cruz, Bryan Reynolds, Ke'Bryan Hayes, Jack Suwinski, Andrew McCutchen, Rowdy Tellez, Connor Joe, Jared Triolo, Ali Sanchez,PIT
+2024-03-21, Oneil Cruz, Bryan Reynolds, Ke'Bryan Hayes, Jack Suwinski, Andrew McCutchen, Rowdy Tellez, Michael A. Taylor, Liover Peguero, Jason Delay,PIT
+2024-03-23, Oneil Cruz, Andrew McCutchen, Ke'Bryan Hayes, Jack Suwinski, Rowdy Tellez, Michael A. Taylor, Henry Davis, Connor Joe, Jared Triolo,PIT
+2024-03-24, Oneil Cruz, Andrew McCutchen, Ke'Bryan Hayes, Jack Suwinski, Henry Davis, Rowdy Tellez, Michael A. Taylor, Edward Olivares, Jared Triolo,PIT
+2024-03-25, Oneil Cruz, Connor Joe, Ke'Bryan Hayes, Jack Suwinski, Henry Davis, Rowdy Tellez, Michael A. Taylor, Edward Olivares, Jared Triolo,PIT
+2024-02-23, Marcus Semien, Evan Carter, Wyatt Langford, Nathaniel Lowe, Leody Taveras, Sam Huff, Matt Duffy, Ezequiel Duran, Josh Smith,TEX
+2024-02-24, Travis Jankowski, Jared Walsh, Ezequiel Duran, Andrew Knizner, Justin Foscue, Derek Hill, Dustin Harris, Davis Wendzel, Jonathan Ornelas,TEX
+2024-02-25, Marcus Semien, Evan Carter, Wyatt Langford, Nathaniel Lowe, Jonah Heim, Leody Taveras, Matt Duffy, Josh Smith, Andrew Knapp,TEX
+2024-02-26, Travis Jankowski, Jared Walsh, Ezequiel Duran, Sam Huff, Dustin Harris, Justin Foscue, Derek Hill, Blaine Crim, Jonathan Ornelas,TEX
+2024-02-27, Marcus Semien, Evan Carter, Wyatt Langford, Nathaniel Lowe, Leody Taveras, Matt Duffy, Josh Smith, Andrew Knizner, Andrew Knapp,TEX
+2024-02-28, Marcus Semien, Evan Carter, Wyatt Langford, Nathaniel Lowe, Jonah Heim, Leody Taveras, Ezequiel Duran, Justin Foscue, Jonathan Ornelas,TEX
+2024-02-29, Travis Jankowski, Jared Walsh, Ezequiel Duran, Andrew Knizner, Josh Smith, Matt Duffy, Derek Hill, Sandro Fabian, Blaine Crim,TEX
+2024-03-01, Marcus Semien, Leody Taveras, Wyatt Langford, Ezequiel Duran, Sam Huff, Blaine Crim, Justin Foscue, Davis Wendzel, Elier Hernandez,TEX
+2024-03-02, Evan Carter, Wyatt Langford, Nathaniel Lowe, Leody Taveras, Jonah Heim, Jared Walsh, Matt Duffy, Josh Smith, Justin Foscue,TEX
+2024-03-03, Marcus Semien, Evan Carter, Ezequiel Duran, Andrew Knizner, Sam Huff, Blaine Crim, Travis Jankowski, Davis Wendzel, Sandro Fabian,TEX
+2024-03-04, Marcus Semien, Leody Taveras, Nathaniel Lowe, Jonah Heim, Ezequiel Duran, Justin Foscue, Matt Duffy, Elier Hernandez, Derek Hill,TEX
+2024-03-05, Evan Carter, Leody Taveras, Nathaniel Lowe, Jared Walsh, Ezequiel Duran, Josh Smith, Travis Jankowski, Matt Duffy, Andrew Knizner,TEX
+2024-03-06, Marcus Semien, Wyatt Langford, Adolis Garcia, Justin Foscue, Ezequiel Duran, Leody Taveras, Davis Wendzel, Andrew Knapp, Elier Hernandez,TEX
+2024-03-07, Marcus Semien, Evan Carter, Wyatt Langford, Adolis Garcia, Jared Walsh, Jonah Heim, Matt Duffy, Travis Jankowski, Josh Smith,TEX
+2024-03-08, Evan Carter, Wyatt Langford, Jared Walsh, Ezequiel Duran, Travis Jankowski, Matt Duffy, Josh Smith, Justin Foscue, Andrew Knizner,TEX
+2024-03-09, Marcus Semien, Leody Taveras, Ezequiel Duran, Adolis Garcia, Davis Wendzel, Blaine Crim, Sam Huff, Derek Hill, Elier Hernandez,TEX
+2024-03-10, Marcus Semien, Evan Carter, Wyatt Langford, Adolis Garcia, Jonah Heim, Jared Walsh, Matt Duffy, Josh Smith, Leody Taveras,TEX
+2024-03-11, Matt Duffy, Evan Carter, Wyatt Langford, Ezequiel Duran, Justin Foscue, Travis Jankowski, Andrew Knizner, Josh Smith, Jose Barrero,TEX
+2024-03-12, Marcus Semien, Travis Jankowski, Wyatt Langford, Adolis Garcia, Jonah Heim, Jared Walsh, Josh Smith, Leody Taveras, Davis Wendzel,TEX
+2024-03-14, Marcus Semien, Evan Carter, Wyatt Langford, Adolis Garcia, Jared Walsh, Jonah Heim, Ezequiel Duran, Matt Duffy, Leody Taveras,TEX
+2024-03-16a, Leody Taveras, Ezequiel Duran, Justin Foscue, Andrew Knapp, Blaine Crim, Jose Barrero, Derek Hill, Davis Wendzel, Davis Wendzel,TEX
+2024-03-16b, Marcus Semien, Evan Carter, Wyatt Langford, Adolis Garcia, Jonah Heim, Jared Walsh, Matt Duffy, Josh Smith, Travis Jankowski,TEX
+2024-03-17, Marcus Semien, Leody Taveras, Evan Carter, Wyatt Langford, Travis Jankowski, Jared Walsh, Ezequiel Duran, Josh Smith, Andrew Knizner,TEX
+2024-03-18, Marcus Semien, Evan Carter, Wyatt Langford, Adolis Garcia, Jared Walsh, Matt Duffy, Davis Wendzel, Andrew Knizner, Justin Foscue,TEX
+2024-03-19, Marcus Semien, Leody Taveras, Evan Carter, Adolis Garcia, Jonah Heim, Ezequiel Duran, Travis Jankowski, Matt Duffy, Josh Smith,TEX
+2024-03-20, Marcus Semien, Josh Smith, Wyatt Langford, Jared Walsh, Ezequiel Duran, Jonah Heim, Andrew Knizner, Derek Hill, Jose Barrero,TEX
+2024-03-22a, Travis Jankowski, Josh Smith, Justin Foscue, Jared Walsh, Andrew Knizner, Blaine Crim, Derek Hill, Jose Barrero, Frainyer Chavez,TEX
+2024-03-22b, Marcus Semien, Evan Carter, Wyatt Langford, Adolis Garcia, Jonah Heim, Ezequiel Duran, Leody Taveras, Matt Duffy, Davis Wendzel,TEX
+2024-03-23, Evan Carter, Corey Seager, Josh Jung, Adolis Garcia, Wyatt Langford, Jonah Heim, Jared Walsh, Josh Smith, Leody Taveras,TEX
+2024-03-25, Marcus Semien, Corey Seager, Evan Carter, Adolis Garcia, Josh Jung, Wyatt Langford, Jonah Heim, Jared Walsh, Leody Taveras,TEX
+2024-03-26, Marcus Semien, Corey Seager, Evan Carter, Adolis Garcia, Josh Jung, Wyatt Langford, Jared Walsh, Andrew Knizner, Leody Taveras,TEX
+2024-02-24, Amed Rosario, Jose Caballero, Jonathan Aranda, Curtis Mead, Jose Siri, Junior Caminero, Richie Palacios, Rene Pinto, Jake Mangum,TB
+2024-02-25, Yandy Diaz, Jonny DeLuca, Josh Lowe, Harold Ramirez, Isaac Paredes, Alex Jackson, Yu Chang, Osleivis Basabe, Tristan Peters,TB
+2024-02-26, Amed Rosario, Jonathan Aranda, Curtis Mead, Junior Caminero, Jose Siri, Richie Palacios, Niko Hulsizer, Rob Brantly, Ronny Simon,TB
+2024-02-27, Yandy Diaz, Brandon Lowe, Randy Arozarena, Josh Lowe, Harold Ramirez, Curtis Mead, Jonny DeLuca, Jose Caballero, Rene Pinto,TB
+2024-02-28, Amed Rosario, Jonathan Aranda, Isaac Paredes, Austin Shenton, Jose Siri, Richie Palacios, Alex Jackson, Yu Chang, Ronny Simon,TB
+2024-02-29, Yandy Diaz, Brandon Lowe, Randy Arozarena, Harold Ramirez, Junior Caminero, Richie Palacios, Jose Caballero, Jonny DeLuca, Rene Pinto,TB
+2024-03-01, Amed Rosario, Jonathan Aranda, Harold Ramirez, Isaac Paredes, Curtis Mead, Jose Siri, Rob Brantly, Osleivis Basabe, Jake Mangum,TB
+2024-03-02, Yandy Diaz, Brandon Lowe, Randy Arozarena, Junior Caminero, Amed Rosario, Richie Palacios, Jose Caballero, Jonny DeLuca, Rene Pinto,TB
+2024-03-03, Richie Palacios, Jonathan Aranda, Randy Arozarena, Harold Ramirez, Isaac Paredes, Curtis Mead, Jose Siri, Alex Jackson, Osleivis Basabe,TB
+2024-03-04, Yandy Diaz, Brandon Lowe, Amed Rosario, Austin Shenton, Junior Caminero, Jose Caballero, Rene Pinto, Jonny DeLuca, Jake Mangum,TB
+2024-03-05, Jose Caballero, Jonathan Aranda, Harold Ramirez, Austin Shenton, Junior Caminero, Jose Siri, Alex Jackson, Jake Mangum, Rob Brantly,TB
+2024-03-06, Yandy Diaz, Brandon Lowe, Randy Arozarena, Isaac Paredes, Amed Rosario, Richie Palacios, Jonny DeLuca, Rene Pinto, Osleivis Basabe,TB
+2024-03-07, Amed Rosario, Jose Caballero, Harold Ramirez, Isaac Paredes, Austin Shenton, Jose Siri, Curtis Mead, Alex Jackson, Tristan Peters,TB
+2024-03-09, Amed Rosario, Jonathan Aranda, Randy Arozarena, Harold Ramirez, Isaac Paredes, Junior Caminero, Jose Siri, Jose Caballero, Rene Pinto,TB
+2024-03-10, Jonny DeLuca, Jonathan Aranda, Randy Arozarena, Isaac Paredes, Junior Caminero, Richie Palacios, Curtis Mead, Osleivis Basabe, Francisco Mejia,TB
+2024-03-11, Yandy Diaz, Brandon Lowe, Harold Ramirez, Austin Shenton, Amed Rosario, Jose Caballero, Jose Siri, Alex Jackson, Rene Pinto,TB
+2024-03-12, Yandy Diaz, Jonathan Aranda, Randy Arozarena, Isaac Paredes, Amed Rosario, Richie Palacios, Curtis Mead, Rene Pinto, Jake Mangum,TB
+2024-03-13, Curtis Mead, Brandon Lowe, Jonathan Aranda, Harold Ramirez, Jose Siri, Jose Caballero, Alex Jackson, Richie Palacios, Osleivis Basabe,TB
+2024-03-14, Yandy Diaz, Amed Rosario, Randy Arozarena, Isaac Paredes, Rene Pinto, Richie Palacios, Alex Jackson, Osleivis Basabe, Ronny Simon,TB
+2024-03-15, Jose Caballero, Brandon Lowe, Harold Ramirez, Jonathan Aranda, Isaac Paredes, Amed Rosario, Jose Siri, Curtis Mead, Francisco Mejia,TB
+2024-03-16, Yandy Diaz, Amed Rosario, Randy Arozarena, Curtis Mead, Richie Palacios, Alex Jackson, Francisco Mejia, Osleivis Basabe, Jake Mangum,TB
+2024-03-17, Jose Caballero, Brandon Lowe, Isaac Paredes, Jonathan Aranda, Xavier Isaac, Jose Siri, Alex Jackson, Richie Palacios, Jake Mangum,TB
+2024-03-18, Yandy Diaz, Brandon Lowe, Randy Arozarena, Harold Ramirez, Isaac Paredes, Amed Rosario, Richie Palacios, Jose Caballero, Rene Pinto,TB
+2024-03-19, Amed Rosario, Richie Palacios, Harold Ramirez, Curtis Mead, Alex Jackson, Jose Siri, Rene Pinto, Bob Seymour, Tanner Murray,TB
+2024-03-21, Yandy Diaz, Brandon Lowe, Randy Arozarena, Harold Ramirez, Isaac Paredes, Amed Rosario, Jose Siri, Jose Caballero, Rene Pinto,TB
+2024-03-23a, Amed Rosario, Jose Siri, Curtis Mead, Xavier Isaac, Alex Jackson, Jake Mangum, Francisco Mejia, Mason Auer, Tanner Murray,TB
+2024-03-23b, Yandy Diaz, Brandon Lowe, Randy Arozarena, Harold Ramirez, Isaac Paredes, Austin Shenton, Jose Caballero, Richie Palacios, Rene Pinto,TB
+2024-03-24, Jose Caballero, Austin Shenton, Randy Arozarena, Isaac Paredes, Harold Ramirez, Amed Rosario, Jose Siri, Richie Palacios, Rene Pinto,TB
+2024-03-25, Yandy Diaz, Brandon Lowe, Harold Ramirez, Austin Shenton, Curtis Mead, Richie Palacios, Jose Caballero, Rene Pinto, Dru Baker,TB
+2024-03-26, Yandy Diaz, Brandon Lowe, Randy Arozarena, Isaac Paredes, Harold Ramirez, Amed Rosario, Jose Siri, Jose Caballero, Alex Jackson,TB
+2024-02-24, Ceddanne Rafaela, Wilyer Abreu, Bobby Dalbec, Pablo Reyes, Tyler Heineman, Romy Gonzalez, Jamie Westbrook, Mark Contreras, Nathan Hickey,BOS
+2024-02-25a, Rob Refsnyder, Rafael Devers, Trevor Story, Masataka Yoshida, Tyler O'Neill, Enmanuel Valdez, Reese McGuire, Blaze Jordan, Roman Anthony,BOS
+2024-02-25b, Ceddanne Rafaela, Wilyer Abreu, Bobby Dalbec, Pablo Reyes, Roberto Perez, Jamie Westbrook, Romy Gonzalez, Corey Rosier, Connor Wong,BOS
+2024-02-26, Tyler O'Neill, Rafael Devers, Trevor Story, Masataka Yoshida, Rob Refsnyder, Enmanuel Valdez, Tyler Heineman, Mark Contreras, Niko Kavadas,BOS
+2024-02-27, David Hamilton, Ceddanne Rafaela, Wilyer Abreu, Bobby Dalbec, Pablo Reyes, Reese McGuire, Jamie Westbrook, Romy Gonzalez, Mark Contreras,BOS
+2024-02-28, David Hamilton, Ceddanne Rafaela, Wilyer Abreu, Bobby Dalbec, Pablo Reyes, Jamie Westbrook, Romy Gonzalez, Mark Contreras, Mark Kolozsvary,BOS
+2024-02-29, Tyler O'Neill, Rafael Devers, Trevor Story, Enmanuel Valdez, Rob Refsnyder, Connor Wong, Roberto Perez, Roman Anthony, Niko Kavadas,BOS
+2024-03-01, Jarren Duran, Ceddanne Rafaela, Wilyer Abreu, Bobby Dalbec, Pablo Reyes, Reese McGuire, Jamie Westbrook, David Hamilton, Joe Dunand,BOS
+2024-03-02a, David Hamilton, Rob Refsnyder, Reese McGuire, Pablo Reyes, Mark Contreras, Bobby Dalbec, Nick Sogard, Romy Gonzalez, Corey Rosier,BOS
+2024-03-02b, Tyler O'Neill, Rafael Devers, Trevor Story, Triston Casas, Masataka Yoshida, Connor Wong, Wilyer Abreu, Ceddanne Rafaela, Enmanuel Valdez,BOS
+2024-03-03, Jarren Duran, Rafael Devers, Trevor Story, Triston Casas, Masataka Yoshida, Tyler O'Neill, Wilyer Abreu, Enmanuel Valdez, Jarren Duran,BOS
+2024-03-04, David Hamilton, Ceddanne Rafaela, Reese McGuire, Pablo Reyes, Bobby Dalbec, Mark Contreras, Jamie Westbrook, Romy Gonzalez, Dalton Guthrie,BOS
+2024-03-05, Jarren Duran, Rafael Devers, Trevor Story, Triston Casas, Masataka Yoshida, Tyler O'Neill, Wilyer Abreu, Connor Wong, Enmanuel Valdez,BOS
+2024-03-06, David Hamilton, Masataka Yoshida, Trevor Story, Triston Casas, Wilyer Abreu, Rob Refsnyder, Ceddanne Rafaela, Pablo Reyes, Roberto Perez,BOS
+2024-03-07, Jarren Duran, Rafael Devers, Masataka Yoshida, Triston Casas, Rob Refsnyder, Wilyer Abreu, Enmanuel Valdez, Connor Wong, David Hamilton,BOS
+2024-03-09, Jarren Duran, Rafael Devers, Trevor Story, Triston Casas, Masataka Yoshida, Ceddanne Rafaela, Wilyer Abreu, Enmanuel Valdez, Connor Wong,BOS
+2024-03-10, Ceddanne Rafaela, Rafael Devers, Trevor Story, Triston Casas, Masataka Yoshida, Rob Refsnyder, Pablo Reyes, David Hamilton, David Hamilton,BOS
+2024-03-11, Jarren Duran, Jamie Westbrook, Wilyer Abreu, C.J. Cron, Eddy Alvarez, Nick Yorke, Nick Sogard, Roberto Perez, Dalton Guthrie,BOS
+2024-03-12, Jarren Duran, Rafael Devers, Trevor Story, Masataka Yoshida, Tyler O'Neill, Triston Casas, Ceddanne Rafaela, Enmanuel Valdez, Connor Wong,BOS
+2024-03-13, Ceddanne Rafaela, Triston Casas, Pablo Reyes, Bobby Dalbec, Wilyer Abreu, Enmanuel Valdez, Reese McGuire, David Hamilton, Dalton Guthrie,BOS
+2024-03-14, Tyler O'Neill, Wilyer Abreu, Trevor Story, Triston Casas, C.J. Cron, Mark Kolozsvary, Romy Gonzalez, Bobby Dalbec, David Hamilton,BOS
+2024-03-15, Jarren Duran, Rafael Devers, Trevor Story, Masataka Yoshida, C.J. Cron, Ceddanne Rafaela, Enmanuel Valdez, Connor Wong, Jarren Duran,BOS
+2024-03-16, David Hamilton, Pablo Reyes, Triston Casas, Bobby Dalbec, Wilyer Abreu, Romy Gonzalez, Eddy Alvarez, Tyler Heineman, Dalton Guthrie,BOS
+2024-03-17a, Jarren Duran, Rafael Devers, Trevor Story, C.J. Cron, Masataka Yoshida, Ceddanne Rafaela, Wilyer Abreu, Connor Wong, Enmanuel Valdez,BOS
+2024-03-17b, David Hamilton, Pablo Reyes, Triston Casas, Bobby Dalbec, Reese McGuire, Jamie Westbrook, Romy Gonzalez, Eddy Alvarez, Mark Contreras,BOS
+2024-03-18, Jarren Duran, Masataka Yoshida, C.J. Cron, Triston Casas, Bobby Dalbec, Wilyer Abreu, Pablo Reyes, Enmanuel Valdez, Connor Wong,BOS
+2024-03-19, Jarren Duran, Rafael Devers, Trevor Story, Triston Casas, Tyler O'Neill, Masataka Yoshida, Ceddanne Rafaela, Enmanuel Valdez, Reese McGuire,BOS
+2024-03-21, Jarren Duran, Rafael Devers, Trevor Story, Triston Casas, Tyler O'Neill, Masataka Yoshida, Ceddanne Rafaela, Wilyer Abreu, Connor Wong,BOS
+2024-03-22, Wilyer Abreu, Pablo Reyes, Enmanuel Valdez, Bobby Dalbec, Mark Contreras, Eddy Alvarez, Mark Kolozsvary, Niko Kavadas, Juan Chacon,BOS
+2024-03-23a, Jarren Duran, Rafael Devers, Trevor Story, C.J. Cron, Tyler O'Neill, Masataka Yoshida, Ceddanne Rafaela, Enmanuel Valdez, Reese McGuire,BOS
+2024-03-23b, Wilyer Abreu, Pablo Reyes, Triston Casas, Bobby Dalbec, Roman Anthony, Connor Wong, Marcelo Mayer, Eddy Alvarez, Mark Contreras,BOS
+2024-03-24, Jarren Duran, Tyler O'Neill, Rafael Devers, Trevor Story, Triston Casas, Ceddanne Rafaela, Masataka Yoshida, Pablo Reyes, Connor Wong,BOS
+2024-03-25, Jarren Duran, Rafael Devers, Trevor Story, Tyler O'Neill, Wilyer Abreu, Ceddanne Rafaela, Enmanuel Valdez, Bobby Dalbec, Reese McGuire,BOS
+2024-03-26, Jarren Duran, Rafael Devers, Trevor Story, Masataka Yoshida, Tyler O'Neill, Enmanuel Valdez, Ceddanne Rafaela, Connor Wong, Pablo Reyes,BOS
+2024-02-24, TJ Friedl, Elly De La Cruz, Jeimer Candelario, Jake Fraley, Tyler Stephenson, Will Benson, Josh Harrison, Nick Martini, Austin Wynns,CIN
+2024-02-25, Spencer Steer, Christian Encarnacion-Strand, Luke Maile, Stuart Fairchild, Jose Barrero, Bubba Thompson, Erik Gonzalez, Mark Mathias, Edwin Arroyo,CIN
+2024-02-26a, TJ Friedl, Jeimer Candelario, Tyler Stephenson, Christian Encarnacion-Strand, Josh Harrison, Jose Barrero, Conner Capel, Erik Gonzalez, P.J. Higgins,CIN
+2024-02-26b, Jake Fraley, Elly De La Cruz, Stuart Fairchild, Nick Martini, Will Benson, Mark Mathias, Austin Wynns, Bubba Thompson, Tyler Callihan,CIN
+2024-02-27, TJ Friedl, Elly De La Cruz, Jeimer Candelario, Spencer Steer, Tyler Stephenson, Will Benson, Luke Maile, Nick Martini, Josh Harrison,CIN
+2024-02-29, Jake Fraley, Elly De La Cruz, Jeimer Candelario, Spencer Steer, Tyler Stephenson, Christian Encarnacion-Strand, Mike Ford, Stuart Fairchild, Tony Kemp,CIN
+2024-03-01, TJ Friedl, Will Benson, Jeimer Candelario, Jake Fraley, Nick Martini, Luke Maile, Josh Harrison, Edwin Arroyo, Erik Gonzalez,CIN
+2024-03-02, Spencer Steer, Elly De La Cruz, Christian Encarnacion-Strand, Tyler Stephenson, Noelvi Marte, Mike Ford, Stuart Fairchild, Jose Barrero, Tony Kemp,CIN
+2024-03-03, TJ Friedl, Will Benson, Nick Martini, Luke Maile, Josh Harrison, Jose Barrero, Blake Dunn, Erik Gonzalez, Edwin Arroyo,CIN
+2024-03-04, TJ Friedl, Elly De La Cruz, Spencer Steer, Jake Fraley, Jeimer Candelario, Tyler Stephenson, Will Benson, Christian Encarnacion-Strand, Noelvi Marte,CIN
+2024-03-06a, TJ Friedl, Will Benson, Noelvi Marte, Jake Fraley, Mike Ford, Luke Maile, Josh Harrison, Conner Capel, Edwin Arroyo,CIN
+2024-03-06b, Spencer Steer, Elly De La Cruz, Christian Encarnacion-Strand, Tyler Stephenson, Nick Martini, Stuart Fairchild, Jose Barrero, Tony Kemp, Sal Stewart,CIN
+2024-03-07, TJ Friedl, Elly De La Cruz, Spencer Steer, Will Benson, Mike Ford, Noelvi Marte, Josh Harrison, Tony Kemp, Austin Wynns,CIN
+2024-03-09, TJ Friedl, Spencer Steer, Jake Fraley, Luke Maile, Nick Martini, Tony Kemp, Edwin Arroyo, Sal Stewart, Cam Collier,CIN
+2024-03-10, Jonathan India, Elly De La Cruz, Matt McLain, Jake Fraley, Jeimer Candelario, Will Benson, Tyler Stephenson, Christian Encarnacion-Strand, Mike Ford,CIN
+2024-03-12, TJ Friedl, Elly De La Cruz, Matt McLain, Jake Fraley, Jeimer Candelario, Spencer Steer, Jonathan India, Tyler Stephenson, Will Benson,CIN
+2024-03-13, Spencer Steer, Christian Encarnacion-Strand, Luke Maile, Stuart Fairchild, Nick Martini, Josh Harrison, Mike Ford, Tony Kemp, Edwin Arroyo,CIN
+2024-03-14, TJ Friedl, Matt McLain, Jeimer Candelario, Jake Fraley, Jonathan India, Christian Encarnacion-Strand, Will Benson, Luke Maile, Stuart Fairchild,CIN
+2024-03-16, TJ Friedl, Elly De La Cruz, Matt McLain, Christian Encarnacion-Strand, Jonathan India, Tyler Stephenson, Nick Martini, Mike Ford, Tony Kemp,CIN
+2024-03-17, Matt McLain, Elly De La Cruz, Spencer Steer, Jake Fraley, Jeimer Candelario, Jonathan India, Christian Encarnacion-Strand, Will Benson, Luke Maile,CIN
+2024-03-18, Jonathan India, Spencer Steer, Jake Fraley, Jeimer Candelario, Tyler Stephenson, Nick Martini, Stuart Fairchild, Jacob Hurtubise, Yan Contreras,CIN
+2024-03-19, Elly De La Cruz, Spencer Steer, Christian Encarnacion-Strand, Tyler Stephenson, Nick Martini, Stuart Fairchild, Mike Ford, Bubba Thompson, Will Benson,CIN
+2024-03-20a, Jonathan India, Spencer Steer, Jeimer Candelario, Jake Fraley, Tyler Stephenson, Stuart Fairchild, Mike Ford, Michael Trautwein, Erik Gonzalez,CIN
+2024-03-20b, Will Benson, Elly De La Cruz, Christian Encarnacion-Strand, Nick Martini, Luke Maile, P.J. Higgins, Bubba Thompson, Jacob Hurtubise, Sal Stewart,CIN
+2024-03-21, Jonathan India, Elly De La Cruz, Spencer Steer, Jeimer Candelario, Will Benson, Nick Martini, Mike Ford, Stuart Fairchild, Luke Maile,CIN
+2024-03-22, Jonathan India, Will Benson, Christian Encarnacion-Strand, Tyler Stephenson, Nick Martini, Stuart Fairchild, Jacob Hurtubise, Bubba Thompson, Erik Gonzalez,CIN
+2024-03-23, Will Benson, Elly De La Cruz, Spencer Steer, Jake Fraley, Jeimer Candelario, Christian Encarnacion-Strand, Tyler Stephenson, Santiago Espinal, Stuart Fairchild,CIN
+2024-03-24, Jonathan India, Elly De La Cruz, Spencer Steer, Jake Fraley, Jeimer Candelario, Christian Encarnacion-Strand, Will Benson, Santiago Espinal, Luke Maile,CIN
+2024-02-23, Sean Bouchard, Brenton Doyle, Nolan Jones, Elehuris Montero, Michael Toglia, Alan Trejo, Adael Amador, Julio Carreras, Willie MacIver,COL
+2024-02-24a, Charlie Blackmon, Kris Bryant, Ryan McMahon, Brendan Rodgers, Brenton Doyle, Ezequiel Tovar, Bradley Zimmer, Jordan Beck, Charlie Blackmon,COL
+2024-02-24b, Alan Trejo, Nolan Jones, Elehuris Montero, Elias Diaz, Michael Toglia, Hunter Goodman, Sterlin Thompson, Coco Montes, Bladimir Restituyo,COL
+2024-02-25, Adael Amador, Julio Carreras, Elehuris Montero, Michael Toglia, Hunter Goodman, Bradley Zimmer, Aaron Schunk, Yanquiel Fernandez, Willie MacIver,COL
+2024-02-26, Charlie Blackmon, Kris Bryant, Nolan Jones, Brendan Rodgers, Ryan McMahon, Elias Diaz, Ezequiel Tovar, Brenton Doyle, Braxton Fulford,COL
+2024-02-27, Sean Bouchard, Elehuris Montero, Michael Toglia, Hunter Goodman, Bradley Zimmer, Julio Carreras, Jacob Stallings, Sterlin Thompson, Warming Bernabel,COL
+2024-02-28, Charlie Blackmon, Kris Bryant, Nolan Jones, Brendan Rodgers, Ryan McMahon, Elias Diaz, Sean Bouchard, Ezequiel Tovar, Brenton Doyle,COL
+2024-02-29, Ezequiel Tovar, Nolan Jones, Elehuris Montero, Michael Toglia, Brenton Doyle, Bradley Zimmer, Alan Trejo, Julio Carreras, Jacob Stallings,COL
+2024-03-01, Charlie Blackmon, Kris Bryant, Ryan McMahon, Brendan Rodgers, Elehuris Montero, Bradley Zimmer, Sam Hilliard, Drew Romo, Julio Carreras,COL
+2024-03-02, Ezequiel Tovar, Kris Bryant, Nolan Jones, Brendan Rodgers, Ryan McMahon, Sean Bouchard, Brenton Doyle, Hunter Goodman, Jacob Stallings,COL
+2024-03-03, Ezequiel Tovar, Nolan Jones, Michael Toglia, Elehuris Montero, Bradley Zimmer, Sam Hilliard, Alan Trejo, Drew Romo, Julio Carreras,COL
+2024-03-04, Brenton Doyle, Kris Bryant, Ryan McMahon, Brendan Rodgers, Elehuris Montero, Sean Bouchard, Sam Hilliard, Jacob Stallings, Alan Trejo,COL
+2024-03-06, Charlie Blackmon, Kris Bryant, Nolan Jones, Brendan Rodgers, Ryan McMahon, Elehuris Montero, Ezequiel Tovar, Brenton Doyle, Jacob Stallings,COL
+2024-03-08, Charlie Blackmon, Kris Bryant, Ryan McMahon, Brendan Rodgers, Elias Diaz, Ezequiel Tovar, Bradley Zimmer, Sam Hilliard, Brenton Doyle,COL
+2024-03-09, Sean Bouchard, Nolan Jones, Elehuris Montero, Ryan McMahon, Michael Toglia, Sam Hilliard, Jacob Stallings, Alan Trejo, Julio Carreras,COL
+2024-03-10, Charlie Blackmon, Kris Bryant, Nolan Jones, Brendan Rodgers, Elias Diaz, Ezequiel Tovar, Brenton Doyle, Bradley Zimmer, Aaron Schunk,COL
+2024-03-11, Sam Hilliard, Ryan McMahon, Elehuris Montero, Michael Toglia, Sean Bouchard, Bradley Zimmer, Alan Trejo, Jacob Stallings, Julio Carreras,COL
+2024-03-12, Charlie Blackmon, Ezequiel Tovar, Brendan Rodgers, Nolan Jones, Elias Diaz, Sean Bouchard, Elehuris Montero, Brenton Doyle, Coco Montes,COL
+2024-03-13, Charlie Blackmon, Kris Bryant, Ryan McMahon, Brendan Rodgers, Nolan Jones, Ezequiel Tovar, Brenton Doyle, Hunter Goodman, Jacob Stallings,COL
+2024-03-14, Sean Bouchard, Alan Trejo, Sam Hilliard, Elehuris Montero, Bradley Zimmer, Coco Montes, Aaron Schunk, Drew Romo, Willie MacIver,COL
+2024-03-16, Charlie Blackmon, Kris Bryant, Nolan Jones, Brendan Rodgers, Ryan McMahon, Elias Diaz, Ezequiel Tovar, Michael Toglia, Brenton Doyle,COL
+2024-03-17, Charlie Blackmon, Sean Bouchard, Nolan Jones, Elehuris Montero, Ryan McMahon, Ezequiel Tovar, Brenton Doyle, Alan Trejo, Jacob Stallings,COL
+2024-03-19a, Brenton Doyle, Ezequiel Tovar, Nolan Jones, Elehuris Montero, Michael Toglia, Jacob Stallings, Coco Montes, Aaron Schunk, Willie MacIver,COL
+2024-03-19b, Charlie Blackmon, Kris Bryant, Ryan McMahon, Brendan Rodgers, Elias Diaz, Bradley Zimmer, Sam Hilliard, Sean Bouchard, Alan Trejo,COL
+2024-03-20, Charlie Blackmon, Kris Bryant, Nolan Jones, Brendan Rodgers, Ryan McMahon, Elias Diaz, Ezequiel Tovar, Elehuris Montero, Brenton Doyle,COL
+2024-03-21, Charlie Blackmon, Ezequiel Tovar, Brendan Rodgers, Nolan Jones, Sean Bouchard, Elehuris Montero, Michael Toglia, Jacob Stallings, Julio Carreras,COL
+2024-03-22, Brenton Doyle, Sean Bouchard, Ryan McMahon, Elias Diaz, Michael Toglia, Bradley Zimmer, Alan Trejo, Jordan Beck, Coco Montes,COL
+2024-03-23, Charlie Blackmon, Ezequiel Tovar, Nolan Jones, Brendan Rodgers, Elehuris Montero, Hunter Goodman, Alan Trejo, Jacob Stallings, Greg Jones,COL
+2024-03-24, Charlie Blackmon, Kris Bryant, Ryan McMahon, Brendan Rodgers, Elias Diaz, Sean Bouchard, Michael Toglia, Brenton Doyle, Greg Jones,COL
+2024-03-25, Jake Cave, Nolan Jones, Elehuris Montero, Michael Toglia, Jacob Stallings, Alan Trejo, Adael Amador, Julio Carreras, Greg Jones,COL
+2024-03-26, Charlie Blackmon, Kris Bryant, Nolan Jones, Brendan Rodgers, Ryan McMahon, Elias Diaz, Ezequiel Tovar, Elehuris Montero, Brenton Doyle,COL
+2024-02-23, Garrett Hampson, Vinnie Pasquantino, Nelson Velazquez, Michael Massey, Nick Loftin, Drew Waters, Mike Brosseau, Tyler Gentry, Sandy Leon,KC
+2024-02-24, Maikel Garcia, Bobby Witt Jr., Salvador Perez, Adam Frazier, MJ Melendez, Kyle Isbel, Dairon Blanco, Nick Pratto, Logan Porter,KC
+2024-02-25, Garrett Hampson, Vinnie Pasquantino, Nelson Velazquez, Drew Waters, Nick Loftin, Freddy Fermin, Tyler Tolbert, CJ Alexander, Cam Devanney,KC
+2024-02-26, MJ Melendez, Bobby Witt Jr., Michael Massey, Austin Nola, Nick Pratto, Mike Brosseau, Kyle Isbel, Dairon Blanco, Carter Jensen,KC
+2024-02-27a, Maikel Garcia, Drew Waters, Nelson Velazquez, Nick Loftin, Garrett Hampson, Devin Mann, Sandy Leon, Cam Devanney, Luca Tresh,KC
+2024-02-27b, Adam Frazier, Salvador Perez, Vinnie Pasquantino, Tyler Tolbert, John Rave, Nate Eaton, CJ Alexander, Diego Hernandez, Tyler Cropley,KC
+2024-02-28, MJ Melendez, Bobby Witt Jr., Nick Pratto, Nick Loftin, Michael Massey, Mike Brosseau, Kyle Isbel, Freddy Fermin, Dairon Blanco,KC
+2024-02-29, Adam Frazier, Salvador Perez, Vinnie Pasquantino, Maikel Garcia, Drew Waters, Nelson Velazquez, Garrett Hampson, Austin Nola, Cam Devanney,KC
+2024-03-01, Michael Massey, Bobby Witt Jr., Salvador Perez, MJ Melendez, Hunter Renfroe, Nick Loftin, Nick Pratto, Kyle Isbel, Tyler Gentry,KC
+2024-03-02, Maikel Garcia, Vinnie Pasquantino, Nelson Velazquez, Adam Frazier, Garrett Hampson, Mike Brosseau, Sandy Leon, Dairon Blanco, Tyler Tolbert,KC
+2024-03-03, Michael Massey, Bobby Witt Jr., Salvador Perez, MJ Melendez, Hunter Renfroe, Nick Pratto, Nick Loftin, Kyle Isbel, Austin Nola,KC
+2024-03-05, Maikel Garcia, Bobby Witt Jr., Vinnie Pasquantino, Nelson Velazquez, Adam Frazier, Austin Nola, Drew Waters, Tyler Gentry, John Rave,KC
+2024-03-06, Kyle Isbel, Hunter Renfroe, Salvador Perez, MJ Melendez, Nick Loftin, Michael Massey, Mike Brosseau, Nick Pratto, Garrett Hampson,KC
+2024-03-08, Maikel Garcia, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Hunter Renfroe, Michael Massey, Adam Frazier, Garrett Hampson, Kyle Isbel,KC
+2024-03-09, Adam Frazier, Bobby Witt Jr., Salvador Perez, Vinnie Pasquantino, Nelson Velazquez, Drew Waters, Freddy Fermin, Mike Brosseau, Dairon Blanco,KC
+2024-03-10, Maikel Garcia, MJ Melendez, Hunter Renfroe, Vinnie Pasquantino, Austin Nola, Michael Massey, Nick Pratto, Garrett Hampson, Kyle Isbel,KC
+2024-03-11, Adam Frazier, Bobby Witt Jr., Salvador Perez, Hunter Renfroe, Nick Pratto, Nelson Velazquez, Nick Loftin, Drew Waters, Kyle Isbel,KC
+2024-03-12, MJ Melendez, Bobby Witt Jr., Vinnie Pasquantino, Maikel Garcia, Freddy Fermin, Nick Loftin, Garrett Hampson, Mike Brosseau, Tyler Gentry,KC
+2024-03-13, Maikel Garcia, Vinnie Pasquantino, Hunter Renfroe, Nelson Velazquez, Michael Massey, Adam Frazier, Sandy Leon, CJ Alexander, Kyle Isbel,KC
+2024-03-14, Adam Frazier, Bobby Witt Jr., Nick Pratto, Freddy Fermin, MJ Melendez, Nick Loftin, Drew Waters, Garrett Hampson, Nate Eaton,KC
+2024-03-15, Michael Massey, Bobby Witt Jr., Salvador Perez, Hunter Renfroe, Austin Nola, CJ Alexander, Nelson Velazquez, Gavin Cross, Blake Mitchell,KC
+2024-03-16, MJ Melendez, Austin Nola, Michael Massey, Mike Brosseau, Nick Pratto, Devin Mann, John Rave, Tyler Tolbert, Cam Devanney,KC
+2024-03-17, Kyle Isbel, Bobby Witt Jr., Vinnie Pasquantino, Hunter Renfroe, Adam Frazier, Maikel Garcia, Nelson Velazquez, Freddy Fermin, Nick Loftin,KC
+2024-03-19, Kyle Isbel, Nick Loftin, MJ Melendez, Salvador Perez, Adam Frazier, Dairon Blanco, Nick Pratto, Mike Brosseau, Garrett Hampson,KC
+2024-03-20, Maikel Garcia, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, MJ Melendez, Hunter Renfroe, Nick Loftin, Nelson Velazquez, Kyle Isbel,KC
+2024-03-21a, Dairon Blanco, Adam Frazier, Garrett Hampson, Nick Pratto, Freddy Fermin, Mike Brosseau, Nate Eaton, Devin Mann, Gavin Cross,KC
+2024-03-21b, Drew Waters, Nick Loftin, Nelson Velazquez, CJ Alexander, Austin Nola, Tyler Tolbert, John Rave, Peyton Wilson, Trevor Werner,KC
+2024-03-22, Maikel Garcia, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Hunter Renfroe, MJ Melendez, Adam Frazier, Cam Devanney, Kyle Isbel,KC
+2024-03-23, MJ Melendez, Bobby Witt Jr., Vinnie Pasquantino, Hunter Renfroe, Nick Loftin, Freddy Fermin, Garrett Hampson, Mike Brosseau, Dairon Blanco,KC
+2024-02-24, Akil Baddoo, Justyn-Henry Malloy, Colt Keith, Javier Baez, Matt Vierling, Andy Ibanez, Keston Hiura, Jake Rogers, Ryan Kreidler,DET
+2024-02-25, Parker Meadows, Justyn-Henry Malloy, Zach McKinstry, Carson Kelly, Andy Ibanez, Ryan Vilade, Andre Lipcius, Justice Bigbie, Eddys Leonard,DET
+2024-02-26, Akil Baddoo, Riley Greene, Spencer Torkelson, Mark Canha, Colt Keith, Javier Baez, Matt Vierling, Jake Rogers, Ryan Kreidler,DET
+2024-02-27a, Riley Greene, Spencer Torkelson, Mark Canha, Gio Urshela, Colt Keith, Javier Baez, Carson Kelly, Justice Bigbie, Akil Baddoo,DET
+2024-02-27b, Parker Meadows, Justyn-Henry Malloy, Zach McKinstry, Jake Rogers, Matt Vierling, Bligh Madris, Keston Hiura, Wenceel Perez, Ryan Kreidler,DET
+2024-02-28, Parker Meadows, Gio Urshela, Zach McKinstry, Carson Kelly, Andy Ibanez, Bligh Madris, Justice Bigbie, Andre Lipcius, Eddys Leonard,DET
+2024-02-29, Akil Baddoo, Ryan Kreidler, Andy Ibanez, Justyn-Henry Malloy, Jace Jung, Ryan Vilade, Dillon Dingler, TJ Hopkins, Anthony Bemboom,DET
+2024-03-01, Matt Vierling, Gio Urshela, Riley Greene, Spencer Torkelson, Mark Canha, Javier Baez, Keston Hiura, Jake Rogers, Parker Meadows,DET
+2024-03-02, Parker Meadows, Zach McKinstry, Riley Greene, Spencer Torkelson, Colt Keith, Andy Ibanez, Bligh Madris, Justice Bigbie, Carson Kelly,DET
+2024-03-03, Matt Vierling, Andy Ibanez, Mark Canha, Javier Baez, Gio Urshela, Jake Rogers, Zach McKinstry, Justyn-Henry Malloy, Akil Baddoo,DET
+2024-03-04, Parker Meadows, Riley Greene, Spencer Torkelson, Mark Canha, Colt Keith, Javier Baez, Gio Urshela, Jake Rogers, Matt Vierling,DET
+2024-03-05, Zach McKinstry, Wenceel Perez, Kerry Carpenter, Justyn-Henry Malloy, Colt Keith, Carson Kelly, Bligh Madris, Ryan Vilade, Ryan Kreidler,DET
+2024-03-07a, Parker Meadows, Riley Greene, Spencer Torkelson, Mark Canha, Colt Keith, Carson Kelly, Buddy Kennedy, Jace Jung, Ryan Kreidler,DET
+2024-03-07b, Zach McKinstry, Gio Urshela, Javier Baez, Kerry Carpenter, Jake Rogers, Andy Ibanez, Matt Vierling, Justyn-Henry Malloy, Akil Baddoo,DET
+2024-03-08, Parker Meadows, Gio Urshela, Riley Greene, Spencer Torkelson, Mark Canha, Matt Vierling, Jake Rogers, Buddy Kennedy, Eddys Leonard,DET
+2024-03-09, Matt Vierling, Gio Urshela, Kerry Carpenter, Javier Baez, Colt Keith, Carson Kelly, Zach McKinstry, Keston Hiura, Akil Baddoo,DET
+2024-03-10, Parker Meadows, Andy Ibanez, Riley Greene, Spencer Torkelson, Mark Canha, Colt Keith, Jake Rogers, Buddy Kennedy, Ryan Kreidler,DET
+2024-03-11, Andy Ibanez, Justyn-Henry Malloy, Riley Greene, Spencer Torkelson, Kerry Carpenter, Jake Rogers, Colt Keith, Ryan Kreidler, Parker Meadows,DET
+2024-03-12, Matt Vierling, Zach McKinstry, Mark Canha, Kerry Carpenter, Javier Baez, Gio Urshela, Bligh Madris, Carson Kelly, Akil Baddoo,DET
+2024-03-13, Parker Meadows, Matt Vierling, Riley Greene, Spencer Torkelson, Mark Canha, Colt Keith, Javier Baez, Gio Urshela, Jake Rogers,DET
+2024-03-14, Parker Meadows, Riley Greene, Spencer Torkelson, Kerry Carpenter, Mark Canha, Colt Keith, Carson Kelly, Zach McKinstry, Ryan Kreidler,DET
+2024-03-15a, Parker Meadows, Gio Urshela, Riley Greene, Spencer Torkelson, Carson Kelly, Jace Jung, Justyn-Henry Malloy, Akil Baddoo, Ryan Kreidler,DET
+2024-03-15b, Matt Vierling, Andy Ibanez, Kerry Carpenter, Javier Baez, Jake Rogers, Colt Keith, Dillon Dingler, Keston Hiura, Buddy Kennedy,DET
+2024-03-16, Matt Vierling, Gio Urshela, Kerry Carpenter, Mark Canha, Javier Baez, Zach McKinstry, Justyn-Henry Malloy, Jake Rogers, Eddys Leonard,DET
+2024-03-17, Parker Meadows, Riley Greene, Spencer Torkelson, Mark Canha, Colt Keith, Javier Baez, Zach McKinstry, Andy Ibanez, Carson Kelly,DET
+2024-03-19, Matt Vierling, Spencer Torkelson, Riley Greene, Mark Canha, Javier Baez, Colt Keith, Jake Rogers, Gio Urshela, Parker Meadows,DET
+2024-03-20, Zach McKinstry, Matt Vierling, Kerry Carpenter, Carson Kelly, Colt Keith, Justyn-Henry Malloy, Keston Hiura, Wenceel Perez, Ryan Kreidler,DET
+2024-03-21, Parker Meadows, Riley Greene, Spencer Torkelson, Kerry Carpenter, Mark Canha, Colt Keith, Javier Baez, Gio Urshela, Carson Kelly,DET
+2024-03-22, Parker Meadows, Riley Greene, Spencer Torkelson, Kerry Carpenter, Mark Canha, Colt Keith, Matt Vierling, Javier Baez, Jake Rogers,DET
+2024-03-23a, Parker Meadows, Riley Greene, Spencer Torkelson, Kerry Carpenter, Mark Canha, Colt Keith, Javier Baez, Zach McKinstry, Carson Kelly,DET
+2024-03-23b, Matt Vierling, Andy Ibanez, Justyn-Henry Malloy, Jake Rogers, Gio Urshela, Ryan Kreidler, Eddys Leonard, Ryan Vilade, Akil Baddoo,DET
+2024-03-24, Parker Meadows, Riley Greene, Spencer Torkelson, Kerry Carpenter, Javier Baez, Colt Keith, Gio Urshela, Justyn-Henry Malloy, Carson Kelly,DET
+2024-03-26, Parker Meadows, Spencer Torkelson, Riley Greene, Kerry Carpenter, Mark Canha, Colt Keith, Gio Urshela, Javier Baez, Jake Rogers,DET
+2024-02-24, Kyle Farmer, Carlos Santana, Royce Lewis, Max Kepler, Ryan Jeffers, Edouard Julien, Willi Castro, Alex Kirilloff, Austin Martin,MIN
+2024-02-25, Alex Kirilloff, Christian Vazquez, Matt Wallner, Brooks Lee, Trevor Larnach, Emmanuel Rodriguez, Yunior Severino, Michael Helman, Niko Goodrum,MIN
+2024-02-26, Carlos Santana, Brooks Lee, Edouard Julien, Jose Miranda, Austin Martin, Jair Camargo, Emmanuel Rodriguez, Anthony Prato, Michael Helman,MIN
+2024-02-27, Willi Castro, Byron Buxton, Carlos Correa, Royce Lewis, Kyle Farmer, Max Kepler, Ryan Jeffers, Christian Vazquez, Alex Kirilloff,MIN
+2024-02-28, Edouard Julien, Carlos Santana, Max Kepler, Matt Wallner, Christian Vazquez, Trevor Larnach, Brooks Lee, Emmanuel Rodriguez, Niko Goodrum,MIN
+2024-02-29, Alex Kirilloff, Kyle Farmer, Matt Wallner, Ryan Jeffers, Trevor Larnach, Willi Castro, Jose Miranda, Brooks Lee, Austin Martin,MIN
+2024-03-01, Edouard Julien, Carlos Correa, Byron Buxton, Royce Lewis, Max Kepler, Carlos Santana, Christian Vazquez, Manuel Margot, Kyle Farmer,MIN
+2024-03-02, Willi Castro, Alex Kirilloff, Ryan Jeffers, Matt Wallner, Jose Miranda, Trevor Larnach, Brooks Lee, Austin Martin, Emmanuel Rodriguez,MIN
+2024-03-03, Edouard Julien, Byron Buxton, Royce Lewis, Carlos Correa, Max Kepler, Carlos Santana, Christian Vazquez, Kyle Farmer, Manuel Margot,MIN
+2024-03-04a, Carlos Santana, Max Kepler, Carlos Correa, Alex Kirilloff, Ryan Jeffers, Willi Castro, Kyle Farmer, Manuel Margot, Trevor Larnach,MIN
+2024-03-04b, Edouard Julien, Royce Lewis, Brooks Lee, Matt Wallner, Austin Martin, Emmanuel Rodriguez, Niko Goodrum, Jair Camargo, Michael Helman,MIN
+2024-03-05, Alex Kirilloff, Willi Castro, Christian Vazquez, Brooks Lee, Trevor Larnach, Jose Miranda, Austin Martin, Emmanuel Rodriguez, Niko Goodrum,MIN
+2024-03-06, Edouard Julien, Carlos Correa, Byron Buxton, Royce Lewis, Max Kepler, Carlos Santana, Manuel Margot, Kyle Farmer, Jair Camargo,MIN
+2024-03-08, Manuel Margot, Kyle Farmer, Edouard Julien, Jose Miranda, Brooks Lee, Alex Kirilloff, Austin Martin, Trevor Larnach, Jair Camargo,MIN
+2024-03-09, Carlos Santana, Byron Buxton, Carlos Correa, Royce Lewis, Max Kepler, Christian Vazquez, Willi Castro, Austin Martin, Matt Wallner,MIN
+2024-03-10, Alex Kirilloff, Byron Buxton, Carlos Correa, Royce Lewis, Max Kepler, Manuel Margot, Matt Wallner, Kyle Farmer, Jair Camargo,MIN
+2024-03-11, Edouard Julien, Willi Castro, Carlos Santana, Kyle Farmer, Christian Vazquez, Manuel Margot, Brooks Lee, Austin Martin, Michael Helman,MIN
+2024-03-12, Alex Kirilloff, Emmanuel Rodriguez, Matt Wallner, Jose Miranda, Yunior Severino, Jair Camargo, Austin Martin, Niko Goodrum, Anthony Prato,MIN
+2024-03-13a, Brooks Lee, Edouard Julien, Jose Miranda, Matt Wallner, Trevor Larnach, Niko Goodrum, Michael Helman, Patrick Winkel, Carson McCusker,MIN
+2024-03-13b, Carlos Santana, Byron Buxton, Carlos Correa, Royce Lewis, Willi Castro, Max Kepler, Christian Vazquez, Manuel Margot, Alex Kirilloff,MIN
+2024-03-14, Edouard Julien, Byron Buxton, Carlos Correa, Royce Lewis, Max Kepler, Carlos Santana, Ryan Jeffers, Kyle Farmer, Manuel Margot,MIN
+2024-03-15, Willi Castro, Alex Kirilloff, Kyle Farmer, Matt Wallner, Christian Vazquez, Jose Miranda, Brooks Lee, Niko Goodrum, Michael Helman,MIN
+2024-03-16, Edouard Julien, Carlos Correa, Byron Buxton, Royce Lewis, Max Kepler, Carlos Santana, Ryan Jeffers, Manuel Margot, Willi Castro,MIN
+2024-03-17, Edouard Julien, Brooks Lee, Alex Kirilloff, Matt Wallner, Trevor Larnach, Jose Miranda, Niko Goodrum, Michael Helman, Patrick Winkel,MIN
+2024-03-18, Carlos Santana, Carlos Correa, Royce Lewis, Max Kepler, Ryan Jeffers, Kyle Farmer, Christian Vazquez, Manuel Margot, Kala'i Rosario,MIN
+2024-03-20, Edouard Julien, Byron Buxton, Carlos Correa, Royce Lewis, Carlos Santana, Ryan Jeffers, Willi Castro, Manuel Margot, Gabriel Gonzalez,MIN
+2024-03-21, Alex Kirilloff, Kyle Farmer, Brooks Lee, Matt Wallner, Michael Helman, Chris Williams, Anthony Prato, Carson McCusker, Alex Isola,MIN
+2024-03-23, Edouard Julien, Carlos Correa, Byron Buxton, Royce Lewis, Max Kepler, Christian Vazquez, Matt Wallner, Willi Castro, Kyle Farmer,MIN
+2024-03-24, Edouard Julien, Alex Kirilloff, Carlos Correa, Royce Lewis, Carlos Santana, Ryan Jeffers, Matt Wallner, Manuel Margot, Gabriel Gonzalez,MIN
+2024-03-25, Byron Buxton, Carlos Santana, Kyle Farmer, Willi Castro, Christian Vazquez, Max Kepler, Manuel Margot, Alex Kirilloff, Michael Helman,MIN
+2024-03-26, Edouard Julien, Byron Buxton, Carlos Correa, Royce Lewis, Max Kepler, Carlos Santana, Matt Wallner, Ryan Jeffers, Willi Castro,MIN
+2024-02-23, Kevin Pillar, Paul DeJong, Andrew Vaughn, Bryan Ramos, Tim Elko, Dominic Fletcher, Rafael Ortega, Martin Maldonado, Nicky Lopez,CWS
+2024-02-24, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Eloy Jimenez, Mike Moustakas, Gavin Sheets, Colson Montgomery, Max Stassi, Danny Mendick,CWS
+2024-02-25, Nicky Lopez, Rafael Ortega, Andrew Vaughn, Gavin Sheets, Paul DeJong, Zach DeLoach, Kevin Pillar, Martin Maldonado, Lenyn Sosa,CWS
+2024-02-26, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Eloy Jimenez, Mike Moustakas, Dominic Fletcher, Chuckie Robinson, Braden Shewmake, Danny Mendick,CWS
+2024-02-27, Dominic Fletcher, Nicky Lopez, Eloy Jimenez, Andrew Vaughn, Mike Moustakas, Paul DeJong, Oscar Colas, Kevin Pillar, Max Stassi,CWS
+2024-02-28, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Gavin Sheets, Colson Montgomery, Martin Maldonado, Zach DeLoach, Max Stassi, Zach Remillard,CWS
+2024-02-29a, Nicky Lopez, Yoan Moncada, Andrew Vaughn, Eloy Jimenez, Paul DeJong, Kevin Pillar, Max Stassi, Peyton Burdick, Brett Phillips,CWS
+2024-02-29b, Andrew Benintendi, Colson Montgomery, Luis Robert Jr., Mike Moustakas, Gavin Sheets, Dominic Fletcher, Martin Maldonado, Braden Shewmake, Lenyn Sosa,CWS
+2024-03-01, Kevin Pillar, Paul DeJong, Andrew Vaughn, Eloy Jimenez, Peyton Burdick, Mike Moustakas, Korey Lee, Dominic Fletcher, Nicky Lopez,CWS
+2024-03-02, Andrew Benintendi, Yoan Moncada, Eloy Jimenez, Mike Moustakas, Gavin Sheets, Martin Maldonado, Dominic Fletcher, Braden Shewmake, Danny Mendick,CWS
+2024-03-03, Nicky Lopez, Paul DeJong, Andrew Vaughn, Gavin Sheets, Kevin Pillar, Rafael Ortega, Max Stassi, Zach DeLoach, Zach Remillard,CWS
+2024-03-04, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Eloy Jimenez, Andrew Vaughn, Paul DeJong, Kevin Pillar, Martin Maldonado, Nicky Lopez,CWS
+2024-03-06, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Eloy Jimenez, Andrew Vaughn, Dominic Fletcher, Paul DeJong, Max Stassi, Nicky Lopez,CWS
+2024-03-07, Rafael Ortega, Yoan Moncada, Eloy Jimenez, Andrew Vaughn, Kevin Pillar, Paul DeJong, Mark Payton, Chuckie Robinson, Danny Mendick,CWS
+2024-03-08, Andrew Benintendi, Nicky Lopez, Luis Robert Jr., Gavin Sheets, Mike Moustakas, Martin Maldonado, Dominic Fletcher, Zach DeLoach, Braden Shewmake,CWS
+2024-03-09, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Eloy Jimenez, Andrew Vaughn, Gavin Sheets, Paul DeJong, Max Stassi, Nicky Lopez,CWS
+2024-03-10, Dominic Fletcher, Yoan Moncada, Andrew Vaughn, Eloy Jimenez, Rafael Ortega, Paul DeJong, Kevin Pillar, Martin Maldonado, Nicky Lopez,CWS
+2024-03-11, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Paul DeJong, Kevin Pillar, Gavin Sheets, Max Stassi, Zach Remillard, Braden Shewmake,CWS
+2024-03-12, Andrew Benintendi, Dominic Fletcher, Luis Robert Jr., Eloy Jimenez, Andrew Vaughn, Mike Moustakas, Paul DeJong, Martin Maldonado, Nicky Lopez,CWS
+2024-03-13, Nicky Lopez, Yoan Moncada, Andrew Vaughn, Eloy Jimenez, Paul DeJong, Rafael Ortega, Kevin Pillar, Korey Lee, Mark Payton,CWS
+2024-03-14, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Andrew Vaughn, Kevin Pillar, Mike Moustakas, Chuckie Robinson, Zach Remillard, Danny Mendick,CWS
+2024-03-15, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Andrew Vaughn, Paul DeJong, Kevin Pillar, Dominic Fletcher, Martin Maldonado, Nicky Lopez,CWS
+2024-03-16a, Dominic Fletcher, Yoan Moncada, Andrew Vaughn, Rafael Ortega, Mark Payton, Zach Remillard, Martin Maldonado, Braden Shewmake, Brett Phillips,CWS
+2024-03-16b, Andrew Benintendi, Nicky Lopez, Luis Robert Jr., Gavin Sheets, Kevin Pillar, Mike Moustakas, Paul DeJong, Max Stassi, Tim Elko,CWS
+2024-03-17, Dominic Fletcher, Kevin Pillar, Paul DeJong, Eloy Jimenez, Gavin Sheets, Zach Remillard, Korey Lee, Nicky Lopez, Brett Phillips,CWS
+2024-03-18, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Eloy Jimenez, Andrew Vaughn, Gavin Sheets, Max Stassi, Zach Remillard, Danny Mendick,CWS
+2024-03-20, Andrew Benintendi, Mike Moustakas, Luis Robert Jr., Eloy Jimenez, Andrew Vaughn, Paul DeJong, Dominic Fletcher, Martin Maldonado, Nicky Lopez,CWS
+2024-03-21, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Andrew Vaughn, Gavin Sheets, Zach DeLoach, Paul DeJong, Martin Maldonado, Nicky Lopez,CWS
+2024-03-22a, Mark Payton, Oscar Colas, Zach Remillard, Gavin Sheets, Tim Elko, Zach DeLoach, Chuckie Robinson, Lenyn Sosa, Danny Mendick,CWS
+2024-03-22b, Nicky Lopez, Yoan Moncada, Andrew Vaughn, Eloy Jimenez, Rafael Ortega, Paul DeJong, Dominic Fletcher, Martin Maldonado, Brett Phillips,CWS
+2024-03-23, Andrew Benintendi, Yoan Moncada, Luis Robert Jr., Eloy Jimenez, Gavin Sheets, Korey Lee, Dominic Fletcher, Zach Remillard, Braden Shewmake,CWS
+2024-03-24, Kevin Pillar, Paul DeJong, Andrew Vaughn, Korey Lee, Martin Maldonado, Braden Shewmake, Nicky Lopez, Rafael Ortega, Mark Payton,CWS
+2024-02-24, Anthony Volpe, Trent Grisham, Oswaldo Cabrera, Everson Pereira, Ben Rortvedt, Luis Torrens, Oscar Gonzalez, Jorbit Vivas, Jordan Groshans,NYY
+2024-02-25a, Oswald Peraza, Austin Wells, Oswaldo Cabrera, Everson Pereira, Jose Rojas, Greg Allen, Jeter Downs, T.J. Rumfield, Brandon Lockridge,NYY
+2024-02-25b, Alex Verdugo, Juan Soto, Aaron Judge, Anthony Rizzo, Gleyber Torres, Josh VanMeter, Kevin Smith, J.C. Escarra, Carlos Narvaez,NYY
+2024-02-26, DJ LeMahieu, Juan Soto, Gleyber Torres, Anthony Rizzo, Giancarlo Stanton, Alex Verdugo, Anthony Volpe, Trent Grisham, Ben Rortvedt,NYY
+2024-02-27, Anthony Volpe, Austin Wells, Everson Pereira, Oswaldo Cabrera, Jose Rojas, Oscar Gonzalez, Spencer Jones, Carlos Narvaez, Jorbit Vivas,NYY
+2024-02-29, DJ LeMahieu, Gleyber Torres, Anthony Rizzo, Giancarlo Stanton, Alex Verdugo, Anthony Volpe, Trent Grisham, Oscar Gonzalez, Ben Rortvedt,NYY
+2024-03-01, DJ LeMahieu, Juan Soto, Aaron Judge, Anthony Rizzo, Giancarlo Stanton, Austin Wells, Oswaldo Cabrera, Everson Pereira, Jorbit Vivas,NYY
+2024-03-02, Anthony Volpe, Alex Verdugo, Gleyber Torres, Trent Grisham, Jose Rojas, Kevin Smith, J.C. Escarra, Carlos Narvaez, T.J. Rumfield,NYY
+2024-03-03, DJ LeMahieu, Juan Soto, Aaron Judge, Anthony Rizzo, Giancarlo Stanton, Austin Wells, Brandon Lockridge, Jorbit Vivas, Jeter Downs,NYY
+2024-03-04, Anthony Volpe, Trent Grisham, Gleyber Torres, Austin Wells, Oswaldo Cabrera, Everson Pereira, Jose Rojas, Josh VanMeter, Spencer Jones,NYY
+2024-03-05, Anthony Volpe, Trent Grisham, Everson Pereira, Austin Wells, Oswald Peraza, Oswaldo Cabrera, Oscar Gonzalez, Ben Rortvedt, Jeter Downs,NYY
+2024-03-06, DJ LeMahieu, Juan Soto, Aaron Judge, Anthony Rizzo, Gleyber Torres, Giancarlo Stanton, Alex Verdugo, Luis Torrens, Oswald Peraza,NYY
+2024-03-07, Anthony Volpe, Trent Grisham, Giancarlo Stanton, Austin Wells, Everson Pereira, Jose Rojas, Oscar Gonzalez, Oswaldo Cabrera, Anthony Volpe,NYY
+2024-03-08, DJ LeMahieu, Juan Soto, Aaron Judge, Anthony Rizzo, Gleyber Torres, Alex Verdugo, Trent Grisham, Kevin Smith, Ben Rortvedt,NYY
+2024-03-09, Anthony Volpe, Austin Wells, Oscar Gonzalez, Oswaldo Cabrera, Everson Pereira, Josh VanMeter, Jahmai Jones, Luis Gonzalez, Greg Allen,NYY
+2024-03-10, DJ LeMahieu, Juan Soto, Aaron Judge, Anthony Rizzo, Gleyber Torres, Giancarlo Stanton, Alex Verdugo, Jose Trevino, Oswaldo Cabrera,NYY
+2024-03-11a, Anthony Volpe, Juan Soto, Gleyber Torres, Ben Rortvedt, Everson Pereira, Josh VanMeter, Oscar Gonzalez, Oswaldo Cabrera, Greg Allen,NYY
+2024-03-11b, DJ LeMahieu, Alex Verdugo, Anthony Rizzo, Giancarlo Stanton, Trent Grisham, Austin Wells, Kevin Smith, Luis Gonzalez, Jahmai Jones,NYY
+2024-03-12, Trent Grisham, Anthony Volpe, Oswaldo Cabrera, Jose Trevino, Jose Rojas, Luis Torrens, Jorbit Vivas, Jahmai Jones, Greg Allen,NYY
+2024-03-13, DJ LeMahieu, Juan Soto, Gleyber Torres, Anthony Rizzo, Giancarlo Stanton, Alex Verdugo, Anthony Volpe, Austin Wells, Greg Allen,NYY
+2024-03-14, Alex Verdugo, Gleyber Torres, Anthony Rizzo, Jose Trevino, Trent Grisham, Oscar Gonzalez, Jorbit Vivas, Oswaldo Cabrera, Kevin Smith,NYY
+2024-03-15, Alex Verdugo, Juan Soto, Gleyber Torres, Anthony Rizzo, Anthony Volpe, Austin Wells, Trent Grisham, Jose Trevino, Oswaldo Cabrera,NYY
+2024-03-16, DJ LeMahieu, Juan Soto, Anthony Volpe, Giancarlo Stanton, Ben Rortvedt, Oscar Gonzalez, Jahmai Jones, Greg Allen, Jeter Downs,NYY
+2024-03-17, Trent Grisham, Jose Trevino, Anthony Rizzo, Oscar Gonzalez, Oswaldo Cabrera, Everson Pereira, Luis Gonzalez, Kevin Smith, Caleb Durbin,NYY
+2024-03-18, Anthony Volpe, Juan Soto, Gleyber Torres, Giancarlo Stanton, Alex Verdugo, Austin Wells, Trent Grisham, Kevin Smith, Oswaldo Cabrera,NYY
+2024-03-20, Gleyber Torres, Juan Soto, Aaron Judge, Giancarlo Stanton, Anthony Rizzo, Anthony Volpe, Alex Verdugo, Jose Trevino, Kevin Smith,NYY
+2024-03-21, Alex Verdugo, Anthony Volpe, Austin Wells, Oscar Gonzalez, Oswaldo Cabrera, Jose Rojas, Jahmai Jones, Caleb Durbin, Greg Allen,NYY
+2024-03-22, Gleyber Torres, Juan Soto, Aaron Judge, Giancarlo Stanton, Trent Grisham, Anthony Volpe, Luis Torrens, Jose Trevino, Kevin Smith,NYY
+2024-03-23a, Gleyber Torres, Juan Soto, Aaron Judge, Giancarlo Stanton, Alex Verdugo, Oswaldo Cabrera, Jose Rojas, Ben Rortvedt, Kevin Smith,NYY
+2024-03-23b, Trent Grisham, Luis Torrens, Austin Wells, Jahmai Jones, Luis Gonzalez, Caleb Durbin, Ben Rice, Brandon Lockridge, Roderick Arias,NYY
+2024-03-24, Luis Gonzalez, Caleb Durbin, Austin Wells, Luis Torrens, Josh VanMeter, Jahmai Jones, Ben Rortvedt, George Lombard Jr., Brandon Lockridge,NYY
+2024-03-25, Gleyber Torres, Juan Soto, Aaron Judge, Anthony Rizzo, Alex Verdugo, Luis Torrens, Austin Wells, Roderick Arias, Benjamin Cowles,NYY

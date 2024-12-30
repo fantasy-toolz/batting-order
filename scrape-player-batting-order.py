@@ -49,6 +49,14 @@ if gamemode=='postseason':
     outdir = 'Postseason/'
 
 
+# if doing preseason, limit dates
+year = '2023'
+gamemode = 'preseason'
+if gamemode=='preseason':
+    yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(48,92)]
+    alldates = yeardates
+    outdir = 'Preseason/'
+
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
 # create a file that stamps the last time run
