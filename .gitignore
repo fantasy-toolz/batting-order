@@ -1,12 +1,13 @@
+
+# mac files that pop up all the time
 *.DS_Store
 .DS_Store
-Untitled*
-
-# helper code
-rewritedata.py
-
-# some stuff we aren't ready for
-analysis/bayesball.ipynb
 
 # github junk
 raw.githubusercontent.com/
+
+# pycache junk
+src/__pycache__/
+
+# some stuff we aren't ready for
+analysis/bayesball.ipynb

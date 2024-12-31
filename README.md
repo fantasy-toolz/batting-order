@@ -7,7 +7,9 @@ This repository collects the batting order of each team for each game by automat
 
 We have historical data from the 2021 season onwards available. If you want an earlier season, please contact us.
 
-We also have postseason lineups for 2023 and 2024 available in `data/Postseason/[year]/` for each team.
+We also have 
+1. Postseason lineups for 2021-2024 available in `data/Postseason/[year]/` for each team. An aggregate version with all lineups is available in `data/Postseason/Aggregate/[year]`.
+2. Preseason lineups for 2021-2024 available in `data/Preseason/[year]/` for each team. An aggregate version with all lineups is available in `data/Preseason/Aggregate/[year]`.
 
 ### Analysis Tools (in `analysis`)
 

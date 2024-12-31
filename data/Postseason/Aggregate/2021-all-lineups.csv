@@ -1,0 +1,75 @@
+date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,team
+2021-10-07, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Yuli Gurriel, Carlos Correa, Kyle Tucker, Jake Meyers, Martin Maldonado,HOU
+2021-10-08, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Yuli Gurriel, Carlos Correa, Kyle Tucker, Chas McCormick, Martin Maldonado,HOU
+2021-10-10, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Jake Meyers, Martin Maldonado,HOU
+2021-10-12, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Yuli Gurriel, Kyle Tucker, Jake Meyers, Martin Maldonado,HOU
+2021-10-15, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Chas McCormick, Martin Maldonado,HOU
+2021-10-16, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Chas McCormick, Martin Maldonado,HOU
+2021-10-18, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Jose Siri, Martin Maldonado,HOU
+2021-10-19, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Chas McCormick, Martin Maldonado,HOU
+2021-10-20, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Jose Siri, Martin Maldonado,HOU
+2021-10-22, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Chas McCormick, Martin Maldonado,HOU
+2021-10-26, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Chas McCormick, Martin Maldonado,HOU
+2021-10-27, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Jose Siri, Martin Maldonado,HOU
+2021-10-29, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Martin Maldonado, Luis Garcia,HOU
+2021-10-30, Jose Altuve, Michael Brantley, Alex Bregman, Yordan Alvarez, Carlos Correa, Kyle Tucker, Yuli Gurriel, Zack Greinke, Martin Maldonado,HOU
+2021-10-31, Jose Altuve, Michael Brantley, Carlos Correa, Yordan Alvarez, Yuli Gurriel, Kyle Tucker, Alex Bregman, Martin Maldonado, Framber Valdez,HOU
+2021-11-02, Jose Altuve, Michael Brantley, Carlos Correa, Yordan Alvarez, Yuli Gurriel, Kyle Tucker, Alex Bregman, Jose Siri, Martin Maldonado,HOU
+2021-10-08, Jorge Soler, Freddie Freeman, Ozzie Albies, Austin Riley, Adam Duvall, Eddie Rosario, Travis d'Arnaud, Dansby Swanson, Charlie Morton,ATL
+2021-10-09, Jorge Soler, Freddie Freeman, Ozzie Albies, Austin Riley, Adam Duvall, Eddie Rosario, Travis d'Arnaud, Dansby Swanson, Max Fried,ATL
+2021-10-11, Jorge Soler, Freddie Freeman, Ozzie Albies, Austin Riley, Adam Duvall, Eddie Rosario, Travis d'Arnaud, Dansby Swanson, Ian Anderson,ATL
+2021-10-12, Dansby Swanson, Freddie Freeman, Ozzie Albies, Austin Riley, Adam Duvall, Joc Pederson, Travis d'Arnaud, Guillermo Heredia, Charlie Morton,ATL
+2021-10-16, Eddie Rosario, Freddie Freeman, Ozzie Albies, Austin Riley, Joc Pederson, Adam Duvall, Travis d'Arnaud, Dansby Swanson, Max Fried,ATL
+2021-10-17, Eddie Rosario, Freddie Freeman, Ozzie Albies, Austin Riley, Joc Pederson, Adam Duvall, Travis d'Arnaud, Dansby Swanson, Johan Camargo,ATL
+2021-10-19, Eddie Rosario, Freddie Freeman, Ozzie Albies, Austin Riley, Joc Pederson, Adam Duvall, Travis d'Arnaud, Dansby Swanson, Charlie Morton,ATL
+2021-10-20, Dansby Swanson, Freddie Freeman, Ozzie Albies, Austin Riley, Eddie Rosario, Adam Duvall, Joc Pederson, Travis d'Arnaud, Johan Camargo,ATL
+2021-10-21, Eddie Rosario, Ozzie Albies, Freddie Freeman, Austin Riley, Adam Duvall, Joc Pederson, Dansby Swanson, Travis d'Arnaud, Max Fried,ATL
+2021-10-23, Eddie Rosario, Freddie Freeman, Ozzie Albies, Austin Riley, Adam Duvall, Joc Pederson, Dansby Swanson, Travis d'Arnaud, Ian Anderson,ATL
+2021-10-26, Jorge Soler, Freddie Freeman, Ozzie Albies, Austin Riley, Eddie Rosario, Adam Duvall, Travis d'Arnaud, Joc Pederson, Dansby Swanson,ATL
+2021-10-27, Eddie Rosario, Freddie Freeman, Ozzie Albies, Austin Riley, Jorge Soler, Joc Pederson, Adam Duvall, Travis d'Arnaud, Dansby Swanson,ATL
+2021-10-29, Eddie Rosario, Freddie Freeman, Ozzie Albies, Austin Riley, Jorge Soler, Adam Duvall, Travis d'Arnaud, Ian Anderson, Eddie Rosario,ATL
+2021-10-30, Eddie Rosario, Freddie Freeman, Ozzie Albies, Austin Riley, Joc Pederson, Travis d'Arnaud, Adam Duvall, Dansby Swanson, Kyle Wright,ATL
+2021-10-31, Jorge Soler, Freddie Freeman, Ozzie Albies, Austin Riley, Eddie Rosario, Adam Duvall, Travis d'Arnaud, Dansby Swanson, Tucker Davidson,ATL
+2021-11-02, Eddie Rosario, Jorge Soler, Freddie Freeman, Austin Riley, Adam Duvall, Joc Pederson, Ozzie Albies, Travis d'Arnaud, Dansby Swanson,ATL
+2021-10-08, Kolten Wong, Willy Adames, Christian Yelich, Avisail Garcia, Rowdy Tellez, Eduardo Escobar, Omar Narvaez, Lorenzo Cain, Corbin Burnes,MIL
+2021-10-09, Kolten Wong, Willy Adames, Eduardo Escobar, Avisail Garcia, Christian Yelich, Luis Urias, Lorenzo Cain, Manny Pina, Brandon Woodruff,MIL
+2021-10-11, Kolten Wong, Willy Adames, Christian Yelich, Avisail Garcia, Rowdy Tellez, Luis Urias, Omar Narvaez, Lorenzo Cain, Freddy Peralta,MIL
+2021-10-12, Kolten Wong, Willy Adames, Christian Yelich, Avisail Garcia, Rowdy Tellez, Luis Urias, Omar Narvaez, Lorenzo Cain, Eric Lauer,MIL
+2021-10-06, Tommy Edman, Paul Goldschmidt, Tyler O'Neill, Nolan Arenado, Dylan Carlson, Yadier Molina, Edmundo Sosa, Harrison Bader, Adam Wainwright,STL
+2021-10-06, Mookie Betts, Corey Seager, Trea Turner, Justin Turner, Will Smith, AJ Pollock, Matt Beaty, Cody Bellinger, Max Scherzer,LAD
+2021-10-08, Mookie Betts, Corey Seager, Trea Turner, Justin Turner, Will Smith, Matt Beaty, Cody Bellinger, AJ Pollock, Walker Buehler,LAD
+2021-10-09, Mookie Betts, Corey Seager, Trea Turner, Justin Turner, Will Smith, Chris Taylor, Cody Bellinger, Julio Urias, Mookie Betts,LAD
+2021-10-11, Mookie Betts, Trea Turner, Corey Seager, Justin Turner, Chris Taylor, AJ Pollock, Albert Pujols, Will Smith, Max Scherzer,LAD
+2021-10-12, Mookie Betts, Corey Seager, Trea Turner, Will Smith, Justin Turner, Gavin Lux, Cody Bellinger, Chris Taylor, Walker Buehler,LAD
+2021-10-14, Mookie Betts, Corey Seager, Trea Turner, Will Smith, Justin Turner, Gavin Lux, Cody Bellinger, Chris Taylor, Steven Souza Jr.,LAD
+2021-10-16, Mookie Betts, Trea Turner, Corey Seager, Justin Turner, Will Smith, Albert Pujols, AJ Pollock, Chris Taylor, Steven Souza Jr.,LAD
+2021-10-17, Mookie Betts, Corey Seager, Trea Turner, Will Smith, Gavin Lux, Chris Taylor, Cody Bellinger, AJ Pollock, Max Scherzer,LAD
+2021-10-19, Mookie Betts, Corey Seager, Trea Turner, Will Smith, Justin Turner, Gavin Lux, Cody Bellinger, Chris Taylor, Walker Buehler,LAD
+2021-10-20, Mookie Betts, Corey Seager, Trea Turner, Will Smith, Gavin Lux, Justin Turner, Cody Bellinger, Chris Taylor, Julio Urias,LAD
+2021-10-21, Mookie Betts, Trea Turner, Corey Seager, Will Smith, AJ Pollock, Albert Pujols, Chris Taylor, Cody Bellinger, Steven Souza Jr.,LAD
+2021-10-23, Mookie Betts, Corey Seager, Trea Turner, Will Smith, Chris Taylor, Cody Bellinger, AJ Pollock, Matt Beaty, Walker Buehler,LAD
+2021-10-08, Tommy La Stella, Wilmer Flores, Brandon Crawford, Buster Posey, LaMonte Wade Jr., Kris Bryant, Mike Yastrzemski, Evan Longoria, Logan Webb,SF
+2021-10-09, Darin Ruf, Kris Bryant, Austin Slater, Buster Posey, Wilmer Flores, Brandon Crawford, Evan Longoria, Donovan Solano, Kevin Gausman,SF
+2021-10-11, Tommy La Stella, Mike Yastrzemski, Buster Posey, Brandon Crawford, Kris Bryant, LaMonte Wade Jr., Evan Longoria, Steven Duggar, Alex Wood,SF
+2021-10-12, Tommy La Stella, Darin Ruf, Brandon Crawford, Buster Posey, Kris Bryant, LaMonte Wade Jr., Evan Longoria, Mike Yastrzemski, Alex Dickerson,SF
+2021-10-14, Tommy La Stella, Darin Ruf, Buster Posey, Brandon Crawford, Kris Bryant, Mike Yastrzemski, Wilmer Flores, Evan Longoria, Logan Webb,SF
+2021-10-07, Randy Arozarena, Wander Franco, Brandon Lowe, Nelson Cruz, Yandy Diaz, Jordan Luplow, Manuel Margot, Mike Zunino, Kevin Kiermaier,TB
+2021-10-08, Randy Arozarena, Wander Franco, Brandon Lowe, Nelson Cruz, Yandy Diaz, Jordan Luplow, Manuel Margot, Mike Zunino, Kevin Kiermaier,TB
+2021-10-10, Brandon Lowe, Wander Franco, Austin Meadows, Nelson Cruz, Ji Man Choi, Randy Arozarena, Kevin Kiermaier, Mike Zunino, Joey Wendle,TB
+2021-10-11, Randy Arozarena, Wander Franco, Brandon Lowe, Nelson Cruz, Jordan Luplow, Yandy Diaz, Austin Meadows, Mike Zunino, Kevin Kiermaier,TB
+2021-10-05, Kyle Schwarber, Enrique Hernandez, Rafael Devers, Xander Bogaerts, Alex Verdugo, Hunter Renfroe, Kevin Plawecki, Bobby Dalbec, Christian Arroyo,BOS
+2021-10-07, Enrique Hernandez, Kyle Schwarber, Xander Bogaerts, Rafael Devers, Hunter Renfroe, Alex Verdugo, Bobby Dalbec, Christian Vazquez, Christian Arroyo,BOS
+2021-10-08, Kyle Schwarber, Enrique Hernandez, Rafael Devers, Xander Bogaerts, Alex Verdugo, J.D. Martinez, Hunter Renfroe, Christian Vazquez, Christian Arroyo,BOS
+2021-10-10, Kyle Schwarber, Enrique Hernandez, Rafael Devers, Xander Bogaerts, Alex Verdugo, J.D. Martinez, Hunter Renfroe, Kevin Plawecki, Christian Arroyo,BOS
+2021-10-11, Kyle Schwarber, Enrique Hernandez, Rafael Devers, Xander Bogaerts, Alex Verdugo, J.D. Martinez, Hunter Renfroe, Christian Vazquez, Christian Arroyo,BOS
+2021-10-15, Enrique Hernandez, Kyle Schwarber, Xander Bogaerts, Rafael Devers, J.D. Martinez, Hunter Renfroe, Alex Verdugo, Christian Arroyo, Christian Vazquez,BOS
+2021-10-16, Kyle Schwarber, Enrique Hernandez, Rafael Devers, Xander Bogaerts, Alex Verdugo, J.D. Martinez, Hunter Renfroe, Kevin Plawecki, Christian Arroyo,BOS
+2021-10-18, Kyle Schwarber, Enrique Hernandez, Rafael Devers, Xander Bogaerts, Alex Verdugo, J.D. Martinez, Hunter Renfroe, Christian Vazquez, Christian Arroyo,BOS
+2021-10-19, Kyle Schwarber, Enrique Hernandez, Rafael Devers, Xander Bogaerts, Alex Verdugo, J.D. Martinez, Hunter Renfroe, Christian Vazquez, Christian Arroyo,BOS
+2021-10-20, Enrique Hernandez, Kyle Schwarber, Xander Bogaerts, Rafael Devers, J.D. Martinez, Hunter Renfroe, Alex Verdugo, Christian Arroyo, Christian Vazquez,BOS
+2021-10-22, Kyle Schwarber, Enrique Hernandez, Rafael Devers, Xander Bogaerts, J.D. Martinez, Alex Verdugo, Christian Arroyo, Hunter Renfroe, Kevin Plawecki,BOS
+2021-10-07, Tim Anderson, Yoan Moncada, Jose Abreu, Yasmani Grandal, Luis Robert Jr., Eloy Jimenez, Gavin Sheets, Gavin Sheets, Adam Engel,CWS
+2021-10-08, Tim Anderson, Luis Robert Jr., Jose Abreu, Yasmani Grandal, Eloy Jimenez, Yoan Moncada, Andrew Vaughn, Leury Garcia, Adam Engel,CWS
+2021-10-10, Tim Anderson, Luis Robert Jr., Jose Abreu, Yasmani Grandal, Eloy Jimenez, Yoan Moncada, Gavin Sheets, Leury Garcia, Cesar Hernandez,CWS
+2021-10-12, Tim Anderson, Yoan Moncada, Luis Robert Jr., Jose Abreu, Yasmani Grandal, Eloy Jimenez, Gavin Sheets, Leury Garcia, Cesar Hernandez,CWS
+2021-10-05, Anthony Rizzo, Aaron Judge, Giancarlo Stanton, Joey Gallo, Gleyber Torres, Brett Gardner, Gio Urshela, Kyle Higashioka, Andrew Velazquez,NYY
