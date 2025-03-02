@@ -15,7 +15,7 @@ from src import gamehandling
 gamemode = 'regularseason'
 outdir = ''
 
-year = '2021'
+year = '2025'
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(77,300)]
 alldates = yeardates
 
@@ -50,14 +50,17 @@ if gamemode=='postseason':
 
 
 # if doing preseason, limit dates
-year = '2021'
+year = '2025'
 gamemode = 'preseason'
 if gamemode=='preseason':
     yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(48,92)]
-    alldates = yeardates
+    alldates = yeardates[0:np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]]
     outdir = 'Preseason/'
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
+
+# for 2025, need to update to ATH instead of OAK
+teams = ['LAA', 'HOU', 'ATH', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
 # create a file that stamps the last time run
 f = open('data/{}{}/lasttouched.txt'.format(outdir,year),'w')
