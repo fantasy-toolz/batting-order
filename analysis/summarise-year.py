@@ -19,10 +19,12 @@ def rearrange_name(player_name):
 
 
 year = '2025'
+outdir = 'Preseason/'
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
 teams = ['LAA', 'HOU', 'ATH', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
+
 
 
 # create a dictionary
@@ -31,7 +33,7 @@ TeamTotal = dict()
 PlrTeam = dict()
 
 for team in teams:
-    D = np.genfromtxt('data/{}/{}.csv'.format(year,team),delimiter=',',dtype='S26',skip_header=1)
+    D = np.genfromtxt('data/{}{}/{}.csv'.format(outdir,year,team),delimiter=',',dtype='S26',skip_header=1)
     print('team: ',team,' games played: ',len(D[:,0]))
     TeamTotal[team] = len(D[:,0])
     #print('date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,',file=f)
@@ -58,10 +60,10 @@ for team in teams:
 plrs = np.array(list(PositionTotal.keys()))
 nplrs = len(plrs)
 print("Players who have started a game this year:",nplrs)
-f = open('data/Aggregate/Summaries/'+year+'player-batting-order.csv','w')
+f = open('data/{}/Aggregate/Summaries/'.format(outdir)+year+'player-batting-order.csv','w')
 print('player,team,b1,b2,b3,b4,b5,b6,b7,b8,b9',file=f)
 
-g = open('data/Aggregate/Summaries/'+year+'mean-player-batting-order.csv','w') 
+g = open('data/{}Aggregate/Summaries/'.format(outdir)+year+'mean-player-batting-order.csv','w') 
 print('player,avg,ngames,teamgames,team',file=g)
 for iplr,plr in enumerate(plrs):
     avgspot = np.nansum(np.arange(1,10,1)*PositionTotal[plr]/np.nansum(PositionTotal[plr]))
