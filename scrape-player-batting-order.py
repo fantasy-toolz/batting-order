@@ -77,7 +77,7 @@ for team in teams:
     # check if the team has already been recorded
     try:
         f = pd.read_csv('data/{}{}/{}.csv'.format(outdir,year,team),delimiter=',')
-        maxdate = f['date'].values[-1]
+        maxdate = f['date'].values[-1].strip('a').strip('b') # safe for doubleheaders
         firstdate = np.where(maxdate==np.array(alldates))[0][0]
         alldatesin = alldates[firstdate+1:]
         newflag = 1
