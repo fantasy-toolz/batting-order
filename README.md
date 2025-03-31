@@ -9,7 +9,7 @@ We have historical data from the 2021 season onwards available. If you want an e
 
 We also have 
 1. Postseason lineups for 2021-2024 available in `data/Postseason/[year]/` for each team. An aggregate version with all lineups is available in `data/Postseason/Aggregate/[year]`.
-2. Preseason lineups for 2021-2024 available in `data/Preseason/[year]/` for each team. An aggregate version with all lineups is available in `data/Preseason/Aggregate/[year]`.
+2. Preseason lineups for 2021-2025 available in `data/Preseason/[year]/` for each team. An aggregate version with all lineups is available in `data/Preseason/Aggregate/[year]`.
 
 ### Analysis Tools (in `analysis`)
 
@@ -21,4 +21,6 @@ There are also analysis scripts that are periodically run to create aggregated c
 
 ### Predictions (in `predictions`)
 
-We have also predicted, through a mixture of automated and hand-made lineups, the number of plate appearances for each player, for the 2023 and 2024 season. **2025 coming soon!**
+**2025 data now available on a daily basis!**
+
+We have also predicted, through a mixture of automated and hand-made lineups, the number of plate appearances for each player, for the 2023 and 2024 season.

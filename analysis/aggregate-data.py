@@ -5,7 +5,7 @@ import pandas as pd
 
 year = '2025'
 outdir = ''
-outdir = 'Preseason/'
+#outdir = 'Preseason/'
 
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
