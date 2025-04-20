@@ -39,7 +39,7 @@ for team in teams:
     TeamTotal[team] = len(D[:,0])
     #print('date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,',file=f)
     ngames = len(D[:,0])
-    for n in range(1,ngames):
+    for n in range(0,ngames):
         for i in range(0,10):
             if i==0:
                 # this is the date, so skip ahead
