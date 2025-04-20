@@ -42,10 +42,6 @@ yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for
 todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
 alldates = yeardates[0:todaynum]
 
-yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(65,80)]
-#todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
-alldates = yeardates#[0:todaynum]
-
 """
 # if doing postseason, limit dates
 year = '2021'
@@ -68,8 +64,6 @@ teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF
 
 # for 2025, need to update to ATH instead of OAK
 teams = ['LAA', 'HOU', 'ATH', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
-
-teams = ['LAD', 'CHC']
 
 # create a file that stamps the last time run
 f = open('data/{}{}/lasttouched.txt'.format(outdir,year),'w')

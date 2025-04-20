@@ -2,102 +2,626 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2025-03-27, Taylor Ward, Nolan Schanuel, Mike Trout, Jorge Soler, Tim Anderson, Luis Rengifo, Logan O'Hoppe, Jo Adell, Kevin Newman,LAA
 2025-03-29, Taylor Ward, Nolan Schanuel, Mike Trout, Jorge Soler, Yoan Moncada, Logan O'Hoppe, Luis Rengifo, Jo Adell, Kevin Newman,LAA
 2025-03-30, Taylor Ward, Nolan Schanuel, Mike Trout, Jorge Soler, Yoan Moncada, Travis d'Arnaud, Luis Rengifo, Tim Anderson, Kyren Paris,LAA
+2025-03-31, Taylor Ward, Nolan Schanuel, Mike Trout, Jorge Soler, Yoan Moncada, Logan O'Hoppe, Luis Rengifo, Kyren Paris, Kevin Newman,LAA
+2025-04-01, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Yoan Moncada, Travis d'Arnaud, Nolan Schanuel, Jo Adell, Tim Anderson,LAA
+2025-04-02, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Yoan Moncada, Nolan Schanuel, Logan O'Hoppe, Jo Adell, Nicky Lopez,LAA
+2025-04-04, Taylor Ward, Mike Trout, Jorge Soler, Yoan Moncada, Logan O'Hoppe, Nolan Schanuel, Luis Rengifo, Jo Adell, Kevin Newman,LAA
+2025-04-05, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Logan O'Hoppe, Nolan Schanuel, Kyren Paris, Jo Adell, Tim Anderson,LAA
+2025-04-06, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Logan O'Hoppe, Nolan Schanuel, Kyren Paris, Jo Adell, Tim Anderson,LAA
+2025-04-08, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Travis d'Arnaud, Nolan Schanuel, Kyren Paris, Jo Adell, Tim Anderson,LAA
+2025-04-09, Taylor Ward, Nolan Schanuel, Mike Trout, Jorge Soler, Logan O'Hoppe, Yoan Moncada, Kyren Paris, Tim Anderson, Kevin Newman,LAA
+2025-04-10, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Logan O'Hoppe, Nolan Schanuel, Kyren Paris, Jo Adell, Tim Anderson,LAA
+2025-04-11, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Logan O'Hoppe, Nolan Schanuel, Kyren Paris, Jo Adell, Tim Anderson,LAA
+2025-04-12, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Logan O'Hoppe, Nolan Schanuel, Kyren Paris, Jo Adell, Tim Anderson,LAA
+2025-04-13, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Travis d'Arnaud, Nolan Schanuel, Kyren Paris, Jo Adell, Kevin Newman,LAA
+2025-04-15, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Travis d'Arnaud, Nolan Schanuel, Kyren Paris, Jo Adell, Tim Anderson,LAA
+2025-04-16, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Travis d'Arnaud, Nolan Schanuel, Kyren Paris, Jo Adell, Kevin Newman,LAA
+2025-04-17, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Logan O'Hoppe, Nolan Schanuel, J.D. Davis, Kyren Paris, Tim Anderson,LAA
+2025-04-18, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Logan O'Hoppe, Nolan Schanuel, Zach Neto, Kyren Paris, Jo Adell,LAA
+2025-04-19, Taylor Ward, Luis Rengifo, Mike Trout, Jorge Soler, Logan O'Hoppe, Nolan Schanuel, Zach Neto, Kyren Paris, Jo Adell,LAA
 2025-03-27, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Yainer Diaz, Jeremy Pena, Cam Smith, Brendan Rodgers, Jake Meyers,HOU
 2025-03-28, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Yainer Diaz, Jeremy Pena, Cam Smith, Brendan Rodgers, Jake Meyers,HOU
 2025-03-29, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Jeremy Pena, Victor Caratini, Zach Dezenzo, Mauricio Dubon, Chas McCormick,HOU
+2025-03-31, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Yainer Diaz, Jeremy Pena, Cam Smith, Mauricio Dubon, Jake Meyers,HOU
+2025-04-01, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Yainer Diaz, Jeremy Pena, Cam Smith, Brendan Rodgers, Chas McCormick,HOU
+2025-04-02, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Yainer Diaz, Jeremy Pena, Brendan Rodgers, Zach Dezenzo, Chas McCormick,HOU
+2025-04-03, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Jeremy Pena, Victor Caratini, Brendan Rodgers, Cam Smith, Mauricio Dubon,HOU
+2025-04-05, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Yainer Diaz, Jeremy Pena, Brendan Rodgers, Cam Smith, Jake Meyers,HOU
+2025-04-06, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Jeremy Pena, Yainer Diaz, Brendan Rodgers, Zach Dezenzo, Jake Meyers,HOU
+2025-04-07, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Jeremy Pena, Victor Caratini, Yainer Diaz, Jake Meyers, Mauricio Dubon,HOU
+2025-04-08, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Jeremy Pena, Brendan Rodgers, Yainer Diaz, Cam Smith, Jake Meyers,HOU
+2025-04-09, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Jeremy Pena, Victor Caratini, Brendan Rodgers, Jake Meyers, Cam Smith,HOU
+2025-04-11, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Jeremy Pena, Yainer Diaz, Jake Meyers, Cam Smith, Mauricio Dubon,HOU
+2025-04-12, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Jeremy Pena, Yainer Diaz, Jake Meyers, Cam Smith, Zach Dezenzo,HOU
+2025-04-13, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Victor Caratini, Jeremy Pena, Jake Meyers, Cam Smith, Mauricio Dubon,HOU
+2025-04-14, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Yainer Diaz, Jeremy Pena, Cam Smith, Mauricio Dubon, Chas McCormick,HOU
+2025-04-15, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Jeremy Pena, Yainer Diaz, Jake Meyers, Cam Smith, Mauricio Dubon,HOU
+2025-04-16, Jose Altuve, Jeremy Pena, Isaac Paredes, Christian Walker, Yainer Diaz, Brendan Rodgers, Jake Meyers, Cam Smith, Chas McCormick,HOU
+2025-04-18, Jose Altuve, Isaac Paredes, Yordan Alvarez, Christian Walker, Jeremy Pena, Yainer Diaz, Brendan Rodgers, Jake Meyers, Cam Smith,HOU
+2025-04-19, Jose Altuve, Isaac Paredes, Yordan Alvarez, Jeremy Pena, Christian Walker, Yainer Diaz, Victor Caratini, Jake Meyers, Cam Smith,HOU
 2025-03-27, Lawrence Butler, Brent Rooker, JJ Bleday, Shea Langeliers, Miguel Andujar, Tyler Soderstrom, Gio Urshela, Max Muncy, Jacob Wilson,ATH
 2025-03-28, Lawrence Butler, Brent Rooker, JJ Bleday, Shea Langeliers, Tyler Soderstrom, Seth Brown, Gio Urshela, Max Muncy, Jacob Wilson,ATH
 2025-03-29, Lawrence Butler, Brent Rooker, JJ Bleday, Shea Langeliers, Tyler Soderstrom, Miguel Andujar, Luis Urias, Max Muncy, Jacob Wilson,ATH
 2025-03-30, Lawrence Butler, Brent Rooker, JJ Bleday, Miguel Andujar, Tyler Soderstrom, Jacob Wilson, Gio Urshela, Jhonny Pereda, Max Schuemann,ATH
+2025-03-31, Lawrence Butler, Brent Rooker, JJ Bleday, Shea Langeliers, Tyler Soderstrom, Miguel Andujar, Gio Urshela, Max Muncy, Jacob Wilson,ATH
+2025-04-01, Lawrence Butler, Brent Rooker, JJ Bleday, Shea Langeliers, Miguel Andujar, Tyler Soderstrom, Gio Urshela, Max Muncy, Jacob Wilson,ATH
+2025-04-02, Lawrence Butler, Brent Rooker, JJ Bleday, Shea Langeliers, Tyler Soderstrom, Jacob Wilson, Seth Brown, Luis Urias, Max Muncy,ATH
+2025-04-04, Lawrence Butler, Brent Rooker, JJ Bleday, Shea Langeliers, Tyler Soderstrom, Miguel Andujar, Jacob Wilson, Gio Urshela, Max Muncy,ATH
+2025-04-05, Lawrence Butler, Brent Rooker, JJ Bleday, Shea Langeliers, Tyler Soderstrom, Jacob Wilson, Seth Brown, Luis Urias, Max Schuemann,ATH
+2025-04-06, Lawrence Butler, Brent Rooker, JJ Bleday, Tyler Soderstrom, Jacob Wilson, Miguel Andujar, Gio Urshela, Jhonny Pereda, Max Muncy,ATH
+2025-04-07, Lawrence Butler, Brent Rooker, Tyler Soderstrom, Shea Langeliers, JJ Bleday, Miguel Andujar, Jacob Wilson, Gio Urshela, Max Muncy,ATH
+2025-04-08, Lawrence Butler, Brent Rooker, Tyler Soderstrom, Shea Langeliers, JJ Bleday, Miguel Andujar, Jacob Wilson, Gio Urshela, Max Muncy,ATH
+2025-04-09, Lawrence Butler, Brent Rooker, Tyler Soderstrom, Shea Langeliers, JJ Bleday, Miguel Andujar, Jacob Wilson, Luis Urias, Max Muncy,ATH
+2025-04-11, Lawrence Butler, Brent Rooker, Tyler Soderstrom, Shea Langeliers, JJ Bleday, Jacob Wilson, Miguel Andujar, Gio Urshela, Max Muncy,ATH
+2025-04-12, Jacob Wilson, Brent Rooker, Tyler Soderstrom, Shea Langeliers, Miguel Andujar, JJ Bleday, Luis Urias, Max Muncy, Jhonny Pereda,ATH
+2025-04-13, Lawrence Butler, Brent Rooker, Tyler Soderstrom, Shea Langeliers, Miguel Andujar, Jacob Wilson, Seth Brown, Gio Urshela, Max Muncy,ATH
+2025-04-15, Lawrence Butler, Brent Rooker, Tyler Soderstrom, Shea Langeliers, JJ Bleday, Miguel Andujar, Jacob Wilson, Gio Urshela, Max Muncy,ATH
+2025-04-16, Lawrence Butler, Brent Rooker, Tyler Soderstrom, Shea Langeliers, JJ Bleday, Miguel Andujar, Luis Urias, Gio Urshela, Max Muncy,ATH
+2025-04-17, Lawrence Butler, Jacob Wilson, Tyler Soderstrom, Brent Rooker, JJ Bleday, Seth Brown, Jhonny Pereda, Max Muncy, Max Schuemann,ATH
+2025-04-18, Lawrence Butler, Brent Rooker, Tyler Soderstrom, Shea Langeliers, JJ Bleday, Jacob Wilson, Miguel Andujar, Gio Urshela, Max Muncy,ATH
+2025-04-19, Lawrence Butler, Brent Rooker, Tyler Soderstrom, Shea Langeliers, JJ Bleday, Jacob Wilson, Miguel Andujar, Gio Urshela, Max Muncy,ATH
 2025-03-27, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Alejandro Kirk, George Springer, Will Wagner, Ernie Clement, Alan Roden,TOR
 2025-03-28, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Alejandro Kirk, George Springer, Will Wagner, Nathan Lukes, Alan Roden,TOR
 2025-03-29, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Alejandro Kirk, Will Wagner, Davis Schneider, Ernie Clement, Nathan Lukes,TOR
 2025-03-30, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, George Springer, Will Wagner, Alan Roden, Tyler Heineman, Myles Straw,TOR
+2025-03-31, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Alejandro Kirk, George Springer, Will Wagner, Nathan Lukes, Alan Roden,TOR
+2025-04-01, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Alejandro Kirk, George Springer, Will Wagner, Ernie Clement, Alan Roden,TOR
+2025-04-02, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, George Springer, Ernie Clement, Davis Schneider, Tyler Heineman, Myles Straw,TOR
+2025-04-04, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Alejandro Kirk, George Springer, Will Wagner, Ernie Clement, Alan Roden,TOR
+2025-04-05, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Alejandro Kirk, George Springer, Will Wagner, Myles Straw, Alan Roden,TOR
+2025-04-06, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Alejandro Kirk, Ernie Clement, Davis Schneider, Tyler Heineman, Myles Straw,TOR
+2025-04-07, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, George Springer, Alejandro Kirk, Will Wagner, Nathan Lukes, Alan Roden,TOR
+2025-04-08, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, George Springer, Ernie Clement, Davis Schneider, Myles Straw, Tyler Heineman, Alan Roden,TOR
+2025-04-09, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Will Wagner, Alejandro Kirk, Alan Roden, Ernie Clement, Nathan Lukes,TOR
+2025-04-10, Bo Bichette, Andres Gimenez, Anthony Santander, George Springer, Will Wagner, Ernie Clement, Alan Roden, Tyler Heineman, Nathan Lukes,TOR
+2025-04-12, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, George Springer, Will Wagner, Alejandro Kirk, Nathan Lukes, Alan Roden,TOR
+2025-04-13, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, George Springer, Andres Gimenez, Alejandro Kirk, Ernie Clement, Myles Straw, Davis Schneider,TOR
+2025-04-14, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Ernie Clement, Alan Roden, Myles Straw, Nathan Lukes, Tyler Heineman,TOR
+2025-04-15, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Alejandro Kirk, Will Wagner, Addison Barger, Myles Straw, Alan Roden,TOR
+2025-04-16, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, Alejandro Kirk, Alan Roden, Ernie Clement, Addison Barger, Myles Straw,TOR
+2025-04-18, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, George Springer, Addison Barger, Alejandro Kirk, Will Wagner, Alan Roden,TOR
+2025-04-19, Bo Bichette, Vladimir Guerrero Jr., Anthony Santander, Andres Gimenez, George Springer, Alejandro Kirk, Alan Roden, Ernie Clement, Myles Straw,TOR
 2025-03-27, Jurickson Profar, Austin Riley, Matt Olson, Marcell Ozuna, Ozzie Albies, Michael Harris II, Drake Baldwin, Orlando Arcia, Jarred Kelenic,ATL
 2025-03-28, Jurickson Profar, Austin Riley, Matt Olson, Marcell Ozuna, Ozzie Albies, Michael Harris II, Drake Baldwin, Nick Allen, Jarred Kelenic,ATL
 2025-03-29, Jurickson Profar, Austin Riley, Matt Olson, Marcell Ozuna, Ozzie Albies, Michael Harris II, Drake Baldwin, Orlando Arcia, Jarred Kelenic,ATL
 2025-03-30, Jurickson Profar, Austin Riley, Matt Olson, Marcell Ozuna, Ozzie Albies, Michael Harris II, Orlando Arcia, Jarred Kelenic, Chadwick Tromp,ATL
+2025-03-31, Michael Harris II, Austin Riley, Matt Olson, Marcell Ozuna, Ozzie Albies, Drake Baldwin, Bryan De La Cruz, Jarred Kelenic, Orlando Arcia,ATL
+2025-04-01, Michael Harris II, Austin Riley, Matt Olson, Marcell Ozuna, Ozzie Albies, Drake Baldwin, Bryan De La Cruz, Jarred Kelenic, Nick Allen,ATL
+2025-04-02, Ozzie Albies, Marcell Ozuna, Austin Riley, Matt Olson, Bryan De La Cruz, Nick Allen, Stuart Fairchild, Chadwick Tromp, Eli White,ATL
+2025-04-04, Michael Harris II, Ozzie Albies, Marcell Ozuna, Matt Olson, Austin Riley, Bryan De La Cruz, Drake Baldwin, Nick Allen, Jarred Kelenic,ATL
+2025-04-05, Michael Harris II, Ozzie Albies, Marcell Ozuna, Matt Olson, Austin Riley, Bryan De La Cruz, Drake Baldwin, Nick Allen, Jarred Kelenic,ATL
+2025-04-08, Michael Harris II, Ozzie Albies, Marcell Ozuna, Matt Olson, Austin Riley, Bryan De La Cruz, Jarred Kelenic, Sean Murphy, Orlando Arcia,ATL
+2025-04-09, Michael Harris II, Ozzie Albies, Marcell Ozuna, Matt Olson, Austin Riley, Sean Murphy, Bryan De La Cruz, Jarred Kelenic, Orlando Arcia,ATL
+2025-04-10, Ozzie Albies, Austin Riley, Marcell Ozuna, Matt Olson, Sean Murphy, Bryan De La Cruz, Stuart Fairchild, Michael Harris II, Nick Allen,ATL
+2025-04-11, Michael Harris II, Austin Riley, Marcell Ozuna, Matt Olson, Ozzie Albies, Bryan De La Cruz, Jarred Kelenic, Drake Baldwin, Orlando Arcia,ATL
+2025-04-12, Michael Harris II, Austin Riley, Marcell Ozuna, Matt Olson, Ozzie Albies, Sean Murphy, Bryan De La Cruz, Jarred Kelenic, Nick Allen,ATL
+2025-04-13, Michael Harris II, Austin Riley, Marcell Ozuna, Matt Olson, Ozzie Albies, Sean Murphy, Jarred Kelenic, Nick Allen, Eli White,ATL
+2025-04-14, Ozzie Albies, Austin Riley, Matt Olson, Sean Murphy, Bryan De La Cruz, Michael Harris II, Stuart Fairchild, Nick Allen, Eli White,ATL
+2025-04-15, Michael Harris II, Austin Riley, Matt Olson, Sean Murphy, Ozzie Albies, Drake Baldwin, Eli White, Jarred Kelenic, Nick Allen,ATL
+2025-04-16, Michael Harris II, Austin Riley, Matt Olson, Sean Murphy, Ozzie Albies, Drake Baldwin, Bryan De La Cruz, Eli White, Orlando Arcia,ATL
+2025-04-18, Alex Verdugo, Austin Riley, Marcell Ozuna, Matt Olson, Ozzie Albies, Sean Murphy, Michael Harris II, Nick Allen, Jarred Kelenic,ATL
+2025-04-19, Alex Verdugo, Austin Riley, Marcell Ozuna, Matt Olson, Ozzie Albies, Sean Murphy, Michael Harris II, Nick Allen, Jarred Kelenic,ATL
 2025-03-27, Jackson Chourio, Christian Yelich, William Contreras, Rhys Hoskins, Sal Frelick, Joey Ortiz, Garrett Mitchell, Vinny Capra, Brice Turang,MIL
 2025-03-29, Jackson Chourio, Christian Yelich, William Contreras, Rhys Hoskins, Sal Frelick, Joey Ortiz, Garrett Mitchell, Vinny Capra, Brice Turang,MIL
 2025-03-30, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Sal Frelick, Jake Bauers, Garrett Mitchell, Joey Ortiz, Oliver Dunn,MIL
+2025-03-31, Jackson Chourio, Christian Yelich, William Contreras, Rhys Hoskins, Sal Frelick, Vinny Capra, Garrett Mitchell, Joey Ortiz, Brice Turang,MIL
+2025-04-01, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Sal Frelick, Rhys Hoskins, Oliver Dunn, Joey Ortiz, Eric Haase,MIL
+2025-04-02, Brice Turang, Jackson Chourio, Isaac Collins, William Contreras, Sal Frelick, Rhys Hoskins, Vinny Capra, Garrett Mitchell, Joey Ortiz,MIL
+2025-04-03, Jackson Chourio, Christian Yelich, William Contreras, Rhys Hoskins, Sal Frelick, Vinny Capra, Isaac Collins, Joey Ortiz, Brice Turang,MIL
+2025-04-04, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Sal Frelick, Rhys Hoskins, Oliver Dunn, Garrett Mitchell, Joey Ortiz,MIL
+2025-04-05, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Sal Frelick, Rhys Hoskins, Oliver Dunn, Garrett Mitchell, Joey Ortiz,MIL
+2025-04-06, Brice Turang, Jackson Chourio, Christian Yelich, Garrett Mitchell, Sal Frelick, Jake Bauers, Joey Ortiz, Oliver Dunn, Eric Haase,MIL
+2025-04-08, Jackson Chourio, Christian Yelich, William Contreras, Rhys Hoskins, Sal Frelick, Vinny Capra, Isaac Collins, Joey Ortiz, Brice Turang,MIL
+2025-04-09, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Sal Frelick, Rhys Hoskins, Garrett Mitchell, Oliver Dunn, Joey Ortiz,MIL
+2025-04-10, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Garrett Mitchell, Jake Bauers, Joey Ortiz, Oliver Dunn, Eric Haase,MIL
+2025-04-11, Jackson Chourio, Christian Yelich, William Contreras, Rhys Hoskins, Sal Frelick, Joey Ortiz, Isaac Collins, Vinny Capra, Brice Turang,MIL
+2025-04-12, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Sal Frelick, Rhys Hoskins, Garrett Mitchell, Joey Ortiz, Oliver Dunn,MIL
+2025-04-13, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Sal Frelick, Rhys Hoskins, Garrett Mitchell, Joey Ortiz, Oliver Dunn,MIL
+2025-04-14, Jackson Chourio, Isaac Collins, William Contreras, Rhys Hoskins, Sal Frelick, Joey Ortiz, Garrett Mitchell, Vinny Capra, Brice Turang,MIL
+2025-04-15, Jackson Chourio, Brice Turang, William Contreras, Christian Yelich, Rhys Hoskins, Sal Frelick, Garrett Mitchell, Joey Ortiz, Oliver Dunn,MIL
+2025-04-16, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Sal Frelick, Rhys Hoskins, Garrett Mitchell, Joey Ortiz, Oliver Dunn,MIL
+2025-04-18, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Sal Frelick, Jake Bauers, Joey Ortiz, Garrett Mitchell, Caleb Durbin,MIL
+2025-04-19, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Sal Frelick, Rhys Hoskins, Garrett Mitchell, Joey Ortiz, Caleb Durbin,MIL
 2025-03-27, Lars Nootbaar, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Ivan Herrera, Jordan Walker, Victor Scott II, Masyn Winn,STL
 2025-03-29, Lars Nootbaar, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Ivan Herrera, Jordan Walker, Victor Scott II, Masyn Winn,STL
 2025-03-30, Lars Nootbaar, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Nolan Gorman, Pedro Pages, Victor Scott II, Masyn Winn,STL
+2025-03-31, Lars Nootbaar, Willson Contreras, Luken Baker, Nolan Arenado, Ivan Herrera, Brendan Donovan, Jordan Walker, Victor Scott II, Masyn Winn,STL
+2025-04-01, Lars Nootbaar, Alec Burleson, Brendan Donovan, Nolan Arenado, Nolan Gorman, Jordan Walker, Pedro Pages, Victor Scott II, Masyn Winn,STL
+2025-04-02, Lars Nootbaar, Willson Contreras, Luken Baker, Nolan Arenado, Ivan Herrera, Brendan Donovan, Jordan Walker, Victor Scott II, Masyn Winn,STL
+2025-04-04, Lars Nootbaar, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Ivan Herrera, Jordan Walker, Victor Scott II, Masyn Winn,STL
+2025-04-06a, Lars Nootbaar, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Jordan Walker, Pedro Pages, Victor Scott II, Masyn Winn,STL
+2025-04-06b, Lars Nootbaar, Ivan Herrera, Willson Contreras, Nolan Arenado, Luken Baker, Jordan Walker, Thomas Saggese, Victor Scott II, Masyn Winn,STL
+2025-04-07, Lars Nootbaar, Willson Contreras, Brendan Donovan, Alec Burleson, Jordan Walker, Thomas Saggese, Yohel Pozo, Michael Siani, Masyn Winn,STL
+2025-04-08, Victor Scott II, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Jordan Walker, Pedro Pages, Michael Siani, Masyn Winn,STL
+2025-04-09, Lars Nootbaar, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Pedro Pages, Victor Scott II, Thomas Saggese, Masyn Winn,STL
+2025-04-11, Lars Nootbaar, Jordan Walker, Brendan Donovan, Nolan Arenado, Alec Burleson, Pedro Pages, Victor Scott II, Thomas Saggese, Yohel Pozo,STL
+2025-04-12, Lars Nootbaar, Luken Baker, Willson Contreras, Nolan Arenado, Brendan Donovan, Jordan Walker, Pedro Pages, Victor Scott II, Thomas Saggese,STL
+2025-04-13, Lars Nootbaar, Alec Burleson, Brendan Donovan, Nolan Arenado, Willson Contreras, Nolan Gorman, Jordan Walker, Yohel Pozo, Victor Scott II,STL
+2025-04-14, Lars Nootbaar, Luken Baker, Willson Contreras, Nolan Arenado, Brendan Donovan, Jordan Walker, Nolan Gorman, Pedro Pages, Victor Scott II,STL
+2025-04-15, Lars Nootbaar, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Jordan Walker, Nolan Gorman, Pedro Pages, Michael Siani,STL
+2025-04-16, Lars Nootbaar, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Jordan Walker, Yohel Pozo, Victor Scott II, Thomas Saggese,STL
+2025-04-17, Lars Nootbaar, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Jordan Walker, Nolan Gorman, Pedro Pages, Victor Scott II,STL
+2025-04-18, Victor Scott II, Luken Baker, Willson Contreras, Nolan Arenado, Brendan Donovan, Jordan Walker, Thomas Saggese, Pedro Pages, Michael Siani,STL
+2025-04-19, Lars Nootbaar, Willson Contreras, Brendan Donovan, Nolan Arenado, Alec Burleson, Thomas Saggese, Nolan Gorman, Yohel Pozo, Victor Scott II,STL
+2025-03-18, Ian Happ, Seiya Suzuki, Kyle Tucker, Michael Busch, Matt Shaw, Dansby Swanson, Pete Crow-Armstrong, Miguel Amaya, Jon Berti,CHC
+2025-03-19, Ian Happ, Seiya Suzuki, Kyle Tucker, Michael Busch, Matt Shaw, Dansby Swanson, Pete Crow-Armstrong, Carson Kelly, Jon Berti,CHC
 2025-03-27, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Miguel Amaya,CHC
 2025-03-28, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Carson Kelly,CHC
 2025-03-29, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Pete Crow-Armstrong, Miguel Amaya, Gage Workman, Jon Berti,CHC
 2025-03-30, Ian Happ, Seiya Suzuki, Kyle Tucker, Justin Turner, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Miguel Amaya,CHC
+2025-03-31, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Carson Kelly,CHC
+2025-04-01, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Miguel Amaya,CHC
+2025-04-02, Ian Happ, Seiya Suzuki, Kyle Tucker, Justin Turner, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Carson Kelly,CHC
+2025-04-04, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Miguel Amaya,CHC
+2025-04-05, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Carson Kelly,CHC
+2025-04-06, Ian Happ, Seiya Suzuki, Kyle Tucker, Justin Turner, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Carson Kelly,CHC
+2025-04-07, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Miguel Amaya, Pete Crow-Armstrong, Jon Berti, Gage Workman,CHC
+2025-04-08, Ian Happ, Seiya Suzuki, Kyle Tucker, Justin Turner, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Carson Kelly,CHC
+2025-04-09, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Miguel Amaya,CHC
+2025-04-11, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Matt Shaw, Miguel Amaya,CHC
+2025-04-12, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Justin Turner, Nico Hoerner, Pete Crow-Armstrong, Carson Kelly,CHC
+2025-04-13, Ian Happ, Kyle Tucker, Justin Turner, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Carson Kelly, Matt Shaw,CHC
+2025-04-14, Ian Happ, Kyle Tucker, Justin Turner, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Miguel Amaya, Matt Shaw,CHC
+2025-04-15, Ian Happ, Kyle Tucker, Justin Turner, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Miguel Amaya, Gage Workman,CHC
+2025-04-16, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Carson Kelly, Jon Berti,CHC
+2025-04-18, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Carson Kelly, Vidal Brujan,CHC
+2025-04-19, Ian Happ, Kyle Tucker, Seiya Suzuki, Michael Busch, Dansby Swanson, Nico Hoerner, Pete Crow-Armstrong, Miguel Amaya, Jon Berti,CHC
 2025-03-27, Ketel Marte, Corbin Carroll, Lourdes Gurriel Jr., Josh Naylor, Gabriel Moreno, Eugenio Suarez, Randal Grichuk, Jake McCarthy, Geraldo Perdomo,AZ
 2025-03-28, Corbin Carroll, Ketel Marte, Lourdes Gurriel Jr., Josh Naylor, Pavin Smith, Eugenio Suarez, Alek Thomas, Geraldo Perdomo, Jose Herrera,AZ
 2025-03-29, Ketel Marte, Corbin Carroll, Lourdes Gurriel Jr., Randal Grichuk, Josh Naylor, Eugenio Suarez, Gabriel Moreno, Jake McCarthy, Geraldo Perdomo,AZ
 2025-03-30, Ketel Marte, Geraldo Perdomo, Lourdes Gurriel Jr., Randal Grichuk, Josh Naylor, Eugenio Suarez, Garrett Hampson, Alek Thomas, Jose Herrera,AZ
+2025-04-01, Corbin Carroll, Ketel Marte, Pavin Smith, Josh Naylor, Eugenio Suarez, Gabriel Moreno, Jake McCarthy, Alek Thomas, Geraldo Perdomo,AZ
+2025-04-02, Ketel Marte, Corbin Carroll, Lourdes Gurriel Jr., Randal Grichuk, Josh Naylor, Eugenio Suarez, Gabriel Moreno, Jake McCarthy, Geraldo Perdomo,AZ
+2025-04-03, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Alek Thomas, Garrett Hampson, Jose Herrera,AZ
+2025-04-04, Corbin Carroll, Ketel Marte, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Gabriel Moreno, Jake McCarthy, Geraldo Perdomo,AZ
+2025-04-05, Geraldo Perdomo, Corbin Carroll, Lourdes Gurriel Jr., Randal Grichuk, Josh Naylor, Eugenio Suarez, Gabriel Moreno, Alek Thomas, Tim Tawa,AZ
+2025-04-06, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Alek Thomas, Jose Herrera, Garrett Hampson,AZ
+2025-04-07, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Gabriel Moreno, Jake McCarthy, Tim Tawa,AZ
+2025-04-08, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Gabriel Moreno, Alek Thomas, Garrett Hampson,AZ
+2025-04-09, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Eugenio Suarez, Alek Thomas, Jake McCarthy, Tim Tawa, Jose Herrera,AZ
+2025-04-11, Geraldo Perdomo, Corbin Carroll, Randal Grichuk, Lourdes Gurriel Jr., Josh Naylor, Eugenio Suarez, Gabriel Moreno, Jake McCarthy, Garrett Hampson,AZ
+2025-04-12, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Gabriel Moreno, Alek Thomas, Garrett Hampson,AZ
+2025-04-13, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Jake McCarthy, Tim Tawa, Jose Herrera,AZ
+2025-04-15, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Gabriel Moreno, Alek Thomas, Garrett Hampson,AZ
+2025-04-16, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Gabriel Moreno, Alek Thomas, Tim Tawa,AZ
+2025-04-17, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Alek Thomas, Tim Tawa, Jose Herrera,AZ
+2025-04-18, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Lourdes Gurriel Jr., Eugenio Suarez, Gabriel Moreno, Jake McCarthy, Garrett Hampson,AZ
+2025-04-19, Corbin Carroll, Geraldo Perdomo, Pavin Smith, Josh Naylor, Eugenio Suarez, Alek Thomas, Gabriel Moreno, Jake McCarthy, Tim Tawa,AZ
+2025-03-18, Shohei Ohtani, Tommy Edman, Teoscar Hernandez, Will Smith, Max Muncy, Enrique Hernandez, Michael Conforto, Miguel Rojas, Andy Pages,LAD
+2025-03-19, Shohei Ohtani, Tommy Edman, Teoscar Hernandez, Will Smith, Max Muncy, Enrique Hernandez, Michael Conforto, Miguel Rojas, Andy Pages,LAD
 2025-03-27, Shohei Ohtani, Mookie Betts, Teoscar Hernandez, Freddie Freeman, Tommy Edman, Will Smith, Max Muncy, Miguel Rojas, Andy Pages,LAD
 2025-03-28, Shohei Ohtani, Mookie Betts, Freddie Freeman, Teoscar Hernandez, Max Muncy, Tommy Edman, Michael Conforto, Andy Pages, Austin Barnes,LAD
 2025-03-29, Shohei Ohtani, Teoscar Hernandez, Freddie Freeman, Will Smith, Max Muncy, Andy Pages, Michael Conforto, Tommy Edman, Miguel Rojas,LAD
+2025-03-31, Shohei Ohtani, Mookie Betts, Teoscar Hernandez, Michael Conforto, Will Smith, Tommy Edman, Max Muncy, Enrique Hernandez, Andy Pages,LAD
+2025-04-01, Shohei Ohtani, Mookie Betts, Tommy Edman, Teoscar Hernandez, Will Smith, Enrique Hernandez, Miguel Rojas, Andy Pages, Chris Taylor,LAD
+2025-04-02, Shohei Ohtani, Mookie Betts, Teoscar Hernandez, Michael Conforto, Will Smith, Tommy Edman, Max Muncy, Enrique Hernandez, Andy Pages,LAD
+2025-04-04, Shohei Ohtani, Mookie Betts, Tommy Edman, Teoscar Hernandez, Will Smith, Enrique Hernandez, Michael Conforto, Miguel Rojas, Andy Pages,LAD
+2025-04-05, Shohei Ohtani, Mookie Betts, Teoscar Hernandez, Michael Conforto, Tommy Edman, Max Muncy, Andy Pages, Enrique Hernandez, Austin Barnes,LAD
+2025-04-06, Shohei Ohtani, Mookie Betts, Tommy Edman, Teoscar Hernandez, Will Smith, Michael Conforto, Max Muncy, Enrique Hernandez, Andy Pages,LAD
+2025-04-07, Shohei Ohtani, Mookie Betts, Tommy Edman, Teoscar Hernandez, Will Smith, Enrique Hernandez, Max Muncy, Miguel Rojas, Chris Taylor,LAD
+2025-04-08, Shohei Ohtani, Mookie Betts, Tommy Edman, Teoscar Hernandez, Michael Conforto, Enrique Hernandez, Max Muncy, Andy Pages, Austin Barnes,LAD
+2025-04-09, Shohei Ohtani, Mookie Betts, Tommy Edman, Teoscar Hernandez, Michael Conforto, Will Smith, Max Muncy, Enrique Hernandez, Andy Pages,LAD
+2025-04-11, Shohei Ohtani, Mookie Betts, Teoscar Hernandez, Freddie Freeman, Tommy Edman, Will Smith, Michael Conforto, Andy Pages, Miguel Rojas,LAD
+2025-04-12, Shohei Ohtani, Mookie Betts, Freddie Freeman, Teoscar Hernandez, Michael Conforto, Tommy Edman, Max Muncy, Andy Pages, Austin Barnes,LAD
+2025-04-13, Shohei Ohtani, Mookie Betts, Tommy Edman, Teoscar Hernandez, Michael Conforto, Will Smith, Max Muncy, Enrique Hernandez, Miguel Rojas,LAD
+2025-04-14, Shohei Ohtani, Mookie Betts, Freddie Freeman, Will Smith, Michael Conforto, Tommy Edman, Max Muncy, Enrique Hernandez, Andy Pages,LAD
+2025-04-15, Shohei Ohtani, Mookie Betts, Freddie Freeman, Will Smith, Michael Conforto, Tommy Edman, Max Muncy, Chris Taylor, Andy Pages,LAD
+2025-04-16, Shohei Ohtani, Mookie Betts, Freddie Freeman, Teoscar Hernandez, Michael Conforto, Tommy Edman, Max Muncy, Andy Pages, Austin Barnes,LAD
+2025-04-18, Tommy Edman, Mookie Betts, Freddie Freeman, Teoscar Hernandez, Michael Conforto, Will Smith, Max Muncy, Eddie Rosario, Andy Pages,LAD
+2025-04-19, Tommy Edman, Mookie Betts, Freddie Freeman, Michael Conforto, Will Smith, Max Muncy, Eddie Rosario, Andy Pages, Tommy Edman,LAD
 2025-03-27, LaMonte Wade Jr., Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, Patrick Bailey, Wilmer Flores, Mike Yastrzemski, Tyler Fitzgerald,SF
 2025-03-29, Heliot Ramos, Willy Adames, Jung Hoo Lee, Matt Chapman, Wilmer Flores, Luis Matos, Patrick Bailey, Casey Schmitt, Tyler Fitzgerald,SF
 2025-03-30, LaMonte Wade Jr., Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, Wilmer Flores, Luis Matos, Sam Huff, Tyler Fitzgerald,SF
+2025-03-31, LaMonte Wade Jr., Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, Patrick Bailey, Wilmer Flores, Mike Yastrzemski, Tyler Fitzgerald,SF
+2025-04-01, LaMonte Wade Jr., Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, Mike Yastrzemski, Wilmer Flores, Patrick Bailey, Christian Koss,SF
+2025-04-02, Heliot Ramos, Willy Adames, Wilmer Flores, Matt Chapman, Casey Schmitt, Luis Matos, Sam Huff, Mike Yastrzemski, Tyler Fitzgerald,SF
+2025-04-04, LaMonte Wade Jr., Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, Mike Yastrzemski, Wilmer Flores, Patrick Bailey, Tyler Fitzgerald,SF
+2025-04-05, LaMonte Wade Jr., Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, Mike Yastrzemski, Wilmer Flores, Sam Huff, Tyler Fitzgerald,SF
+2025-04-06, LaMonte Wade Jr., Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, Mike Yastrzemski, Luis Matos, Patrick Bailey, Christian Koss,SF
+2025-04-07, LaMonte Wade Jr., Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, Mike Yastrzemski, Wilmer Flores, Patrick Bailey, Tyler Fitzgerald,SF
+2025-04-08, Heliot Ramos, Willy Adames, Jung Hoo Lee, Matt Chapman, Wilmer Flores, Luis Matos, Casey Schmitt, Tyler Fitzgerald, Sam Huff,SF
+2025-04-09, LaMonte Wade Jr., Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, Mike Yastrzemski, Wilmer Flores, Patrick Bailey, Tyler Fitzgerald,SF
+2025-04-11, Mike Yastrzemski, Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, LaMonte Wade Jr., Wilmer Flores, Patrick Bailey, Tyler Fitzgerald,SF
+2025-04-12, Mike Yastrzemski, Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, LaMonte Wade Jr., Wilmer Flores, Sam Huff, Tyler Fitzgerald,SF
+2025-04-13, Heliot Ramos, Willy Adames, Jung Hoo Lee, Wilmer Flores, Matt Chapman, Luis Matos, Casey Schmitt, Patrick Bailey, Christian Koss,SF
+2025-04-14, Mike Yastrzemski, Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, LaMonte Wade Jr., Wilmer Flores, Patrick Bailey, Tyler Fitzgerald,SF
+2025-04-15, Heliot Ramos, Willy Adames, Jung Hoo Lee, Matt Chapman, Wilmer Flores, Casey Schmitt, Luis Matos, Patrick Bailey, Tyler Fitzgerald,SF
+2025-04-16, Mike Yastrzemski, Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, LaMonte Wade Jr., Wilmer Flores, Patrick Bailey, Tyler Fitzgerald,SF
+2025-04-17, Luis Matos, Willy Adames, Heliot Ramos, Matt Chapman, Casey Schmitt, Tyler Fitzgerald, Mike Yastrzemski, Sam Huff, Christian Koss,SF
+2025-04-18, Heliot Ramos, Willy Adames, Jung Hoo Lee, Matt Chapman, Wilmer Flores, Mike Yastrzemski, Patrick Bailey, Tyler Fitzgerald, LaMonte Wade Jr.,SF
+2025-04-19, Mike Yastrzemski, Willy Adames, Jung Hoo Lee, Matt Chapman, Heliot Ramos, LaMonte Wade Jr., Wilmer Flores, Patrick Bailey, Tyler Fitzgerald,SF
 2025-03-27, Steven Kwan, Jose Ramirez, Lane Thomas, Carlos Santana, Kyle Manzardo, Jhonkensy Noel, Bo Naylor, Gabriel Arias, Brayan Rocchio,CLE
 2025-03-29, Steven Kwan, Jose Ramirez, Kyle Manzardo, Carlos Santana, Nolan Jones, Lane Thomas, Bo Naylor, Daniel Schneemann, Brayan Rocchio,CLE
 2025-03-30, Steven Kwan, Lane Thomas, Kyle Manzardo, Carlos Santana, Nolan Jones, Bo Naylor, Gabriel Arias, Daniel Schneemann, Brayan Rocchio,CLE
+2025-03-31, Steven Kwan, Jose Ramirez, Lane Thomas, Carlos Santana, Jhonkensy Noel, Johnathan Rodriguez, Gabriel Arias, Austin Hedges, Brayan Rocchio,CLE
+2025-04-01, Steven Kwan, Jose Ramirez, Kyle Manzardo, Carlos Santana, Nolan Jones, Bo Naylor, Gabriel Arias, Daniel Schneemann, Brayan Rocchio,CLE
+2025-04-02, Steven Kwan, Jose Ramirez, Kyle Manzardo, Carlos Santana, Nolan Jones, Lane Thomas, Bo Naylor, Gabriel Arias, Daniel Schneemann,CLE
+2025-04-04, Steven Kwan, Jose Ramirez, Carlos Santana, Kyle Manzardo, Lane Thomas, Jhonkensy Noel, Bo Naylor, Gabriel Arias, Brayan Rocchio,CLE
+2025-04-05, Steven Kwan, Jose Ramirez, Carlos Santana, Kyle Manzardo, Nolan Jones, Gabriel Arias, Daniel Schneemann, Bo Naylor, Brayan Rocchio,CLE
+2025-04-06, Steven Kwan, Jose Ramirez, Carlos Santana, Lane Thomas, Kyle Manzardo, Jhonkensy Noel, Gabriel Arias, Austin Hedges, Brayan Rocchio,CLE
+2025-04-08, Steven Kwan, Jose Ramirez, Carlos Santana, Kyle Manzardo, Lane Thomas, Nolan Jones, Gabriel Arias, Bo Naylor, Brayan Rocchio,CLE
+2025-04-09, Steven Kwan, Jose Ramirez, Carlos Santana, Kyle Manzardo, Jhonkensy Noel, Nolan Jones, Gabriel Arias, Daniel Schneemann, Austin Hedges,CLE
+2025-04-10, Steven Kwan, Jose Ramirez, Carlos Santana, Kyle Manzardo, Nolan Jones, Jhonkensy Noel, Bo Naylor, Daniel Schneemann, Brayan Rocchio,CLE
+2025-04-11, Steven Kwan, Jose Ramirez, Carlos Santana, Kyle Manzardo, Jhonkensy Noel, Gabriel Arias, Angel Martinez, Austin Hedges, Brayan Rocchio,CLE
+2025-04-12, Steven Kwan, Jose Ramirez, Carlos Santana, Kyle Manzardo, Nolan Jones, Gabriel Arias, Angel Martinez, Bo Naylor, Brayan Rocchio,CLE
+2025-04-13, Steven Kwan, Jose Ramirez, Carlos Santana, Jhonkensy Noel, Gabriel Arias, Angel Martinez, Daniel Schneemann, Austin Hedges, Brayan Rocchio,CLE
+2025-04-15, Steven Kwan, Jose Ramirez, Carlos Santana, Kyle Manzardo, Nolan Jones, Gabriel Arias, Angel Martinez, Bo Naylor, Brayan Rocchio,CLE
+2025-04-16, Steven Kwan, Jose Ramirez, Carlos Santana, Kyle Manzardo, Lane Thomas, Angel Martinez, Gabriel Arias, Bo Naylor, Daniel Schneemann,CLE
+2025-04-17, Steven Kwan, Jose Ramirez, Carlos Santana, Gabriel Arias, Nolan Jones, Lane Thomas, Daniel Schneemann, Austin Hedges, Brayan Rocchio,CLE
+2025-04-18, Steven Kwan, Lane Thomas, Jose Ramirez, Kyle Manzardo, Carlos Santana, Nolan Jones, Gabriel Arias, Bo Naylor, Angel Martinez,CLE
+2025-04-19, Steven Kwan, Nolan Jones, Jose Ramirez, Kyle Manzardo, Carlos Santana, Bo Naylor, Angel Martinez, Daniel Schneemann, Brayan Rocchio,CLE
 2025-03-27, Victor Robles, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Luke Raley, Jorge Polanco, Rowdy Tellez, Ryan Bliss, J.P. Crawford,SEA
 2025-03-28, Victor Robles, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Mitch Garver, Jorge Polanco, Donovan Solano, Dylan Moore, J.P. Crawford,SEA
 2025-03-29, Victor Robles, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Luke Raley, Jorge Polanco, Rowdy Tellez, Ryan Bliss, J.P. Crawford,SEA
 2025-03-30, Victor Robles, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Mitch Garver, Donovan Solano, Dylan Moore, Ryan Bliss, J.P. Crawford,SEA
+2025-03-31, Victor Robles, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Jorge Polanco, Luke Raley, Rowdy Tellez, Ryan Bliss, J.P. Crawford,SEA
+2025-04-01, Victor Robles, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Luke Raley, Rowdy Tellez, Ryan Bliss, Miles Mastrobuoni, J.P. Crawford,SEA
+2025-04-02, Victor Robles, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Mitch Garver, Donovan Solano, Dylan Moore, Ryan Bliss, J.P. Crawford,SEA
+2025-04-04, Victor Robles, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Jorge Polanco, Luke Raley, Rowdy Tellez, Ryan Bliss, J.P. Crawford,SEA
+2025-04-05, Victor Robles, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Mitch Garver, Donovan Solano, Dylan Moore, Ryan Bliss, Victor Robles,SEA
+2025-04-06, Victor Robles, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Luke Raley, Rowdy Tellez, Dylan Moore, Ryan Bliss, J.P. Crawford,SEA
+2025-04-07, Julio Rodriguez, Jorge Polanco, Randy Arozarena, Cal Raleigh, Luke Raley, Rowdy Tellez, Dylan Moore, Ryan Bliss, J.P. Crawford,SEA
+2025-04-08, Dylan Moore, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Mitch Garver, Donovan Solano, Luke Raley, Ryan Bliss, J.P. Crawford,SEA
+2025-04-09, Julio Rodriguez, Jorge Polanco, Cal Raleigh, Randy Arozarena, Luke Raley, Rowdy Tellez, Dylan Moore, Miles Mastrobuoni, J.P. Crawford,SEA
+2025-04-11, Julio Rodriguez, Jorge Polanco, Cal Raleigh, Randy Arozarena, Luke Raley, Rowdy Tellez, Miles Mastrobuoni, Leo Rivas, J.P. Crawford,SEA
+2025-04-12, Julio Rodriguez, Jorge Polanco, Cal Raleigh, Randy Arozarena, Luke Raley, Rowdy Tellez, Miles Mastrobuoni, Leo Rivas, J.P. Crawford,SEA
+2025-04-13, Julio Rodriguez, Jorge Polanco, Cal Raleigh, Randy Arozarena, Luke Raley, Rowdy Tellez, Miles Mastrobuoni, Dylan Moore, J.P. Crawford,SEA
+2025-04-15, Dylan Moore, Julio Rodriguez, Cal Raleigh, Randy Arozarena, Mitch Garver, Donovan Solano, Leo Rivas, Ben Williamson, J.P. Crawford,SEA
+2025-04-16, Julio Rodriguez, Jorge Polanco, Cal Raleigh, Randy Arozarena, Luke Raley, Rowdy Tellez, Dylan Moore, Ben Williamson, J.P. Crawford,SEA
+2025-04-17, Julio Rodriguez, Jorge Polanco, Cal Raleigh, Randy Arozarena, Luke Raley, Rowdy Tellez, Dylan Moore, Miles Mastrobuoni, J.P. Crawford,SEA
+2025-04-18, Julio Rodriguez, Jorge Polanco, Cal Raleigh, Randy Arozarena, Luke Raley, Rowdy Tellez, Miles Mastrobuoni, Ben Williamson, J.P. Crawford,SEA
+2025-04-19, Miles Mastrobuoni, Jorge Polanco, Cal Raleigh, Randy Arozarena, Luke Raley, Rowdy Tellez, Dylan Moore, Ben Williamson, J.P. Crawford,SEA
 2025-03-27, Xavier Edwards, Kyle Stowers, Jonah Bride, Matt Mervis, Otto Lopez, Griffin Conine, Derek Hill, Graham Pauley, Nick Fortes,MIA
 2025-03-28, Xavier Edwards, Kyle Stowers, Jonah Bride, Matt Mervis, Otto Lopez, Griffin Conine, Liam Hicks, Derek Hill, Graham Pauley,MIA
 2025-03-29, Xavier Edwards, Otto Lopez, Jonah Bride, Eric Wagaman, Dane Myers, Derek Hill, Kyle Stowers, Nick Fortes, Javier Sanoja,MIA
 2025-03-30, Xavier Edwards, Otto Lopez, Dane Myers, Eric Wagaman, Jonah Bride, Derek Hill, Nick Fortes, Griffin Conine, Javier Sanoja,MIA
+2025-03-31, Xavier Edwards, Otto Lopez, Eric Wagaman, Derek Hill, Jonah Bride, Dane Myers, Liam Hicks, Javier Sanoja, Graham Pauley,MIA
+2025-04-01, Xavier Edwards, Kyle Stowers, Otto Lopez, Matt Mervis, Griffin Conine, Jonah Bride, Graham Pauley, Dane Myers, Nick Fortes,MIA
+2025-04-02, Xavier Edwards, Kyle Stowers, Griffin Conine, Matt Mervis, Otto Lopez, Graham Pauley, Liam Hicks, Eric Wagaman, Javier Sanoja,MIA
+2025-04-04, Xavier Edwards, Kyle Stowers, Griffin Conine, Otto Lopez, Matt Mervis, Liam Hicks, Jonah Bride, Graham Pauley, Dane Myers,MIA
+2025-04-05, Xavier Edwards, Kyle Stowers, Otto Lopez, Matt Mervis, Eric Wagaman, Griffin Conine, Derek Hill, Graham Pauley, Liam Hicks,MIA
+2025-04-07, Xavier Edwards, Kyle Stowers, Otto Lopez, Matt Mervis, Eric Wagaman, Griffin Conine, Dane Myers, Graham Pauley, Nick Fortes,MIA
+2025-04-08, Xavier Edwards, Kyle Stowers, Matt Mervis, Griffin Conine, Otto Lopez, Liam Hicks, Derek Hill, Graham Pauley, Javier Sanoja,MIA
+2025-04-09, Xavier Edwards, Kyle Stowers, Jonah Bride, Matt Mervis, Dane Myers, Griffin Conine, Nick Fortes, Graham Pauley, Javier Sanoja,MIA
+2025-04-11, Xavier Edwards, Otto Lopez, Kyle Stowers, Eric Wagaman, Derek Hill, Jonah Bride, Liam Hicks, Javier Sanoja, Graham Pauley,MIA
+2025-04-12, Xavier Edwards, Kyle Stowers, Otto Lopez, Matt Mervis, Eric Wagaman, Griffin Conine, Derek Hill, Liam Hicks, Graham Pauley,MIA
+2025-04-13, Xavier Edwards, Otto Lopez, Kyle Stowers, Eric Wagaman, Derek Hill, Jonah Bride, Griffin Conine, Javier Sanoja, Rob Brantly,MIA
+2025-04-15, Xavier Edwards, Jesus Sanchez, Eric Wagaman, Matt Mervis, Kyle Stowers, Otto Lopez, Griffin Conine, Liam Hicks, Graham Pauley,MIA
+2025-04-16, Xavier Edwards, Jesus Sanchez, Kyle Stowers, Matt Mervis, Otto Lopez, Griffin Conine, Liam Hicks, Derek Hill, Graham Pauley,MIA
+2025-04-17, Xavier Edwards, Connor Norby, Otto Lopez, Eric Wagaman, Kyle Stowers, Dane Myers, Griffin Conine, Javier Sanoja, Rob Brantly,MIA
+2025-04-18, Xavier Edwards, Jesus Sanchez, Kyle Stowers, Eric Wagaman, Matt Mervis, Connor Norby, Griffin Conine, Otto Lopez, Liam Hicks,MIA
+2025-04-19, Xavier Edwards, Jesus Sanchez, Eric Wagaman, Kyle Stowers, Matt Mervis, Otto Lopez, Griffin Conine, Graham Pauley, Liam Hicks,MIA
 2025-03-27, Francisco Lindor, Juan Soto, Pete Alonso, Mark Vientos, Brandon Nimmo, Starling Marte, Tyrone Taylor, Luisangel Acuna, Luis Torrens,NYM
 2025-03-28, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Mark Vientos, Jesse Winker, Tyrone Taylor, Brett Baty, Luis Torrens,NYM
 2025-03-29, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Mark Vientos, Jesse Winker, Luis Torrens, Brett Baty, Jose Siri,NYM
+2025-03-31, Starling Marte, Juan Soto, Pete Alonso, Brandon Nimmo, Mark Vientos, Luis Torrens, Brett Baty, Luisangel Acuna, Jose Siri,NYM
+2025-04-01, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Mark Vientos, Jesse Winker, Luis Torrens, Luisangel Acuna, Jose Siri,NYM
+2025-04-02, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Jesse Winker, Mark Vientos, Brett Baty, Tyrone Taylor, Hayden Senger,NYM
+2025-04-04, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Starling Marte, Mark Vientos, Luis Torrens, Luisangel Acuna, Jose Siri,NYM
+2025-04-05, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Jesse Winker, Mark Vientos, Brett Baty, Jose Siri, Hayden Senger,NYM
+2025-04-06, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Jesse Winker, Mark Vientos, Brett Baty, Jose Siri, Hayden Senger,NYM
+2025-04-07, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Mark Vientos, Jesse Winker, Tyrone Taylor, Luisangel Acuna, Hayden Senger,NYM
+2025-04-08, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Mark Vientos, Starling Marte, Tyrone Taylor, Brett Baty, Hayden Senger,NYM
+2025-04-09, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Starling Marte, Mark Vientos, Brett Baty, Tyrone Taylor, Hayden Senger,NYM
+2025-04-11, Francisco Lindor, Juan Soto, Pete Alonso, Starling Marte, Brandon Nimmo, Mark Vientos, Luisangel Acuna, Luis Torrens, Jose Siri,NYM
+2025-04-12, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Starling Marte, Mark Vientos, Brett Baty, Jose Siri, Hayden Senger,NYM
+2025-04-13, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Mark Vientos, Luis Torrens, Brett Baty, Tyrone Taylor, Luisangel Acuna,NYM
+2025-04-14, Francisco Lindor, Juan Soto, Pete Alonso, Brandon Nimmo, Mark Vientos, Jesse Winker, Luis Torrens, Tyrone Taylor, Luisangel Acuna,NYM
+2025-04-15, Francisco Lindor, Juan Soto, Pete Alonso, Starling Marte, Brandon Nimmo, Mark Vientos, Luis Torrens, Tyrone Taylor, Luisangel Acuna,NYM
+2025-04-16, Francisco Lindor, Juan Soto, Pete Alonso, Jesse Winker, Brandon Nimmo, Luisangel Acuna, Tyrone Taylor, Brett Baty, Hayden Senger,NYM
+2025-04-17, Francisco Lindor, Juan Soto, Pete Alonso, Mark Vientos, Brandon Nimmo, Starling Marte, Luis Torrens, Brett Baty, Tyrone Taylor,NYM
+2025-04-18, Francisco Lindor, Juan Soto, Pete Alonso, Jesse Winker, Mark Vientos, Brandon Nimmo, Luis Torrens, Brett Baty, Tyrone Taylor,NYM
+2025-04-19, Francisco Lindor, Juan Soto, Pete Alonso, Mark Vientos, Starling Marte, Brandon Nimmo, Luis Torrens, Luisangel Acuna, Jose Azocar,NYM
 2025-03-27, CJ Abrams, James Wood, Luis Garcia Jr., Josh Bell, Nathaniel Lowe, Paul DeJong, Keibert Ruiz, Dylan Crews, Jacob Young,WSH
 2025-03-29, CJ Abrams, Dylan Crews, James Wood, Josh Bell, Amed Rosario, Nathaniel Lowe, Keibert Ruiz, Paul DeJong, Jacob Young,WSH
 2025-03-30, CJ Abrams, James Wood, Luis Garcia Jr., Keibert Ruiz, Nathaniel Lowe, Josh Bell, Paul DeJong, Dylan Crews, Jacob Young,WSH
+2025-03-31, CJ Abrams, James Wood, Keibert Ruiz, Nathaniel Lowe, Josh Bell, Luis Garcia Jr., Paul DeJong, Dylan Crews, Jacob Young,WSH
+2025-04-01, CJ Abrams, James Wood, Keibert Ruiz, Nathaniel Lowe, Josh Bell, Luis Garcia Jr., Paul DeJong, Alex Call, Jacob Young,WSH
+2025-04-02, CJ Abrams, Amed Rosario, Keibert Ruiz, James Wood, Nathaniel Lowe, Josh Bell, Alex Call, Paul DeJong, Dylan Crews,WSH
+2025-04-04, CJ Abrams, James Wood, Keibert Ruiz, Nathaniel Lowe, Luis Garcia Jr., Josh Bell, Dylan Crews, Jose Tena, Jacob Young,WSH
+2025-04-05, CJ Abrams, Amed Rosario, Nathaniel Lowe, Josh Bell, James Wood, Alex Call, Dylan Crews, Paul DeJong, Riley Adams,WSH
+2025-04-06, CJ Abrams, Luis Garcia Jr., Keibert Ruiz, Nathaniel Lowe, James Wood, Josh Bell, Alex Call, Paul DeJong, Dylan Crews,WSH
+2025-04-07, James Wood, Alex Call, Luis Garcia Jr., Keibert Ruiz, Nathaniel Lowe, Josh Bell, Paul DeJong, Jose Tena, Dylan Crews,WSH
+2025-04-08, Alex Call, James Wood, Keibert Ruiz, Nathaniel Lowe, Amed Rosario, Luis Garcia Jr., Paul DeJong, Dylan Crews, Jacob Young,WSH
+2025-04-09, CJ Abrams, James Wood, Keibert Ruiz, Nathaniel Lowe, Josh Bell, Luis Garcia Jr., Alex Call, Paul DeJong, Dylan Crews,WSH
+2025-04-11, CJ Abrams, James Wood, Keibert Ruiz, Luis Garcia Jr., Josh Bell, Alex Call, Paul DeJong, Dylan Crews, Jacob Young,WSH
+2025-04-12, Alex Call, James Wood, Keibert Ruiz, Nathaniel Lowe, Josh Bell, Luis Garcia Jr., Amed Rosario, Paul DeJong, Jacob Young,WSH
+2025-04-13, Alex Call, James Wood, Keibert Ruiz, Nathaniel Lowe, Josh Bell, Luis Garcia Jr., Amed Rosario, Paul DeJong, Jacob Young,WSH
+2025-04-14, Alex Call, James Wood, Keibert Ruiz, Nathaniel Lowe, Josh Bell, Luis Garcia Jr., Paul DeJong, Dylan Crews, Nasim Nunez,WSH
+2025-04-15, James Wood, Keibert Ruiz, Nathaniel Lowe, Josh Bell, Luis Garcia Jr., Paul DeJong, Dylan Crews, Nasim Nunez, Jacob Young,WSH
+2025-04-16, Alex Call, James Wood, Keibert Ruiz, Nathaniel Lowe, Josh Bell, Amed Rosario, Dylan Crews, Luis Garcia Jr., Nasim Nunez,WSH
+2025-04-17, Alex Call, James Wood, Amed Rosario, Nathaniel Lowe, Dylan Crews, Luis Garcia Jr., Jacob Young, Riley Adams, Nasim Nunez,WSH
+2025-04-19, James Wood, Keibert Ruiz, Nathaniel Lowe, Josh Bell, Luis Garcia Jr., Dylan Crews, Jose Tena, Jacob Young, Nasim Nunez,WSH
 2025-03-27, Colton Cowser, Adley Rutschman, Jordan Westburg, Ryan O'Hearn, Tyler O'Neill, Ryan Mountcastle, Cedric Mullins, Ramon Urias, Jackson Holliday,BAL
 2025-03-28, Colton Cowser, Adley Rutschman, Jordan Westburg, Ryan O'Hearn, Tyler O'Neill, Cedric Mullins, Ryan Mountcastle, Jackson Holliday, Jorge Mateo,BAL
 2025-03-29, Colton Cowser, Adley Rutschman, Ryan O'Hearn, Jordan Westburg, Cedric Mullins, Heston Kjerstad, Gary Sanchez, Jackson Holliday, Ramon Urias,BAL
 2025-03-30, Colton Cowser, Adley Rutschman, Ryan O'Hearn, Tyler O'Neill, Cedric Mullins, Ryan Mountcastle, Jackson Holliday, Ramon Urias, Jorge Mateo,BAL
+2025-03-31, Jordan Westburg, Adley Rutschman, Tyler O'Neill, Ryan Mountcastle, Heston Kjerstad, Ramon Laureano, Cedric Mullins, Ramon Urias, Jackson Holliday,BAL
+2025-04-02, Jordan Westburg, Adley Rutschman, Tyler O'Neill, Ryan Mountcastle, Ramon Laureano, Gary Sanchez, Ramon Urias, Jorge Mateo, Cedric Mullins,BAL
+2025-04-03, Cedric Mullins, Adley Rutschman, Jordan Westburg, Ryan O'Hearn, Tyler O'Neill, Heston Kjerstad, Jackson Holliday, Ramon Urias, Dylan Carlson,BAL
+2025-04-04, Gunnar Henderson, Adley Rutschman, Jordan Westburg, Cedric Mullins, Ryan O'Hearn, Tyler O'Neill, Heston Kjerstad, Ryan Mountcastle, Jackson Holliday,BAL
+2025-04-05, Gunnar Henderson, Jordan Westburg, Cedric Mullins, Ryan Mountcastle, Tyler O'Neill, Heston Kjerstad, Ramon Urias, Gary Sanchez, Jackson Holliday,BAL
+2025-04-06, Gunnar Henderson, Adley Rutschman, Jordan Westburg, Tyler O'Neill, Ryan Mountcastle, Ramon Laureano, Gary Sanchez, Ramon Urias, Jorge Mateo,BAL
+2025-04-07, Gunnar Henderson, Adley Rutschman, Ryan O'Hearn, Jordan Westburg, Cedric Mullins, Ryan Mountcastle, Heston Kjerstad, Ramon Urias, Jackson Holliday,BAL
+2025-04-08, Gunnar Henderson, Adley Rutschman, Ryan O'Hearn, Jordan Westburg, Cedric Mullins, Tyler O'Neill, Heston Kjerstad, Gary Sanchez, Jackson Holliday,BAL
+2025-04-09, Gunnar Henderson, Adley Rutschman, Ryan O'Hearn, Tyler O'Neill, Cedric Mullins, Ryan Mountcastle, Heston Kjerstad, Ramon Urias, Jackson Holliday,BAL
+2025-04-12, Gunnar Henderson, Adley Rutschman, Ryan O'Hearn, Jordan Westburg, Cedric Mullins, Tyler O'Neill, Heston Kjerstad, Ryan Mountcastle, Jackson Holliday,BAL
+2025-04-13, Gunnar Henderson, Adley Rutschman, Ryan O'Hearn, Jordan Westburg, Cedric Mullins, Tyler O'Neill, Heston Kjerstad, Ryan Mountcastle, Jackson Holliday,BAL
+2025-04-15, Jordan Westburg, Adley Rutschman, Tyler O'Neill, Gunnar Henderson, Ryan Mountcastle, Gary Sanchez, Cedric Mullins, Ramon Laureano, Jorge Mateo,BAL
+2025-04-16, Gunnar Henderson, Adley Rutschman, Ryan O'Hearn, Cedric Mullins, Ryan Mountcastle, Heston Kjerstad, Ramon Urias, Jackson Holliday, Ramon Laureano,BAL
+2025-04-17, Cedric Mullins, Gunnar Henderson, Adley Rutschman, Ryan O'Hearn, Jordan Westburg, Heston Kjerstad, Ryan Mountcastle, Jackson Holliday, Ramon Urias,BAL
+2025-04-18, Adley Rutschman, Gunnar Henderson, Tyler O'Neill, Ryan Mountcastle, Cedric Mullins, Jordan Westburg, Gary Sanchez, Heston Kjerstad, Jorge Mateo,BAL
+2025-04-19, Cedric Mullins, Gunnar Henderson, Adley Rutschman, Ryan O'Hearn, Tyler O'Neill, Heston Kjerstad, Jordan Westburg, Jackson Holliday, Ramon Urias,BAL
 2025-03-27, Fernando Tatis Jr., Luis Arraez, Manny Machado, Xander Bogaerts, Jackson Merrill, Yuli Gurriel, Jake Cronenworth, Brandon Lockridge, Elias Diaz,SD
 2025-03-28, Fernando Tatis Jr., Luis Arraez, Manny Machado, Jackson Merrill, Jake Cronenworth, Jake Cronenworth, Xander Bogaerts, Gavin Sheets, Jason Heyward,SD
 2025-03-29, Fernando Tatis Jr., Luis Arraez, Manny Machado, Jackson Merrill, Jake Cronenworth, Xander Bogaerts, Gavin Sheets, Jason Heyward, Martin Maldonado,SD
 2025-03-30, Fernando Tatis Jr., Luis Arraez, Manny Machado, Jackson Merrill, Jake Cronenworth, Xander Bogaerts, Gavin Sheets, Jason Heyward, Elias Diaz,SD
+2025-03-31, Fernando Tatis Jr., Luis Arraez, Manny Machado, Jackson Merrill, Jake Cronenworth, Xander Bogaerts, Gavin Sheets, Jason Heyward, Elias Diaz,SD
+2025-04-01, Fernando Tatis Jr., Luis Arraez, Manny Machado, Xander Bogaerts, Jackson Merrill, Yuli Gurriel, Jose Iglesias, Brandon Lockridge, Elias Diaz,SD
+2025-04-02, Fernando Tatis Jr., Luis Arraez, Manny Machado, Jackson Merrill, Jake Cronenworth, Xander Bogaerts, Gavin Sheets, Jose Iglesias, Martin Maldonado,SD
+2025-04-04, Fernando Tatis Jr., Luis Arraez, Manny Machado, Xander Bogaerts, Jackson Merrill, Yuli Gurriel, Jake Cronenworth, Brandon Lockridge, Martin Maldonado,SD
+2025-04-05, Fernando Tatis Jr., Luis Arraez, Manny Machado, Xander Bogaerts, Jackson Merrill, Yuli Gurriel, Jake Cronenworth, Brandon Lockridge, Elias Diaz,SD
+2025-04-06, Fernando Tatis Jr., Luis Arraez, Manny Machado, Jackson Merrill, Jake Cronenworth, Xander Bogaerts, Gavin Sheets, Jason Heyward, Elias Diaz,SD
+2025-04-07, Fernando Tatis Jr., Luis Arraez, Manny Machado, Jake Cronenworth, Gavin Sheets, Xander Bogaerts, Jason Heyward, Brandon Lockridge, Elias Diaz,SD
+2025-04-08, Fernando Tatis Jr., Luis Arraez, Manny Machado, Xander Bogaerts, Yuli Gurriel, Jake Cronenworth, Jose Iglesias, Brandon Lockridge, Martin Maldonado,SD
+2025-04-09, Luis Arraez, Xander Bogaerts, Manny Machado, Gavin Sheets, Oscar Gonzalez, Jose Iglesias, Jason Heyward, Brandon Lockridge, Martin Maldonado,SD
+2025-04-11, Fernando Tatis Jr., Luis Arraez, Manny Machado, Gavin Sheets, Xander Bogaerts, Jose Iglesias, Jason Heyward, Brandon Lockridge, Elias Diaz,SD
+2025-04-12, Fernando Tatis Jr., Luis Arraez, Manny Machado, Gavin Sheets, Xander Bogaerts, Jose Iglesias, Jason Heyward, Brandon Lockridge, Martin Maldonado,SD
+2025-04-13, Fernando Tatis Jr., Luis Arraez, Manny Machado, Xander Bogaerts, Oscar Gonzalez, Yuli Gurriel, Jose Iglesias, Brandon Lockridge, Elias Diaz,SD
+2025-04-14, Fernando Tatis Jr., Luis Arraez, Manny Machado, Gavin Sheets, Xander Bogaerts, Jose Iglesias, Jason Heyward, Tyler Wade, Martin Maldonado,SD
+2025-04-15, Fernando Tatis Jr., Luis Arraez, Manny Machado, Xander Bogaerts, Oscar Gonzalez, Yuli Gurriel, Jose Iglesias, Jason Heyward, Martin Maldonado,SD
+2025-04-16, Fernando Tatis Jr., Luis Arraez, Manny Machado, Xander Bogaerts, Oscar Gonzalez, Jose Iglesias, Connor Joe, Elias Diaz, Tyler Wade,SD
+2025-04-18, Fernando Tatis Jr., Luis Arraez, Manny Machado, Xander Bogaerts, Gavin Sheets, Oscar Gonzalez, Jose Iglesias, Tyler Wade, Martin Maldonado,SD
+2025-04-19, Fernando Tatis Jr., Luis Arraez, Manny Machado, Gavin Sheets, Oscar Gonzalez, Jose Iglesias, Tyler Wade, Elias Diaz, Connor Joe,SD
 2025-03-27, Trea Turner, Bryce Harper, Alec Bohm, Kyle Schwarber, J.T. Realmuto, Max Kepler, Nick Castellanos, Bryson Stott, Brandon Marsh,PHI
 2025-03-29, Kyle Schwarber, Alec Bohm, Bryce Harper, J.T. Realmuto, Max Kepler, Nick Castellanos, Bryson Stott, Brandon Marsh, Edmundo Sosa,PHI
 2025-03-30, Kyle Schwarber, Alec Bohm, Bryce Harper, Nick Castellanos, Bryson Stott, Edmundo Sosa, Brandon Marsh, Johan Rojas, Rafael Marchan,PHI
+2025-03-31, Kyle Schwarber, Alec Bohm, Bryce Harper, J.T. Realmuto, Max Kepler, Nick Castellanos, Bryson Stott, Brandon Marsh, Edmundo Sosa,PHI
+2025-04-02, Trea Turner, Bryce Harper, Alec Bohm, Kyle Schwarber, Nick Castellanos, J.T. Realmuto, Max Kepler, Edmundo Sosa, Johan Rojas,PHI
+2025-04-03, Kyle Schwarber, Trea Turner, Bryce Harper, Alec Bohm, Max Kepler, Nick Castellanos, J.T. Realmuto, Bryson Stott, Brandon Marsh,PHI
+2025-04-04, Kyle Schwarber, Trea Turner, Bryce Harper, Alec Bohm, Max Kepler, Nick Castellanos, J.T. Realmuto, Bryson Stott, Brandon Marsh,PHI
+2025-04-05, Kyle Schwarber, Trea Turner, Bryce Harper, Alec Bohm, Max Kepler, Nick Castellanos, J.T. Realmuto, Bryson Stott, Brandon Marsh,PHI
+2025-04-06, Kyle Schwarber, Trea Turner, Bryce Harper, Max Kepler, Nick Castellanos, Bryson Stott, Edmundo Sosa, Brandon Marsh, Rafael Marchan,PHI
+2025-04-08, Trea Turner, Bryce Harper, Alec Bohm, Kyle Schwarber, Nick Castellanos, J.T. Realmuto, Edmundo Sosa, Bryson Stott, Johan Rojas,PHI
+2025-04-09, Kyle Schwarber, Trea Turner, Bryce Harper, Alec Bohm, Max Kepler, Nick Castellanos, J.T. Realmuto, Bryson Stott, Brandon Marsh,PHI
+2025-04-10, Kyle Schwarber, Trea Turner, Bryce Harper, Nick Castellanos, Max Kepler, J.T. Realmuto, Alec Bohm, Bryson Stott, Brandon Marsh,PHI
+2025-04-11, Bryson Stott, Trea Turner, Bryce Harper, Kyle Schwarber, Nick Castellanos, Max Kepler, Alec Bohm, Brandon Marsh, Rafael Marchan,PHI
+2025-04-12, Bryson Stott, Trea Turner, Bryce Harper, Kyle Schwarber, Nick Castellanos, Max Kepler, J.T. Realmuto, Alec Bohm, Brandon Marsh,PHI
+2025-04-13, Trea Turner, Bryce Harper, Kyle Schwarber, Nick Castellanos, J.T. Realmuto, Alec Bohm, Edmundo Sosa, Brandon Marsh, Johan Rojas,PHI
+2025-04-14, Bryson Stott, Trea Turner, Bryce Harper, Kyle Schwarber, Nick Castellanos, J.T. Realmuto, Max Kepler, Alec Bohm, Johan Rojas,PHI
+2025-04-15, Bryson Stott, Trea Turner, Bryce Harper, Kyle Schwarber, Nick Castellanos, J.T. Realmuto, Max Kepler, Alec Bohm, Brandon Marsh,PHI
+2025-04-16, Trea Turner, Bryce Harper, Kyle Schwarber, Nick Castellanos, J.T. Realmuto, Alec Bohm, Edmundo Sosa, Rafael Marchan, Johan Rojas,PHI
+2025-04-17, Bryson Stott, Trea Turner, Bryce Harper, Kyle Schwarber, Nick Castellanos, Max Kepler, J.T. Realmuto, Alec Bohm, Johan Rojas,PHI
+2025-04-18, Bryson Stott, Trea Turner, Bryce Harper, Kyle Schwarber, Nick Castellanos, Max Kepler, J.T. Realmuto, Alec Bohm, Johan Rojas,PHI
+2025-04-19, Bryson Stott, Trea Turner, Bryce Harper, Kyle Schwarber, Nick Castellanos, Max Kepler, J.T. Realmuto, Alec Bohm, Johan Rojas,PHI
 2025-03-27, Tommy Pham, Bryan Reynolds, Oneil Cruz, Joey Bart, Andrew McCutchen, Nick Gonzales, Endy Rodriguez, Ke'Bryan Hayes, Isiah Kiner-Falefa,PIT
 2025-03-28, Tommy Pham, Bryan Reynolds, Oneil Cruz, Joey Bart, Andrew McCutchen, Ke'Bryan Hayes, Endy Rodriguez, Adam Frazier, Isiah Kiner-Falefa,PIT
 2025-03-29, Ji Hwan Bae, Bryan Reynolds, Oneil Cruz, Joey Bart, Jack Suwinski, Ke'Bryan Hayes, Jared Triolo, Adam Frazier, Isiah Kiner-Falefa,PIT
 2025-03-30, Adam Frazier, Bryan Reynolds, Tommy Pham, Andrew McCutchen, Jack Suwinski, Endy Rodriguez, Jared Triolo, Enmanuel Valdez, Isiah Kiner-Falefa,PIT
+2025-03-31, Tommy Pham, Bryan Reynolds, Oneil Cruz, Joey Bart, Jack Suwinski, Ke'Bryan Hayes, Endy Rodriguez, Adam Frazier, Isiah Kiner-Falefa,PIT
+2025-04-01, Jack Suwinski, Bryan Reynolds, Oneil Cruz, Joey Bart, Tommy Pham, Enmanuel Valdez, Ke'Bryan Hayes, Jared Triolo, Isiah Kiner-Falefa,PIT
+2025-04-02, Adam Frazier, Bryan Reynolds, Oneil Cruz, Tommy Pham, Jack Suwinski, Ke'Bryan Hayes, Endy Rodriguez, Jared Triolo, Isiah Kiner-Falefa,PIT
+2025-04-04, Ke'Bryan Hayes, Bryan Reynolds, Oneil Cruz, Joey Bart, Andrew McCutchen, Tommy Pham, Endy Rodriguez, Jared Triolo, Isiah Kiner-Falefa,PIT
+2025-04-05, Adam Frazier, Bryan Reynolds, Oneil Cruz, Ke'Bryan Hayes, Jack Suwinski, Alexander Canario, Enmanuel Valdez, Endy Rodriguez, Isiah Kiner-Falefa,PIT
+2025-04-06, Ke'Bryan Hayes, Bryan Reynolds, Oneil Cruz, Joey Bart, Andrew McCutchen, Enmanuel Valdez, Tommy Pham, Adam Frazier, Isiah Kiner-Falefa,PIT
+2025-04-07, Ke'Bryan Hayes, Andrew McCutchen, Joey Bart, Oneil Cruz, Tommy Pham, Alexander Canario, Endy Rodriguez, Isiah Kiner-Falefa, Adam Frazier,PIT
+2025-04-08, Jack Suwinski, Bryan Reynolds, Oneil Cruz, Ke'Bryan Hayes, Enmanuel Valdez, Tommy Pham, Endy Rodriguez, Adam Frazier, Isiah Kiner-Falefa,PIT
+2025-04-09, Jack Suwinski, Bryan Reynolds, Andrew McCutchen, Joey Bart, Ke'Bryan Hayes, Endy Rodriguez, Adam Frazier, Tommy Pham, Tsung-Che Cheng,PIT
+2025-04-11, Enmanuel Valdez, Bryan Reynolds, Joey Bart, Endy Rodriguez, Ke'Bryan Hayes, Jack Suwinski, Tommy Pham, Adam Frazier, Isiah Kiner-Falefa,PIT
+2025-04-12, Isiah Kiner-Falefa, Bryan Reynolds, Ke'Bryan Hayes, Andrew McCutchen, Tommy Pham, Alexander Canario, Endy Rodriguez, Enmanuel Valdez, Henry Davis,PIT
+2025-04-13, Enmanuel Valdez, Bryan Reynolds, Oneil Cruz, Endy Rodriguez, Alexander Canario, Adam Frazier, Isiah Kiner-Falefa, Tsung-Che Cheng, Henry Davis,PIT
+2025-04-14, Oneil Cruz, Bryan Reynolds, Andrew McCutchen, Enmanuel Valdez, Ke'Bryan Hayes, Henry Davis, Tommy Pham, Adam Frazier, Isiah Kiner-Falefa,PIT
+2025-04-15, Oneil Cruz, Bryan Reynolds, Ke'Bryan Hayes, Enmanuel Valdez, Jack Suwinski, Tommy Pham, Adam Frazier, Isiah Kiner-Falefa, Henry Davis,PIT
+2025-04-16, Ke'Bryan Hayes, Bryan Reynolds, Andrew McCutchen, Oneil Cruz, Tommy Pham, Jared Triolo, Isiah Kiner-Falefa, Enmanuel Valdez, Henry Davis,PIT
+2025-04-17, Oneil Cruz, Bryan Reynolds, Andrew McCutchen, Joey Bart, Enmanuel Valdez, Ke'Bryan Hayes, Tommy Pham, Adam Frazier, Isiah Kiner-Falefa,PIT
+2025-04-18, Oneil Cruz, Bryan Reynolds, Andrew McCutchen, Enmanuel Valdez, Joey Bart, Jack Suwinski, Jared Triolo, Adam Frazier, Isiah Kiner-Falefa,PIT
+2025-04-19, Oneil Cruz, Bryan Reynolds, Ke'Bryan Hayes, Enmanuel Valdez, Tommy Pham, Adam Frazier, Jared Triolo, Jack Suwinski, Henry Davis,PIT
 2025-03-27, Marcus Semien, Corey Seager, Wyatt Langford, Adolis Garcia, Jake Burger, Josh Jung, Kevin Pillar, Kyle Higashioka, Josh Smith,TEX
 2025-03-28, Marcus Semien, Corey Seager, Wyatt Langford, Joc Pederson, Adolis Garcia, Jake Burger, Josh Jung, Jonah Heim, Leody Taveras,TEX
 2025-03-29, Marcus Semien, Corey Seager, Wyatt Langford, Joc Pederson, Adolis Garcia, Jake Burger, Ezequiel Duran, Jonah Heim, Leody Taveras,TEX
 2025-03-30, Marcus Semien, Wyatt Langford, Joc Pederson, Adolis Garcia, Jake Burger, Kyle Higashioka, Leody Taveras, Jonathan Ornelas, Ezequiel Duran,TEX
+2025-03-31, Marcus Semien, Corey Seager, Wyatt Langford, Joc Pederson, Adolis Garcia, Jake Burger, Josh Smith, Jonah Heim, Leody Taveras,TEX
+2025-04-01, Marcus Semien, Corey Seager, Wyatt Langford, Joc Pederson, Adolis Garcia, Jake Burger, Josh Smith, Kyle Higashioka, Leody Taveras,TEX
+2025-04-02, Marcus Semien, Wyatt Langford, Joc Pederson, Adolis Garcia, Jake Burger, Josh Smith, Jonah Heim, Leody Taveras, Ezequiel Duran,TEX
+2025-04-04, Marcus Semien, Corey Seager, Wyatt Langford, Joc Pederson, Adolis Garcia, Jake Burger, Josh Smith, Kyle Higashioka, Leody Taveras,TEX
+2025-04-05, Marcus Semien, Corey Seager, Wyatt Langford, Joc Pederson, Adolis Garcia, Jake Burger, Josh Smith, Kyle Higashioka, Leody Taveras,TEX
+2025-04-06, Marcus Semien, Corey Seager, Wyatt Langford, Joc Pederson, Adolis Garcia, Jake Burger, Josh Smith, Jonah Heim, Leody Taveras,TEX
+2025-04-07, Marcus Semien, Corey Seager, Wyatt Langford, Adolis Garcia, Kevin Pillar, Jake Burger, Josh Smith, Jonah Heim, Kyle Higashioka,TEX
+2025-04-08, Marcus Semien, Corey Seager, Wyatt Langford, Joc Pederson, Adolis Garcia, Josh Smith, Josh Jung, Jonah Heim, Leody Taveras,TEX
+2025-04-09, Marcus Semien, Corey Seager, Josh Jung, Adolis Garcia, Jake Burger, Kyle Higashioka, Kevin Pillar, Jonah Heim, Leody Taveras,TEX
+2025-04-11, Marcus Semien, Corey Seager, Josh Smith, Adolis Garcia, Joc Pederson, Josh Jung, Jake Burger, Jonah Heim, Marcus Semien,TEX
+2025-04-12, Marcus Semien, Corey Seager, Josh Smith, Adolis Garcia, Joc Pederson, Josh Jung, Jake Burger, Jonah Heim, Leody Taveras,TEX
+2025-04-13, Joc Pederson, Corey Seager, Josh Smith, Adolis Garcia, Josh Jung, Dustin Harris, Jake Burger, Kyle Higashioka, Leody Taveras,TEX
+2025-04-15, Marcus Semien, Corey Seager, Josh Jung, Adolis Garcia, Kevin Pillar, Jonah Heim, Kyle Higashioka, Ezequiel Duran, Leody Taveras,TEX
+2025-04-16, Marcus Semien, Corey Seager, Joc Pederson, Adolis Garcia, Josh Jung, Dustin Harris, Jake Burger, Jonah Heim, Leody Taveras,TEX
+2025-04-17, Marcus Semien, Corey Seager, Joc Pederson, Adolis Garcia, Josh Jung, Dustin Harris, Jake Burger, Kyle Higashioka, Leody Taveras,TEX
+2025-04-18, Marcus Semien, Corey Seager, Joc Pederson, Adolis Garcia, Josh Jung, Dustin Harris, Jake Burger, Jonah Heim, Leody Taveras,TEX
+2025-04-19, Marcus Semien, Corey Seager, Josh Smith, Adolis Garcia, Joc Pederson, Josh Jung, Dustin Harris, Kyle Higashioka, Leody Taveras,TEX
 2025-03-28, Curtis Mead, Yandy Diaz, Brandon Lowe, Junior Caminero, Christopher Morel, Danny Jansen, Josh Lowe, Jonny DeLuca, Taylor Walls,TB
 2025-03-29, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Christopher Morel, Kameron Misner, Danny Jansen, Taylor Walls, Jonny DeLuca,TB
 2025-03-30, Yandy Diaz, Jake Mangum, Brandon Lowe, Jonathan Aranda, Taylor Walls, Kameron Misner, Jose Caballero, Ben Rortvedt, Jonny DeLuca,TB
+2025-03-31, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Christopher Morel, Kameron Misner, Danny Jansen, Jake Mangum, Jose Caballero,TB
+2025-04-01, Yandy Diaz, Brandon Lowe, Junior Caminero, Jake Mangum, Curtis Mead, Kameron Misner, Danny Jansen, Taylor Walls, Jonny DeLuca,TB
+2025-04-02, Yandy Diaz, Brandon Lowe, Jake Mangum, Junior Caminero, Jonathan Aranda, Jose Caballero, Taylor Walls, Ben Rortvedt, Jonny DeLuca,TB
+2025-04-04, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Christopher Morel, Kameron Misner, Danny Jansen, Taylor Walls, Jonny DeLuca,TB
+2025-04-05, Yandy Diaz, Brandon Lowe, Jonny DeLuca, Jonathan Aranda, Danny Jansen, Kameron Misner, Curtis Mead, Jake Mangum, Jose Caballero,TB
+2025-04-06, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Christopher Morel, Kameron Misner, Jake Mangum, Taylor Walls, Ben Rortvedt,TB
+2025-04-08, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Christopher Morel, Kameron Misner, Danny Jansen, Jake Mangum, Taylor Walls,TB
+2025-04-09, Yandy Diaz, Junior Caminero, Curtis Mead, Christopher Morel, Danny Jansen, Jose Caballero, Coco Montes, Jake Mangum, Taylor Walls,TB
+2025-04-10, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Christopher Morel, Kameron Misner, Jose Caballero, Jake Mangum, Ben Rortvedt,TB
+2025-04-11, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Christopher Morel, Kameron Misner, Danny Jansen, Jake Mangum, Taylor Walls,TB
+2025-04-12, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Christopher Morel, Kameron Misner, Jose Caballero, Taylor Walls, Ben Rortvedt,TB
+2025-04-13, Yandy Diaz, Curtis Mead, Junior Caminero, Christopher Morel, Jose Caballero, Danny Jansen, Coco Montes, Jake Mangum, Taylor Walls,TB
+2025-04-14, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Christopher Morel, Kameron Misner, Taylor Walls, Danny Jansen, Jake Mangum,TB
+2025-04-15, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Christopher Morel, Kameron Misner, Jake Mangum, Taylor Walls, Ben Rortvedt,TB
+2025-04-16, Yandy Diaz, Curtis Mead, Junior Caminero, Christopher Morel, Jose Caballero, Danny Jansen, Coco Montes, Jake Mangum, Taylor Walls,TB
+2025-04-17, Kameron Misner, Brandon Lowe, Yandy Diaz, Jonathan Aranda, Junior Caminero, Richie Palacios, Jake Mangum, Ben Rortvedt, Taylor Walls,TB
+2025-04-18, Yandy Diaz, Junior Caminero, Curtis Mead, Christopher Morel, Danny Jansen, Jonathan Aranda, Jose Caballero, Jake Mangum, Taylor Walls,TB
+2025-04-19, Chandler Simpson, Yandy Diaz, Brandon Lowe, Junior Caminero, Jonathan Aranda, Jake Mangum, Kameron Misner, Jose Caballero, Ben Rortvedt,TB
 2025-03-27, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Kristian Campbell, Wilyer Abreu, Connor Wong, Ceddanne Rafaela,BOS
 2025-03-28, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Kristian Campbell, Wilyer Abreu, Connor Wong, Ceddanne Rafaela,BOS
 2025-03-29, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Wilyer Abreu, Kristian Campbell, David Hamilton, Carlos Narvaez,BOS
 2025-03-30, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Kristian Campbell, Wilyer Abreu, Connor Wong, David Hamilton, Ceddanne Rafaela,BOS
+2025-03-31, Jarren Duran, Rafael Devers, Alex Bregman, Rob Refsnyder, Trevor Story, Kristian Campbell, Romy Gonzalez, Connor Wong, Ceddanne Rafaela,BOS
+2025-04-02, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Wilyer Abreu, Kristian Campbell, Connor Wong, Ceddanne Rafaela,BOS
+2025-04-03, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Wilyer Abreu, Kristian Campbell, Carlos Narvaez, Ceddanne Rafaela,BOS
+2025-04-04, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Wilyer Abreu, Kristian Campbell, Carlos Narvaez, Ceddanne Rafaela,BOS
+2025-04-06a, Jarren Duran, Rafael Devers, Alex Bregman, Wilyer Abreu, Trevor Story, Kristian Campbell, Romy Gonzalez, Carlos Narvaez, Ceddanne Rafaela,BOS
+2025-04-06b, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Rob Refsnyder, Kristian Campbell, David Hamilton, Connor Wong,BOS
+2025-04-07, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Wilyer Abreu, Carlos Narvaez, David Hamilton, Ceddanne Rafaela,BOS
+2025-04-08, Jarren Duran, Rafael Devers, Alex Bregman, Rob Refsnyder, Trevor Story, Kristian Campbell, Romy Gonzalez, Carlos Narvaez, Ceddanne Rafaela,BOS
+2025-04-09, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Wilyer Abreu, Kristian Campbell, David Hamilton, Carlos Narvaez,BOS
+2025-04-10, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Kristian Campbell, Wilyer Abreu, Ceddanne Rafaela, Carlos Narvaez,BOS
+2025-04-11, Jarren Duran, Rafael Devers, Alex Bregman, Triston Casas, Trevor Story, Wilyer Abreu, Kristian Campbell, Blake Sabol, Ceddanne Rafaela,BOS
+2025-04-12, Romy Gonzalez, Rafael Devers, Alex Bregman, Rob Refsnyder, Trevor Story, Kristian Campbell, Wilyer Abreu, Carlos Narvaez, Ceddanne Rafaela,BOS
+2025-04-13, Jarren Duran, Rafael Devers, Alex Bregman, Wilyer Abreu, Trevor Story, Triston Casas, Kristian Campbell, Carlos Narvaez, Ceddanne Rafaela,BOS
+2025-04-14, Jarren Duran, Rafael Devers, Alex Bregman, Wilyer Abreu, Trevor Story, Triston Casas, Kristian Campbell, David Hamilton, Carlos Narvaez,BOS
+2025-04-15, Jarren Duran, Rafael Devers, Alex Bregman, Wilyer Abreu, Trevor Story, Kristian Campbell, Triston Casas, Ceddanne Rafaela, Carlos Narvaez,BOS
+2025-04-16, Jarren Duran, Rafael Devers, Trevor Story, Wilyer Abreu, Romy Gonzalez, Triston Casas, Carlos Narvaez, David Hamilton, Ceddanne Rafaela,BOS
+2025-04-18, Jarren Duran, Rafael Devers, Alex Bregman, Trevor Story, Romy Gonzalez, Rob Refsnyder, Kristian Campbell, Carlos Narvaez, Ceddanne Rafaela,BOS
+2025-04-19, Jarren Duran, Rafael Devers, Alex Bregman, Trevor Story, Wilyer Abreu, Kristian Campbell, Triston Casas, Carlos Narvaez, Ceddanne Rafaela,BOS
 2025-03-27, TJ Friedl, Matt McLain, Elly De La Cruz, Gavin Lux, Jeimer Candelario, Spencer Steer, Christian Encarnacion-Strand, Jake Fraley, Jose Trevino,CIN
 2025-03-29, TJ Friedl, Matt McLain, Elly De La Cruz, Gavin Lux, Jeimer Candelario, Christian Encarnacion-Strand, Santiago Espinal, Jake Fraley, Jose Trevino,CIN
 2025-03-30, Matt McLain, Santiago Espinal, Elly De La Cruz, Christian Encarnacion-Strand, Jeimer Candelario, Spencer Steer, Gavin Lux, Blake Dunn, Austin Wynns,CIN
+2025-03-31, TJ Friedl, Matt McLain, Elly De La Cruz, Gavin Lux, Jeimer Candelario, Christian Encarnacion-Strand, Spencer Steer, Jake Fraley, Jose Trevino,CIN
+2025-04-01, TJ Friedl, Matt McLain, Elly De La Cruz, Gavin Lux, Jeimer Candelario, Santiago Espinal, Jake Fraley, Blake Dunn, Austin Wynns,CIN
+2025-04-02, TJ Friedl, Matt McLain, Elly De La Cruz, Gavin Lux, Jeimer Candelario, Christian Encarnacion-Strand, Spencer Steer, Jake Fraley, Jose Trevino,CIN
+2025-04-03, TJ Friedl, Matt McLain, Elly De La Cruz, Christian Encarnacion-Strand, Jeimer Candelario, Blake Dunn, Spencer Steer, Santiago Espinal, Jose Trevino,CIN
+2025-04-04, TJ Friedl, Spencer Steer, Elly De La Cruz, Christian Encarnacion-Strand, Jeimer Candelario, Blake Dunn, Gavin Lux, Santiago Espinal, Austin Wynns,CIN
+2025-04-05, TJ Friedl, Santiago Espinal, Elly De La Cruz, Gavin Lux, Jeimer Candelario, Christian Encarnacion-Strand, Jake Fraley, Blake Dunn, Jose Trevino,CIN
+2025-04-06, TJ Friedl, Santiago Espinal, Elly De La Cruz, Gavin Lux, Gavin Lux, Jeimer Candelario, Christian Encarnacion-Strand, Spencer Steer, Jake Fraley,CIN
+2025-04-07, TJ Friedl, Blake Dunn, Elly De La Cruz, Gavin Lux, Christian Encarnacion-Strand, Jeimer Candelario, Spencer Steer, Jacob Hurtubise, Jose Trevino,CIN
+2025-04-08, TJ Friedl, Blake Dunn, Elly De La Cruz, Gavin Lux, Christian Encarnacion-Strand, Jeimer Candelario, Spencer Steer, Jake Fraley, Jose Trevino,CIN
+2025-04-09, TJ Friedl, Santiago Espinal, Elly De La Cruz, Gavin Lux, Christian Encarnacion-Strand, Will Benson, Spencer Steer, Jake Fraley, Austin Wynns,CIN
+2025-04-11, TJ Friedl, Blake Dunn, Elly De La Cruz, Spencer Steer, Jeimer Candelario, Christian Encarnacion-Strand, Gavin Lux, Santiago Espinal, Jose Trevino,CIN
+2025-04-12, TJ Friedl, Blake Dunn, Elly De La Cruz, Spencer Steer, Jeimer Candelario, Noelvi Marte, Gavin Lux, Santiago Espinal, Jose Trevino,CIN
+2025-04-13, TJ Friedl, Santiago Espinal, Elly De La Cruz, Gavin Lux, Spencer Steer, Jeimer Candelario, Jake Fraley, Noelvi Marte, Austin Wynns,CIN
+2025-04-15, TJ Friedl, Matt McLain, Elly De La Cruz, Gavin Lux, Austin Hays, Jeimer Candelario, Christian Encarnacion-Strand, Jake Fraley, Jose Trevino,CIN
+2025-04-16, TJ Friedl, Matt McLain, Elly De La Cruz, Austin Hays, Gavin Lux, Spencer Steer, Christian Encarnacion-Strand, Jake Fraley, Jose Trevino,CIN
+2025-04-17, TJ Friedl, Santiago Espinal, Elly De La Cruz, Austin Hays, Gavin Lux, Jeimer Candelario, Blake Dunn, Jake Fraley, Austin Wynns,CIN
+2025-04-18, Matt McLain, Santiago Espinal, Elly De La Cruz, Austin Hays, Spencer Steer, Jeimer Candelario, Noelvi Marte, Jose Trevino, Blake Dunn,CIN
+2025-04-19, TJ Friedl, Matt McLain, Elly De La Cruz, Austin Hays, Gavin Lux, Santiago Espinal, Jake Fraley, Jeimer Candelario, Jose Trevino,CIN
 2025-03-28, Brenton Doyle, Ezequiel Tovar, Ryan McMahon, Kris Bryant, Michael Toglia, Hunter Goodman, Nick Martini, Kyle Farmer, Jordan Beck,COL
 2025-03-29, Brenton Doyle, Ezequiel Tovar, Ryan McMahon, Kris Bryant, Michael Toglia, Hunter Goodman, Nick Martini, Kyle Farmer, Jordan Beck,COL
 2025-03-30, Brenton Doyle, Ezequiel Tovar, Ryan McMahon, Hunter Goodman, Michael Toglia, Nick Martini, Jordan Beck, Jacob Stallings, Tyler Freeman,COL
+2025-03-31, Brenton Doyle, Ezequiel Tovar, Ryan McMahon, Hunter Goodman, Kris Bryant, Michael Toglia, Kyle Farmer, Sean Bouchard, Jordan Beck,COL
+2025-04-02, Brenton Doyle, Ezequiel Tovar, Ryan McMahon, Hunter Goodman, Kris Bryant, Michael Toglia, Nick Martini, Kyle Farmer, Mickey Moniak,COL
+2025-04-03, Brenton Doyle, Ezequiel Tovar, Ryan McMahon, Hunter Goodman, Michael Toglia, Nick Martini, Jacob Stallings, Mickey Moniak, Tyler Freeman,COL
+2025-04-04, Brenton Doyle, Ezequiel Tovar, Ryan McMahon, Hunter Goodman, Michael Toglia, Kyle Farmer, Jacob Stallings, Jordan Beck, Mickey Moniak,COL
+2025-04-05, Brenton Doyle, Ezequiel Tovar, Ryan McMahon, Hunter Goodman, Kris Bryant, Michael Toglia, Kyle Farmer, Sean Bouchard, Jordan Beck,COL
+2025-04-06, Brenton Doyle, Ezequiel Tovar, Ryan McMahon, Hunter Goodman, Kris Bryant, Michael Toglia, Nick Martini, Tyler Freeman, Mickey Moniak,COL
+2025-04-08, Brenton Doyle, Ezequiel Tovar, Ryan McMahon, Kris Bryant, Kyle Farmer, Michael Toglia, Zac Veen, Jacob Stallings, Mickey Moniak,COL
+2025-04-09, Brenton Doyle, Sean Bouchard, Ezequiel Tovar, Ryan McMahon, Hunter Goodman, Kyle Farmer, Kris Bryant, Michael Toglia, Zac Veen,COL
+2025-04-10, Brenton Doyle, Zac Veen, Kyle Farmer, Ryan McMahon, Nick Martini, Michael Toglia, Tyler Freeman, Mickey Moniak, Jacob Stallings,COL
+2025-04-11, Zac Veen, Kyle Farmer, Ezequiel Tovar, Ryan McMahon, Kris Bryant, Nick Martini, Michael Toglia, Hunter Goodman, Mickey Moniak,COL
+2025-04-12, Ezequiel Tovar, Kyle Farmer, Ryan McMahon, Kris Bryant, Sean Bouchard, Michael Toglia, Mickey Moniak, Jacob Stallings, Zac Veen,COL
+2025-04-13, Ezequiel Tovar, Nick Martini, Kyle Farmer, Ryan McMahon, Michael Toglia, Mickey Moniak, Hunter Goodman, Zac Veen, Adael Amador,COL
+2025-04-14, Ezequiel Tovar, Nick Martini, Kyle Farmer, Ryan McMahon, Michael Toglia, Mickey Moniak, Hunter Goodman, Zac Veen, Adael Amador,COL
+2025-04-15, Ezequiel Tovar, Nick Martini, Kyle Farmer, Ryan McMahon, Hunter Goodman, Mickey Moniak, Zac Veen, Jacob Stallings, Adael Amador,COL
+2025-04-16, Nick Martini, Sean Bouchard, Ryan McMahon, Kyle Farmer, Hunter Goodman, Michael Toglia, Mickey Moniak, Braxton Fulford, Adael Amador,COL
+2025-04-19, Sean Bouchard, Kyle Farmer, Ryan McMahon, Hunter Goodman, Michael Toglia, Jacob Stallings, Mickey Moniak, Jordan Beck, Aaron Schunk,COL
 2025-03-27, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Hunter Renfroe, MJ Melendez, Cavan Biggio, Kyle Isbel,KC
 2025-03-29, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, MJ Melendez, Maikel Garcia, Cavan Biggio, Kyle Isbel,KC
 2025-03-30, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Hunter Renfroe, Maikel Garcia, Freddy Fermin, Kyle Isbel,KC
+2025-03-31, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Hunter Renfroe, MJ Melendez, Mark Canha, Maikel Garcia,KC
+2025-04-01, Jonathan India, Bobby Witt Jr., Michael Massey, Salvador Perez, Cavan Biggio, Hunter Renfroe, MJ Melendez, Maikel Garcia, Kyle Isbel,KC
+2025-04-02, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Hunter Renfroe, Cavan Biggio, Freddy Fermin, Kyle Isbel,KC
+2025-04-04, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Cavan Biggio, Maikel Garcia, MJ Melendez, Kyle Isbel,KC
+2025-04-05, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Hunter Renfroe, MJ Melendez, Maikel Garcia, Kyle Isbel,KC
+2025-04-06, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Mark Canha, Michael Massey, Hunter Renfroe, Maikel Garcia, Freddy Fermin,KC
+2025-04-07, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Hunter Renfroe, MJ Melendez, Maikel Garcia, Kyle Isbel,KC
+2025-04-08, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Mark Canha, MJ Melendez, Maikel Garcia, Kyle Isbel,KC
+2025-04-09, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Hunter Renfroe, Cavan Biggio, Maikel Garcia, Kyle Isbel,KC
+2025-04-10, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Cavan Biggio, Maikel Garcia, MJ Melendez, Freddy Fermin, Drew Waters,KC
+2025-04-11, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Hunter Renfroe, Drew Waters, Freddy Fermin, Kyle Isbel,KC
+2025-04-12, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Cavan Biggio, Maikel Garcia, MJ Melendez, Kyle Isbel,KC
+2025-04-13, Maikel Garcia, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Hunter Renfroe, MJ Melendez, Freddy Fermin, Kyle Isbel,KC
+2025-04-14, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Maikel Garcia, Cavan Biggio, Drew Waters, Kyle Isbel,KC
+2025-04-15, Maikel Garcia, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Hunter Renfroe, MJ Melendez, Freddy Fermin, Cavan Biggio,KC
+2025-04-16, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Maikel Garcia, MJ Melendez, Drew Waters, Tyler Tolbert, Kyle Isbel,KC
+2025-04-17, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Michael Massey, Maikel Garcia, Cavan Biggio, Drew Waters, Kyle Isbel,KC
+2025-04-18, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Maikel Garcia, Michael Massey, Hunter Renfroe, Drew Waters, Kyle Isbel,KC
+2025-04-19, Jonathan India, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Maikel Garcia, Michael Massey, Drew Waters, Freddy Fermin, Kyle Isbel,KC
 2025-03-27, Andy Ibanez, Gleyber Torres, Riley Greene, Spencer Torkelson, Manuel Margot, Colt Keith, Javier Baez, Jake Rogers, Ryan Kreidler,DET
 2025-03-28, Gleyber Torres, Kerry Carpenter, Riley Greene, Spencer Torkelson, Colt Keith, Zach McKinstry, Dillon Dingler, Trey Sweeney, Ryan Kreidler,DET
 2025-03-29, Zach McKinstry, Riley Greene, Spencer Torkelson, Kerry Carpenter, Colt Keith, Manuel Margot, Trey Sweeney, Jake Rogers, Ryan Kreidler,DET
+2025-03-31, Justyn-Henry Malloy, Kerry Carpenter, Riley Greene, Spencer Torkelson, Colt Keith, Zach McKinstry, Dillon Dingler, Trey Sweeney, Javier Baez,DET
+2025-04-01, Zach McKinstry, Riley Greene, Spencer Torkelson, Kerry Carpenter, Colt Keith, Manuel Margot, Trey Sweeney, Jake Rogers, Ryan Kreidler,DET
+2025-04-02, Zach McKinstry, Riley Greene, Spencer Torkelson, Kerry Carpenter, Colt Keith, Justyn-Henry Malloy, Trey Sweeney, Jake Rogers, Ryan Kreidler,DET
+2025-04-04, Justyn-Henry Malloy, Kerry Carpenter, Riley Greene, Spencer Torkelson, Colt Keith, Zach McKinstry, Dillon Dingler, Trey Sweeney, Javier Baez,DET
+2025-04-05, Justyn-Henry Malloy, Kerry Carpenter, Riley Greene, Spencer Torkelson, Colt Keith, Andy Ibanez, Jake Rogers, Trey Sweeney, Ryan Kreidler,DET
+2025-04-06, Justyn-Henry Malloy, Andy Ibanez, Spencer Torkelson, Manuel Margot, Dillon Dingler, Kerry Carpenter, Javier Baez, Ryan Kreidler, Zach McKinstry,DET
+2025-04-07, Justyn-Henry Malloy, Andy Ibanez, Spencer Torkelson, Riley Greene, Manuel Margot, Javier Baez, Colt Keith, Jake Rogers, Ryan Kreidler,DET
+2025-04-08, Justyn-Henry Malloy, Kerry Carpenter, Riley Greene, Spencer Torkelson, Colt Keith, Zach McKinstry, Dillon Dingler, Trey Sweeney, Javier Baez,DET
+2025-04-09, Justyn-Henry Malloy, Andy Ibanez, Riley Greene, Spencer Torkelson, Dillon Dingler, Colt Keith, Javier Baez, Ryan Kreidler, Zach McKinstry,DET
+2025-04-11, Gleyber Torres, Kerry Carpenter, Riley Greene, Spencer Torkelson, Colt Keith, Zach McKinstry, Dillon Dingler, Trey Sweeney, Javier Baez,DET
+2025-04-12, Zach McKinstry, Kerry Carpenter, Spencer Torkelson, Riley Greene, Colt Keith, Justyn-Henry Malloy, Trey Sweeney, Javier Baez, Tomas Nido,DET
+2025-04-13, Gleyber Torres, Kerry Carpenter, Riley Greene, Spencer Torkelson, Colt Keith, Zach McKinstry, Dillon Dingler, Trey Sweeney, Ryan Kreidler,DET
+2025-04-14, Justyn-Henry Malloy, Gleyber Torres, Andy Ibanez, Spencer Torkelson, Dillon Dingler, Kerry Carpenter, Javier Baez, Ryan Kreidler, Zach McKinstry,DET
+2025-04-15, Gleyber Torres, Kerry Carpenter, Riley Greene, Spencer Torkelson, Colt Keith, Dillon Dingler, Zach McKinstry, Javier Baez, Trey Sweeney,DET
+2025-04-16, Justyn-Henry Malloy, Gleyber Torres, Andy Ibanez, Spencer Torkelson, Riley Greene, Javier Baez, Tomas Nido, Trey Sweeney, Ryan Kreidler,DET
+2025-04-17, Gleyber Torres, Kerry Carpenter, Zach McKinstry, Spencer Torkelson, Riley Greene, Dillon Dingler, Colt Keith, Trey Sweeney, Ryan Kreidler,DET
+2025-04-18, Justyn-Henry Malloy, Gleyber Torres, Riley Greene, Andy Ibanez, Spencer Torkelson, Kerry Carpenter, Javier Baez, Tomas Nido, Zach McKinstry,DET
+2025-04-19, Kerry Carpenter, Spencer Torkelson, Zach McKinstry, Riley Greene, Dillon Dingler, Colt Keith, Trey Sweeney, Javier Baez, Ryan Kreidler,DET
 2025-03-27, Matt Wallner, Carlos Correa, Byron Buxton, Trevor Larnach, Ryan Jeffers, Ty France, Willi Castro, Jose Miranda, Harrison Bader,MIN
 2025-03-29, Matt Wallner, Carlos Correa, Byron Buxton, Trevor Larnach, Ty France, Mickey Gasper, Willi Castro, Jose Miranda, Christian Vazquez,MIN
 2025-03-30, Matt Wallner, Carlos Correa, Byron Buxton, Trevor Larnach, Ryan Jeffers, Ty France, Willi Castro, Jose Miranda, Harrison Bader,MIN
+2025-03-31, Byron Buxton, Carlos Correa, Ryan Jeffers, Ty France, Jose Miranda, Mickey Gasper, Willi Castro, Harrison Bader, Christian Vazquez,MIN
+2025-04-01, Matt Wallner, Carlos Correa, Byron Buxton, Trevor Larnach, Ryan Jeffers, Ty France, Willi Castro, Edouard Julien, Jose Miranda,MIN
+2025-04-02, Matt Wallner, Carlos Correa, Byron Buxton, Trevor Larnach, Ty France, Willi Castro, Edouard Julien, Harrison Bader, Christian Vazquez,MIN
+2025-04-03, Matt Wallner, Carlos Correa, Byron Buxton, Trevor Larnach, Ty France, Willi Castro, Edouard Julien, Ryan Jeffers, Harrison Bader,MIN
+2025-04-05, Matt Wallner, Carlos Correa, Byron Buxton, Trevor Larnach, Ty France, Willi Castro, Edouard Julien, Jose Miranda, Christian Vazquez,MIN
+2025-04-06, Matt Wallner, Carlos Correa, Byron Buxton, Trevor Larnach, Willi Castro, Ryan Jeffers, Edouard Julien, Mickey Gasper, Harrison Bader,MIN
+2025-04-07, Matt Wallner, Carlos Correa, Byron Buxton, Trevor Larnach, Ty France, Jose Miranda, Willi Castro, Harrison Bader, Christian Vazquez,MIN
+2025-04-08, Byron Buxton, Ryan Jeffers, Trevor Larnach, Carlos Correa, Jose Miranda, Ty France, Edouard Julien, Harrison Bader, Mickey Gasper,MIN
+2025-04-09, Matt Wallner, Willi Castro, Carlos Correa, Trevor Larnach, Ty France, Edouard Julien, Harrison Bader, DaShawn Keirsey Jr., Christian Vazquez,MIN
+2025-04-10, Matt Wallner, Willi Castro, Carlos Correa, Trevor Larnach, Ty France, Ryan Jeffers, Edouard Julien, Jose Miranda, Harrison Bader,MIN
+2025-04-11, Matt Wallner, Willi Castro, Carlos Correa, Trevor Larnach, Byron Buxton, Edouard Julien, Ty France, Mickey Gasper, Christian Vazquez,MIN
+2025-04-12, Matt Wallner, Willi Castro, Carlos Correa, Trevor Larnach, Byron Buxton, Ty France, Edouard Julien, Harrison Bader, Christian Vazquez,MIN
+2025-04-13, Edouard Julien, Byron Buxton, Willi Castro, Matt Wallner, Ty France, Ryan Jeffers, Trevor Larnach, Brooks Lee, Harrison Bader,MIN
+2025-04-14, Edouard Julien, Byron Buxton, Willi Castro, Matt Wallner, Carlos Correa, Trevor Larnach, Ty France, Brooks Lee, Christian Vazquez,MIN
+2025-04-15, Edouard Julien, Byron Buxton, Matt Wallner, Ty France, Carlos Correa, Trevor Larnach, Ryan Jeffers, Willi Castro, Harrison Bader,MIN
+2025-04-16, Edouard Julien, Byron Buxton, Ty France, Trevor Larnach, Ryan Jeffers, Brooks Lee, Willi Castro, DaShawn Keirsey Jr., Harrison Bader,MIN
+2025-04-18, Edouard Julien, Byron Buxton, Ty France, Trevor Larnach, Carlos Correa, Ryan Jeffers, Brooks Lee, Luke Keaschall, DaShawn Keirsey Jr.,MIN
+2025-04-19, Byron Buxton, Luke Keaschall, Ryan Jeffers, Ty France, Carlos Correa, Harrison Bader, Jonah Bride, Christian Vazquez, DaShawn Keirsey Jr.,MIN
 2025-03-27, Miguel Vargas, Luis Robert Jr., Andrew Benintendi, Andrew Vaughn, Austin Slater, Lenyn Sosa, Korey Lee, Jacob Amaya, Michael A. Taylor,CWS
 2025-03-29, Miguel Vargas, Luis Robert Jr., Andrew Benintendi, Andrew Vaughn, Nick Maton, Lenyn Sosa, Matt Thaiss, Jacob Amaya, Brooks Baldwin,CWS
 2025-03-30, Nick Maton, Luis Robert Jr., Andrew Benintendi, Andrew Vaughn, Matt Thaiss, Miguel Vargas, Brooks Baldwin, Jacob Amaya, Travis Jankowski,CWS
+2025-03-31, Miguel Vargas, Luis Robert Jr., Andrew Benintendi, Andrew Vaughn, Matt Thaiss, Lenyn Sosa, Travis Jankowski, Michael A. Taylor, Jacob Amaya,CWS
+2025-04-01, Nick Maton, Luis Robert Jr., Andrew Vaughn, Andrew Benintendi, Miguel Vargas, Lenyn Sosa, Brooks Baldwin, Austin Slater, Korey Lee,CWS
+2025-04-02, Nick Maton, Luis Robert Jr., Andrew Benintendi, Miguel Vargas, Matt Thaiss, Brooks Baldwin, Travis Jankowski, Michael A. Taylor, Jacob Amaya,CWS
+2025-04-04, Miguel Vargas, Luis Robert Jr., Andrew Benintendi, Andrew Vaughn, Nick Maton, Lenyn Sosa, Matt Thaiss, Brooks Baldwin, Travis Jankowski,CWS
+2025-04-05, Miguel Vargas, Luis Robert Jr., Andrew Benintendi, Andrew Vaughn, Nick Maton, Lenyn Sosa, Brooks Baldwin, Korey Lee, Jacob Amaya,CWS
+2025-04-06, Mike Tauchman, Luis Robert Jr., Andrew Benintendi, Andrew Vaughn, Matt Thaiss, Miguel Vargas, Brooks Baldwin, Jacob Amaya, Michael A. Taylor,CWS
+2025-04-08, Mike Tauchman, Luis Robert Jr., Nick Maton, Andrew Vaughn, Matt Thaiss, Lenyn Sosa, Miguel Vargas, Brooks Baldwin, Jacob Amaya,CWS
+2025-04-09, Luis Robert Jr., Andrew Vaughn, Austin Slater, Miguel Vargas, Lenyn Sosa, Korey Lee, Michael A. Taylor, Jacob Amaya, Mike Tauchman,CWS
+2025-04-10, Nick Maton, Andrew Vaughn, Miguel Vargas, Matt Thaiss, Austin Slater, Lenyn Sosa, Brooks Baldwin, Michael A. Taylor, Jacob Amaya,CWS
+2025-04-11, Miguel Vargas, Luis Robert Jr., Lenyn Sosa, Andrew Vaughn, Michael A. Taylor, Brooks Baldwin, Chase Meidroth, Omar Narvaez, Jacob Amaya,CWS
+2025-04-12, Miguel Vargas, Nick Maton, Luis Robert Jr., Andrew Vaughn, Joshua Palacios, Chase Meidroth, Lenyn Sosa, Omar Narvaez, Michael A. Taylor,CWS
+2025-04-13, Miguel Vargas, Luis Robert Jr., Lenyn Sosa, Andrew Vaughn, Michael A. Taylor, Chase Meidroth, Brooks Baldwin, Matt Thaiss, Jacob Amaya,CWS
+2025-04-15, Miguel Vargas, Luis Robert Jr., Lenyn Sosa, Andrew Vaughn, Chase Meidroth, Joshua Palacios, Michael A. Taylor, Jacob Amaya, Matt Thaiss,CWS
+2025-04-16, Miguel Vargas, Nick Maton, Luis Robert Jr., Andrew Vaughn, Joshua Palacios, Chase Meidroth, Brooks Baldwin, Lenyn Sosa, Omar Narvaez,CWS
+2025-04-17, Chase Meidroth, Luis Robert Jr., Andrew Vaughn, Miguel Vargas, Lenyn Sosa, Michael A. Taylor, Edgar Quero, Brooks Baldwin, Jacob Amaya,CWS
+2025-04-18, Chase Meidroth, Andrew Benintendi, Lenyn Sosa, Joshua Palacios, Andrew Vaughn, Nick Maton, Matt Thaiss, Brooks Baldwin, Michael A. Taylor,CWS
+2025-04-19, Chase Meidroth, Luis Robert Jr., Lenyn Sosa, Andrew Benintendi, Andrew Vaughn, Miguel Vargas, Edgar Quero, Michael A. Taylor, Jacob Amaya,CWS
 2025-03-27, Austin Wells, Aaron Judge, Cody Bellinger, Paul Goldschmidt, Jazz Chisholm Jr., Jasson Dominguez, Anthony Volpe, Ben Rice, Oswaldo Cabrera,NYY
 2025-03-29, Paul Goldschmidt, Cody Bellinger, Aaron Judge, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Pablo Reyes, Jasson Dominguez, Trent Grisham,NYY
 2025-03-30, Paul Goldschmidt, Cody Bellinger, Aaron Judge, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Jasson Dominguez, Ben Rice, Oswaldo Cabrera,NYY
+2025-04-01, Paul Goldschmidt, Cody Bellinger, Aaron Judge, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Jasson Dominguez, Ben Rice, Oswaldo Cabrera,NYY
+2025-04-02, Paul Goldschmidt, Cody Bellinger, Aaron Judge, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Jasson Dominguez, Ben Rice, Oswaldo Cabrera,NYY
+2025-04-03, Ben Rice, Cody Bellinger, Aaron Judge, Jazz Chisholm Jr., Jasson Dominguez, Anthony Volpe, Trent Grisham, J.C. Escarra, Oswaldo Cabrera,NYY
+2025-04-04, Ben Rice, Aaron Judge, Jazz Chisholm Jr., Paul Goldschmidt, Austin Wells, Anthony Volpe, Trent Grisham, Jasson Dominguez, Oswaldo Cabrera,NYY
+2025-04-05, Paul Goldschmidt, Ben Rice, Aaron Judge, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Jasson Dominguez, Oswald Peraza, Trent Grisham,NYY
+2025-04-06, Paul Goldschmidt, Cody Bellinger, Aaron Judge, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Jasson Dominguez, Oswald Peraza, Trent Grisham,NYY
+2025-04-07, Ben Rice, Aaron Judge, Cody Bellinger, Paul Goldschmidt, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Trent Grisham, Oswaldo Cabrera,NYY
+2025-04-08, Paul Goldschmidt, Ben Rice, Aaron Judge, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Jasson Dominguez, Trent Grisham, Oswald Peraza,NYY
+2025-04-09, Ben Rice, Aaron Judge, Cody Bellinger, Paul Goldschmidt, Jazz Chisholm Jr., Anthony Volpe, Jasson Dominguez, J.C. Escarra, Oswaldo Cabrera,NYY
+2025-04-11, Paul Goldschmidt, Ben Rice, Aaron Judge, Cody Bellinger, Anthony Volpe, Jazz Chisholm Jr., Austin Wells, Oswald Peraza, Trent Grisham,NYY
+2025-04-12, Ben Rice, Aaron Judge, Cody Bellinger, Paul Goldschmidt, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Jasson Dominguez, Oswaldo Cabrera,NYY
+2025-04-13, Ben Rice, Aaron Judge, Cody Bellinger, Paul Goldschmidt, Jazz Chisholm Jr., Anthony Volpe, Jasson Dominguez, J.C. Escarra, Oswaldo Cabrera,NYY
+2025-04-14, Ben Rice, Aaron Judge, Austin Wells, Paul Goldschmidt, Jazz Chisholm Jr., Anthony Volpe, Jasson Dominguez, Trent Grisham, Oswaldo Cabrera,NYY
+2025-04-15, Ben Rice, Aaron Judge, Cody Bellinger, Paul Goldschmidt, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Jasson Dominguez, Oswald Peraza,NYY
+2025-04-16, Paul Goldschmidt, Cody Bellinger, Aaron Judge, Jazz Chisholm Jr., Anthony Volpe, Austin Wells, Trent Grisham, Jasson Dominguez, Oswald Peraza,NYY
+2025-04-17, Paul Goldschmidt, Ben Rice, Aaron Judge, Cody Bellinger, Anthony Volpe, Jazz Chisholm Jr., J.C. Escarra, Jasson Dominguez, Oswaldo Cabrera,NYY
+2025-04-18, Ben Rice, Aaron Judge, Cody Bellinger, Paul Goldschmidt, Jazz Chisholm Jr., J.C. Escarra, Anthony Volpe, Trent Grisham, Oswaldo Cabrera,NYY
+2025-04-19, Ben Rice, Aaron Judge, Austin Wells, Paul Goldschmidt, Jazz Chisholm Jr., Anthony Volpe, Trent Grisham, Jasson Dominguez, Oswaldo Cabrera,NYY
