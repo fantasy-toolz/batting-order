@@ -10,4 +10,7 @@ raw.githubusercontent.com/
 src/__pycache__/
 
 # some stuff we aren't ready for
-analysis/bayesball.ipynb
+notebooks/bayesball.ipynb
+
+# some temporary data products
+data/Aggregate/Summaries/*limit*
