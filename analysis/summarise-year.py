@@ -28,7 +28,7 @@ outdir = ''
 start_date = '2025-01-01'
 end_date = '2025-12-31'
 
-timelimit=True
+timelimit=False
 
 if timelimit:
     timetag = '-limitedtime'

@@ -22,7 +22,17 @@ def get_team_game(year,date,team,mode='regularseason'):
     }
     r = requests.get(link, headers=header)
     csvStringIO = StringIO(r.text)
-    DF = pd.read_csv(csvStringIO, low_memory=False)
+
+    # add a debug option for if the csv reader fails.
+    # I don't understand why this happens, but it does, very rarely. Usually can be fixed simply by re-running, so we could also consider some check on DF before proceeding.
+    try:
+        DF = pd.read_csv(csvStringIO, low_memory=False)
+    except:
+        print('Error: no data for this game')
+        clean_url = link.replace("/csv?all=true", "?")
+        print(clean_url)
+        print('link: ',clean_url)
+        return None
     return DF
 
 
