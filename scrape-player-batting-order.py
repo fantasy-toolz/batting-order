@@ -67,6 +67,9 @@ teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF
 # for 2025, need to update to ATH instead of OAK
 teams = ['LAA', 'HOU', 'ATH', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
+# hack for the postseason - only teams that made it
+teams = ['TOR','LAD','MIL',  'SEA']
+
 # create a file that stamps the last time run
 f = open('data/{}{}/lasttouched.txt'.format(outdir,year),'w')
 print(pd.to_datetime("today"),file=f)
