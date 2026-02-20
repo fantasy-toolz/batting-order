@@ -37,14 +37,15 @@ yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for
 #todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
 alldates = yeardates#[0:todaynum]
 
-year = '2025'
+year = '2026'
+
+"""
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(85,365)]
 todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
 alldates = yeardates[0:todaynum]
 
 
 # if doing postseason, limit dates
-year = '2025'
 gamemode = 'postseason'
 if gamemode=='postseason':
     yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(270,320)]
@@ -52,23 +53,22 @@ if gamemode=='postseason':
     alldates = yeardates[0:todaynum]
     #alldates = yeardates
     outdir = 'Postseason/'
-
 """
+
 # if doing preseason, limit dates
-year = '2025'
 gamemode = 'preseason'
 if gamemode=='preseason':
-    yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(48,92)]
+    yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(49,92)]
     alldates = yeardates[0:np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]]
     outdir = 'Preseason/'
-"""
+
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
-# for 2025, need to update to ATH instead of OAK
+# for 2025+, need to update to ATH instead of OAK
 teams = ['LAA', 'HOU', 'ATH', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
 # hack for the postseason - only teams that made it
-teams = ['TOR','LAD','MIL',  'SEA']
+#teams = ['TOR','LAD','MIL',  'SEA']
 
 # create a file that stamps the last time run
 f = open('data/{}{}/lasttouched.txt'.format(outdir,year),'w')
