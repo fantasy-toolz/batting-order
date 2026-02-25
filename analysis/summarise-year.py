@@ -19,14 +19,14 @@ def rearrange_name(player_name):
 
 
 timetag = ''
-year = '2025'
-#outdir = 'Preseason/'
+year = '2026'
+outdir = 'Preseason/'
 #outdir = 'Postseason/'
-outdir = ''
+#outdir = ''
 
 # default
-start_date = '2025-01-01'
-end_date = '2025-12-31'
+start_date = '2026-01-01'
+end_date = '2026-12-31'
 
 timelimit=False
 
