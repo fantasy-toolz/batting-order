@@ -28,6 +28,8 @@ jobs:
               pip install numpy
               pip install html5lib
               python scrape-player-batting-order.py
+              python analysis/aggregate-data.py
+              python analysis/summarise-year.py
           - name: commit updates
             run: |
               git config user.name "github-actions[bot]"
