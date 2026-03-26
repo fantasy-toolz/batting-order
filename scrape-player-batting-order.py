@@ -32,12 +32,11 @@ yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for
 
 """
 # this is 2024 season specific
-year = '2024'
-yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(77,365)]
-#todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
-alldates = yeardates#[0:todaynum]
-
 year = '2026'
+yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(82,365)]
+todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
+alldates = yeardates[0:todaynum]
+
 
 """
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(85,365)]
@@ -56,7 +55,7 @@ if gamemode=='postseason':
 """
 
 # if doing preseason, limit dates
-gamemode = 'preseason'
+#gamemode = 'preseason'
 if gamemode=='preseason':
     yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(49,92)]
     alldates = yeardates[0:np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]]
