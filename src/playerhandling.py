@@ -1,7 +1,7 @@
 
 import unicodedata
 
-def strip_accents(text):
+def strip_accents(text: str) -> str:
     """
     https://stackoverflow.com/questions/517923/what-is-the-best-way-to-remove-accents-normalize-in-a-python-unicode-string
     Strip accents from input String.
@@ -22,6 +22,6 @@ def strip_accents(text):
     return str(text)
 
 
-def rearrange_player(plrstring):
+def rearrange_player(plrstring: str) -> str:
     splitup = plrstring.split(',')
     return(splitup[1]+' '+splitup[0])

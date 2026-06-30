@@ -3,21 +3,24 @@ scrape-player-batting-order
   a script to create a DataFrame with all the information we want for each team
 """
 
+from __future__ import annotations
+
 import numpy as np
 import pandas as pd
 from io import StringIO
 import requests
 import unicodedata
+from typing import TextIO
 
 from src import playerhandling
 from src import gamehandling
 
-gamemode = 'regularseason'
-outdir = ''
+gamemode: gamehandling.GameMode = 'regularseason'
+outdir: str = ''
 
-year = '2025'
-yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(77,300)]
-alldates = yeardates
+year: str = '2025'
+yeardates: list[str] = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(77,300)]
+alldates: list[str] = yeardates
 
 """
 year = '2022'
@@ -34,7 +37,7 @@ yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for
 # this is 2024 season specific
 year = '2026'
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(82,365)]
-todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
+todaynum: int = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
 alldates = yeardates[0:todaynum]
 
 
@@ -61,7 +64,7 @@ if gamemode=='preseason':
     alldates = yeardates[0:np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]]
     outdir = 'Preseason/'
 
-teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
+teams: list[str] = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
 # for 2025+, need to update to ATH instead of OAK
 teams = ['LAA', 'HOU', 'ATH', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
@@ -70,26 +73,26 @@ teams = ['LAA', 'HOU', 'ATH', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF
 #teams = ['TOR','LAD','MIL',  'SEA']
 
 # create a file that stamps the last time run
-f = open('data/{}{}/lasttouched.txt'.format(outdir,year),'w')
-print(pd.to_datetime("today"),file=f)
-f.close()
+last_touched_file: TextIO = open('data/{}{}/lasttouched.txt'.format(outdir,year),'w')
+print(pd.to_datetime("today"),file=last_touched_file)
+last_touched_file.close()
 
 
 # this could use a safe mode that doesn't overwrite anything
 
 #OrderDictList = dict()
 for team in teams:
-    newflag = 0
+    newflag: int = 0
     print(team)
     # check if the team has already been recorded
     try:
-        f = pd.read_csv('data/{}{}/{}.csv'.format(outdir,year,team),delimiter=',')
-        maxdate = f['date'].values[-1].strip('a').strip('b') # safe for doubleheaders
-        firstdate = np.where(maxdate==np.array(alldates))[0][0]
-        alldatesin = alldates[firstdate+1:]
+        existing_lineups: pd.DataFrame = pd.read_csv('data/{}{}/{}.csv'.format(outdir,year,team),delimiter=',')
+        maxdate: str = existing_lineups['date'].values[-1].strip('a').strip('b') # safe for doubleheaders
+        firstdate: int = np.where(maxdate==np.array(alldates))[0][0]
+        alldatesin: list[str] = alldates[firstdate+1:]
         newflag = 1
-        f = open('data/{}{}/{}.csv'.format(outdir,year,team),'a')
-    except:
+        f: TextIO = open('data/{}{}/{}.csv'.format(outdir,year,team),'a')
+    except (FileNotFoundError, pd.errors.EmptyDataError):
         alldatesin = alldates
         f = open('data/{}{}/{}.csv'.format(outdir,year,team),'w')
     if (newflag==0):
@@ -97,13 +100,15 @@ for team in teams:
     #OrderDictList[team] = dict()
     for date in alldatesin:
         print(date)
-        DF = gamehandling.get_team_game(year,date,team,mode=gamemode)
-        ngames = gamehandling.num_games(DF)
-        if ngames>1: # allow for doubleheaders
-            gamenums = np.unique(DF['game_pk'])
+        DF: pd.DataFrame | None = gamehandling.get_team_game(year,date,team,mode=gamemode)
+        if DF is None or DF.empty:
+            continue
+        ngames: int = gamehandling.num_games(DF)
+        if ngames > 1:
+            gamenums: np.ndarray = np.unique(DF['game_pk'])
             for igame,gamenum in enumerate(gamenums):
-                GDF = DF.loc[DF['game_pk']==gamenum]
-                gameorder = gamehandling.get_team_order(GDF)
+                GDF: pd.DataFrame = DF.loc[DF['game_pk']==gamenum]
+                gameorder: list[str] = gamehandling.get_team_order(GDF)
                 if igame==0:
                     #OrderDictList[team][date+'a'] = gameorder
                     gamehandling.record_game(date+'a',gameorder,f)
