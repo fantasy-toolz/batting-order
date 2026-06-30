@@ -92,7 +92,7 @@ for team in teams:
         alldatesin: list[str] = alldates[firstdate+1:]
         newflag = 1
         f: TextIO = open('data/{}{}/{}.csv'.format(outdir,year,team),'a')
-    except:
+    except (FileNotFoundError, pd.errors.EmptyDataError):
         alldatesin = alldates
         f = open('data/{}{}/{}.csv'.format(outdir,year,team),'w')
     if (newflag==0):
