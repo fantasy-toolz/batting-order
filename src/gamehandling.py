@@ -1,13 +1,15 @@
 
+from __future__ import annotations
+
 import numpy as np
 import pandas as pd
 from io import StringIO
 import requests
-from typing import Literal, TextIO, TypeAlias
+from typing import Literal, TextIO
 
 from . import playerhandling
 
-GameMode: TypeAlias = Literal["regularseason", "postseason", "preseason"]
+GameMode = Literal["regularseason", "postseason", "preseason"]
 
 
 def get_team_game(

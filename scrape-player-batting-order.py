@@ -3,6 +3,8 @@ scrape-player-batting-order
   a script to create a DataFrame with all the information we want for each team
 """
 
+from __future__ import annotations
+
 import numpy as np
 import pandas as pd
 from io import StringIO
