@@ -51,6 +51,9 @@ def get_team_order(DF: pd.DataFrame) -> list[str]:
     """
     for a DF that is a specific MLB game scraped from savant, loop through and get the batting order.
     """
+    # guard against empty DataFrame or all-NaN at_bat_number
+    if DF.empty or DF['at_bat_number'].isna().all():
+        return []
     # count total number of at bats
     totalabs = int(np.nanmax(DF['at_bat_number']))
     # report
