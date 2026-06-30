@@ -104,6 +104,7 @@ for team in teams:
         if DF is None or DF.empty:
             continue
         ngames: int = gamehandling.num_games(DF)
+        if ngames > 1:
             gamenums: np.ndarray = np.unique(DF['game_pk'])
             for igame,gamenum in enumerate(gamenums):
                 GDF: pd.DataFrame = DF.loc[DF['game_pk']==gamenum]
