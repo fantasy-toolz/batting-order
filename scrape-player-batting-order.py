@@ -101,8 +101,9 @@ for team in teams:
     for date in alldatesin:
         print(date)
         DF: pd.DataFrame | None = gamehandling.get_team_game(year,date,team,mode=gamemode)
+        if DF is None or DF.empty:
+            continue
         ngames: int = gamehandling.num_games(DF)
-        if ngames>1: # allow for doubleheaders
             gamenums: np.ndarray = np.unique(DF['game_pk'])
             for igame,gamenum in enumerate(gamenums):
                 GDF: pd.DataFrame = DF.loc[DF['game_pk']==gamenum]
