@@ -3,11 +3,19 @@ import numpy as np
 import pandas as pd
 from io import StringIO
 import requests
-import unicodedata
+from typing import Literal, TextIO, TypeAlias
 
 from . import playerhandling
 
-def get_team_game(year,date,team,mode='regularseason'):
+GameMode: TypeAlias = Literal["regularseason", "postseason", "preseason"]
+
+
+def get_team_game(
+    year: int | str,
+    date: str,
+    team: str,
+    mode: GameMode = "regularseason",
+) -> pd.DataFrame | None:
     if mode=='regularseason':
         modestring = 'R%7C'
     if mode=='postseason':
@@ -16,7 +24,7 @@ def get_team_game(year,date,team,mode='regularseason'):
         modestring = 'S%7C'
 
     link = 'https://baseballsavant.mlb.com/statcast_search/csv?all=true&hfPT=&hfAB=&hfGT='+modestring+'&hfPR=&hfZ=&stadium=&hfBBL=&hfNewZones=&hfPull=&hfC=&hfSea='+str(year)+'%7C&hfSit=&player_type=batter&hfOuts=&opponent=&pitcher_throws=&batter_stands=&hfSA=&game_date_gt='+date+'&game_date_lt='+date+'&hfInfield=&team='+team+'&position=&hfOutfield=&hfRO=&home_road=&hfFlag=&hfBBT=&metric_1=&hfInn=&min_pitches=0&min_results=0&group_by=name&sort_col=pitches&player_event_sort=api_p_release_speed&sort_order=desc&min_pas=0&type=details&'
-    header = {
+    header: dict[str, str] = {
       "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36",
       "X-Requested-With": "XMLHttpRequest"
     }
@@ -37,18 +45,18 @@ def get_team_game(year,date,team,mode='regularseason'):
 
 
 
-def get_team_order(DF):
+def get_team_order(DF: pd.DataFrame) -> list[str]:
     """
     for a DF that is a specific MLB game scraped from savant, loop through and get the batting order.
     """
     # count total number of at bats
-    totalabs = np.nanmax(DF['at_bat_number'])
+    totalabs = int(np.nanmax(DF['at_bat_number']))
     # report
     #if verbose>1: print('...game!')
     # start counter for roster order
     order = 0
     # initialise blank roster
-    gameorder = []
+    gameorder: list[str] = []
     # loop through at bats
     for num in range(0,totalabs):
         # what player is up to bat?
@@ -71,12 +79,12 @@ def get_team_order(DF):
             pass
     return gameorder
 
-def num_games(DF):
+def num_games(DF: pd.DataFrame) -> int:
     gamenums = np.unique(DF['game_pk'])
     return len(gamenums)
 
 
-def record_game(datestring,gameorder,f):
+def record_game(datestring: str, gameorder: list[str], f: TextIO) -> None:
     print(datestring,end=',',file=f)
     for plr in gameorder:
         print(playerhandling.rearrange_player(playerhandling.strip_accents(plr)),end=',',file=f)
