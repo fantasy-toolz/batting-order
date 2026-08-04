@@ -335,6 +335,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Corbin Carroll, Geraldo Perdomo, Gabriel Moreno, Ketel Marte, Max Kepler, Nolan Arenado, Adrian Del Castillo, Tim Tawa, Ryan Waldschmidt,AZ
 2026-08-01, Corbin Carroll, Geraldo Perdomo, Gabriel Moreno, Ketel Marte, Nolan Arenado, Tim Tawa, Ildemaro Vargas, James McCann, Ryan Waldschmidt,AZ
 2026-08-02, Corbin Carroll, Geraldo Perdomo, Gabriel Moreno, Ketel Marte, Max Kepler, Nolan Arenado, Tim Tawa, Ildemaro Vargas, Tyler Locklear,AZ
+2026-08-03, Corbin Carroll, Geraldo Perdomo, Max Kepler, Ketel Marte, Nolan Arenado, Adrian Del Castillo, Tim Tawa, James McCann, Ryan Waldschmidt,AZ
 2026-03-26, Taylor Ward, Gunnar Henderson, Pete Alonso, Adley Rutschman, Samuel Basallo, Tyler O'Neill, Colton Cowser, Coby Mayo, Blaze Alexander,BAL
 2026-03-28, Taylor Ward, Gunnar Henderson, Pete Alonso, Adley Rutschman, Samuel Basallo, Dylan Beavers, Coby Mayo, Colton Cowser, Jeremiah Jackson,BAL
 2026-03-29, Taylor Ward, Gunnar Henderson, Pete Alonso, Ryan Mountcastle, Samuel Basallo, Tyler O'Neill, Coby Mayo, Dylan Beavers, Jeremiah Jackson,BAL
@@ -670,6 +671,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Pete Crow-Armstrong, Pedro Ramirez, Michael Busch, Alex Bregman, Ian Happ, Nico Hoerner, Michael Conforto, Dansby Swanson, Miguel Amaya,CHC
 2026-08-01, Pete Crow-Armstrong, Seiya Suzuki, Alex Bregman, Carson Kelly, Michael Busch, Nico Hoerner, Ian Happ, Dansby Swanson, James Triantos,CHC
 2026-08-02, Pete Crow-Armstrong, Seiya Suzuki, Michael Busch, Alex Bregman, Ian Happ, Nico Hoerner, Pedro Ramirez, Dansby Swanson, Miguel Amaya,CHC
+2026-08-03, Pete Crow-Armstrong, Seiya Suzuki, Alex Bregman, Carson Kelly, Michael Busch, Nico Hoerner, Pedro Ramirez, Dansby Swanson, Kevin Alcantara,CHC
 2026-03-26, TJ Friedl, Matt McLain, Elly De La Cruz, Sal Stewart, Eugenio Suarez, Spencer Steer, Tyler Stephenson, Noelvi Marte, Ke'Bryan Hayes,CIN
 2026-03-28, TJ Friedl, Matt McLain, Elly De La Cruz, Sal Stewart, Eugenio Suarez, Spencer Steer, Will Benson, Jose Trevino, Ke'Bryan Hayes,CIN
 2026-03-29, TJ Friedl, Matt McLain, Elly De La Cruz, Sal Stewart, Eugenio Suarez, Spencer Steer, Dane Myers, Tyler Stephenson, Noelvi Marte,CIN
@@ -1006,6 +1008,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Jake McCarthy, Mickey Moniak, Hunter Goodman, TJ Rumfield, Kyle Karros, Tyler Freeman, Troy Johnston, Brenton Doyle, Ezequiel Tovar,COL
 2026-08-01, Jake McCarthy, Kyle Karros, TJ Rumfield, Hunter Goodman, Mickey Moniak, Cole Carrigg, Willi Castro, Tyler Freeman, Brenton Doyle,COL
 2026-08-02, Jake McCarthy, Mickey Moniak, Cole Carrigg, TJ Rumfield, Willi Castro, Troy Johnston, Edouard Julien, Brett Sullivan, Ezequiel Tovar,COL
+2026-08-03, Jake McCarthy, Kyle Karros, Cole Carrigg, Hunter Goodman, Mickey Moniak, Willi Castro, Tyler Freeman, Troy Johnston, Ezequiel Tovar,COL
 2026-03-26, Chase Meidroth, Colson Montgomery, Miguel Vargas, Andrew Benintendi, Austin Hays, Munetaka Murakami, Everson Pereira, Edgar Quero, Luisangel Acuna,CWS
 2026-03-28, Chase Meidroth, Colson Montgomery, Andrew Benintendi, Munetaka Murakami, Lenyn Sosa, Tristan Peters, Everson Pereira, Reese McGuire, Luisangel Acuna,CWS
 2026-03-29, Chase Meidroth, Munetaka Murakami, Miguel Vargas, Colson Montgomery, Austin Hays, Andrew Benintendi, Everson Pereira, Edgar Quero, Tristan Peters,CWS
@@ -1342,6 +1345,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Jeremy Pena, Yordan Alvarez, Isaac Paredes, Christian Walker, Jose Altuve, Taylor Trammell, Yainer Diaz, LaMonte Wade Jr., Cam Smith,HOU
 2026-08-01, Jeremy Pena, Yordan Alvarez, Isaac Paredes, Christian Walker, Yainer Diaz, Jose Altuve, Taylor Trammell, Cam Smith, LaMonte Wade Jr.,HOU
 2026-08-02, Jeremy Pena, Yordan Alvarez, Isaac Paredes, Christian Walker, Taylor Trammell, Jose Altuve, Cam Smith, Nick Allen, Christian Vazquez,HOU
+2026-08-03, Jeremy Pena, Yordan Alvarez, Isaac Paredes, Daulton Varsho, Christian Walker, Jose Altuve, Taylor Trammell, Yainer Diaz, Cam Smith,HOU
 2026-03-27, Maikel Garcia, Bobby Witt Jr., Lane Thomas, Salvador Perez, Vinnie Pasquantino, Starling Marte, Jonathan India, Isaac Collins, Carter Jensen,KC
 2026-03-28, Maikel Garcia, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Carter Jensen, Jonathan India, Jac Caglianone, Isaac Collins, Kyle Isbel,KC
 2026-03-29, Maikel Garcia, Bobby Witt Jr., Vinnie Pasquantino, Salvador Perez, Carter Jensen, Lane Thomas, Jac Caglianone, Nick Loftin, Kyle Isbel,KC
@@ -1679,6 +1683,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Shohei Ohtani, Andy Pages, Miguel Rojas, Freddie Freeman, Mookie Betts, Teoscar Hernandez, Kyle Tucker, Enrique Hernandez, Eliezer Alfonzo,LAD
 2026-08-01, Shohei Ohtani, Andy Pages, Tommy Edman, Freddie Freeman, Enrique Hernandez, Teoscar Hernandez, Max Muncy, Miguel Rojas, Dalton Rushing,LAD
 2026-08-02, Shohei Ohtani, Andy Pages, Tommy Edman, Freddie Freeman, Mookie Betts, Kyle Tucker, Teoscar Hernandez, Max Muncy, Eliezer Alfonzo,LAD
+2026-08-03, Shohei Ohtani, Andy Pages, Tommy Edman, Freddie Freeman, Mookie Betts, Kyle Tucker, Teoscar Hernandez, Enrique Hernandez, Eliezer Alfonzo,LAD
 2026-03-27, Austin Slater, Agustin Ramirez, Jakob Marsee, Otto Lopez, Connor Norby, Heriberto Hernandez, Xavier Edwards, Owen Caissie, Javier Sanoja,MIA
 2026-03-28, Jakob Marsee, Xavier Edwards, Agustin Ramirez, Liam Hicks, Otto Lopez, Owen Caissie, Griffin Conine, Connor Norby, Graham Pauley,MIA
 2026-03-29, Austin Slater, Agustin Ramirez, Jakob Marsee, Otto Lopez, Connor Norby, Heriberto Hernandez, Xavier Edwards, Deyvison De Los Santos, Javier Sanoja,MIA
@@ -1903,6 +1908,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Jake Bauers, Garrett Mitchell, Luis Lara, David Hamilton, Cooper Pratt,MIL
 2026-08-01, Jackson Chourio, Brice Turang, William Contreras, Christian Yelich, Andrew Vaughn, Jake Bauers, Garrett Mitchell, Cooper Pratt, Joey Ortiz,MIL
 2026-08-02, Brice Turang, Jackson Chourio, Garrett Mitchell, William Contreras, Jake Bauers, Andrew Vaughn, Luis Lara, Cooper Pratt, David Hamilton,MIL
+2026-08-03, Brice Turang, Jackson Chourio, Christian Yelich, William Contreras, Jake Bauers, Andrew Vaughn, Garrett Mitchell, David Hamilton, Joey Ortiz,MIL
 2026-03-26, Austin Martin, Byron Buxton, Luke Keaschall, Ryan Jeffers, Matt Wallner, Josh Bell, Victor Caratini, Royce Lewis, Brooks Lee,MIN
 2026-03-28, Kody Clemens, Byron Buxton, Luke Keaschall, Matt Wallner, Josh Bell, Ryan Jeffers, Trevor Larnach, Royce Lewis, Brooks Lee,MIN
 2026-03-29, Kody Clemens, Byron Buxton, Luke Keaschall, Matt Wallner, Josh Bell, Victor Caratini, Trevor Larnach, Royce Lewis, Tristan Gray,MIN
@@ -2241,6 +2247,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Paul Goldschmidt, Ben Rice, Amed Rosario, Jasson Dominguez, Trent Grisham, Anthony Volpe, Spencer Jones, Ali Sanchez, Jose Caballero,NYY
 2026-08-01, Max Schuemann, Paul Goldschmidt, Amed Rosario, Jasson Dominguez, Jazz Chisholm Jr., Anthony Volpe, Spencer Jones, Ali Sanchez, Jose Caballero,NYY
 2026-08-02, Trent Grisham, Ben Rice, Amed Rosario, Spencer Jones, Jasson Dominguez, Jazz Chisholm Jr., Ryan McMahon, Jose Caballero, Austin Wells,NYY
+2026-08-03, Trent Grisham, Ben Rice, Luis Garcia Jr., Spencer Jones, Jasson Dominguez, Jazz Chisholm Jr., Ryan McMahon, Jose Caballero, Austin Wells,NYY
 2026-03-26, Trea Turner, Kyle Schwarber, Bryce Harper, Alec Bohm, Bryson Stott, Adolis Garcia, Brandon Marsh, J.T. Realmuto, Justin Crawford,PHI
 2026-03-28, Trea Turner, Kyle Schwarber, Bryce Harper, Alec Bohm, Bryson Stott, Adolis Garcia, Brandon Marsh, J.T. Realmuto, Justin Crawford,PHI
 2026-03-29, Trea Turner, Kyle Schwarber, Bryce Harper, Alec Bohm, Adolis Garcia, Edmundo Sosa, J.T. Realmuto, Otto Kemp, Justin Crawford,PHI
@@ -2353,6 +2360,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Trea Turner, Kyle Schwarber, Bryce Harper, Alec Bohm, Brandon Marsh, J.T. Realmuto, Bryson Stott, Gabriel Rincones Jr., Justin Crawford,PHI
 2026-08-01, Trea Turner, Kyle Schwarber, Bryce Harper, Alec Bohm, Brandon Marsh, J.T. Realmuto, Bryson Stott, Justin Crawford, Bryan De La Cruz,PHI
 2026-08-02, Trea Turner, Kyle Schwarber, Bryce Harper, Alec Bohm, Brandon Marsh, J.T. Realmuto, Bryson Stott, Justin Crawford, Bryan De La Cruz,PHI
+2026-08-03, Trea Turner, Kyle Schwarber, Bryce Harper, Alec Bohm, Bryan De La Cruz, Bryson Stott, Edmundo Sosa, Derek Hill, Garrett Stubbs,PHI
 2026-03-26, Oneil Cruz, Brandon Lowe, Bryan Reynolds, Marcell Ozuna, Ryan O'Hearn, Jared Triolo, Spencer Horwitz, Nick Gonzales, Henry Davis,PIT
 2026-03-28, Jared Triolo, Ryan O'Hearn, Bryan Reynolds, Marcell Ozuna, Nick Gonzales, Brandon Lowe, Nick Yorke, Joey Bart, Jake Mangum,PIT
 2026-03-29, Oneil Cruz, Brandon Lowe, Bryan Reynolds, Ryan O'Hearn, Jared Triolo, Spencer Horwitz, Nick Gonzales, Henry Davis, Jake Mangum,PIT
@@ -2466,6 +2474,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Jake Mangum, Brandon Lowe, Bryan Reynolds, Esmerlyn Valdez, Ryan O'Hearn, Nick Gonzales, Endy Rodriguez, Jacob Gonzalez, Henry Davis,PIT
 2026-08-01, Jake Mangum, Brandon Lowe, Bryan Reynolds, Esmerlyn Valdez, Nick Gonzales, Marcell Ozuna, Jared Triolo, Rafael Flores Jr., Henry Davis,PIT
 2026-08-02, Jake Mangum, Brandon Lowe, Bryan Reynolds, Esmerlyn Valdez, Spencer Horwitz, Nick Gonzales, Endy Rodriguez, Jacob Gonzalez, Jhostynxon Garcia,PIT
+2026-08-03, Jake Mangum, Brandon Lowe, Bryan Reynolds, Esmerlyn Valdez, Spencer Horwitz, Nick Gonzales, Endy Rodriguez, Jacob Gonzalez, Henry Davis,PIT
 2026-03-26, Fernando Tatis Jr., Xander Bogaerts, Manny Machado, Jackson Merrill, Miguel Andujar, Gavin Sheets, Ramon Laureano, Freddy Fermin, Jake Cronenworth,SD
 2026-03-27, Fernando Tatis Jr., Xander Bogaerts, Manny Machado, Jackson Merrill, Miguel Andujar, Ramon Laureano, Ty France, Jake Cronenworth, Luis Campusano,SD
 2026-03-28, Jake Cronenworth, Fernando Tatis Jr., Manny Machado, Jackson Merrill, Xander Bogaerts, Gavin Sheets, Ramon Laureano, Nick Castellanos, Freddy Fermin,SD
@@ -2578,6 +2587,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Fernando Tatis Jr., Luis Rengifo, Manny Machado, Ty France, Jackson Merrill, Luis Campusano, Xander Bogaerts, Freddy Fermin, Jase Bowen,SD
 2026-08-01, Fernando Tatis Jr., Jake Cronenworth, Manny Machado, Ty France, Jackson Merrill, Luis Rengifo, Xander Bogaerts, Freddy Fermin, Jase Bowen,SD
 2026-08-02, Luis Rengifo, Jake Cronenworth, Manny Machado, Ty France, Ty France, Jackson Merrill, Luis Campusano, Gavin Sheets, Xander Bogaerts,SD
+2026-08-03, Fernando Tatis Jr., Jake Cronenworth, Manny Machado, Ty France, Jackson Merrill, Luis Rengifo, Luis Campusano, Xander Bogaerts, Sung-Mun Song,SD
 2026-03-26, Brendan Donovan, Cal Raleigh, Julio Rodriguez, Josh Naylor, Randy Arozarena, Luke Raley, Dominic Canzone, Cole Young, Leo Rivas,SEA
 2026-03-27, Brendan Donovan, Cal Raleigh, Julio Rodriguez, Josh Naylor, Randy Arozarena, Luke Raley, Dominic Canzone, Cole Young, Leo Rivas,SEA
 2026-03-28, Rob Refsnyder, Cal Raleigh, Julio Rodriguez, Josh Naylor, Randy Arozarena, Brendan Donovan, Victor Robles, Leo Rivas, Cole Young,SEA
@@ -2803,6 +2813,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Luis Arraez, Heliot Ramos, Bryce Eldridge, Rafael Devers, Jung Hoo Lee, Willy Adames, Grant McCray, Drew Cavanaugh, Christian Koss,SF
 2026-08-01, Bryce Eldridge, Jung Hoo Lee, Heliot Ramos, Rafael Devers, Willy Adames, Daniel Susac, Drew Gilbert, Christian Koss, Osleivis Basabe,SF
 2026-08-02, Luis Arraez, Bryce Eldridge, Heliot Ramos, Rafael Devers, Jung Hoo Lee, Willy Adames, Drew Cavanaugh, Drew Gilbert, Osleivis Basabe,SF
+2026-08-03, Nate Furman, Jung Hoo Lee, Willy Adames, Rafael Devers, Daniel Susac, Drew Gilbert, Osleivis Basabe, Grant McCray, Christian Koss,SF
 2026-03-26, JJ Wetherholt, Ivan Herrera, Alec Burleson, Masyn Winn, Nolan Gorman, Jordan Walker, Nathan Church, Pedro Pages, Victor Scott II,STL
 2026-03-28, JJ Wetherholt, Ivan Herrera, Alec Burleson, Masyn Winn, Nolan Gorman, Ramon Urias, Nathan Church, Jordan Walker, Victor Scott II,STL
 2026-03-29, JJ Wetherholt, Ivan Herrera, Alec Burleson, Masyn Winn, Thomas Saggese, Ramon Urias, Jordan Walker, Pedro Pages, Victor Scott II,STL
@@ -2915,6 +2926,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, JJ Wetherholt, Jordan Walker, Alec Burleson, Ivan Herrera, Lars Nootbaar, Masyn Winn, Nathan Church, Jose Fermin, Jimmy Crooks,STL
 2026-08-01, JJ Wetherholt, Jordan Walker, Alec Burleson, Ivan Herrera, Lars Nootbaar, Masyn Winn, Nathan Church, Blaze Jordan, Jimmy Crooks,STL
 2026-08-02, Lars Nootbaar, Jordan Walker, Alec Burleson, Ivan Herrera, Masyn Winn, Bryan Torres, Jose Fermin, Nathan Church, Blaze Jordan,STL
+2026-08-03, JJ Wetherholt, Jordan Walker, Alec Burleson, Ivan Herrera, Bryan Torres, Masyn Winn, Nathan Church, Jose Fermin, Jimmy Crooks,STL
 2026-03-26, Yandy Diaz, Ryan Vilade, Jonathan Aranda, Junior Caminero, Ben Williamson, Jonny DeLuca, Nick Fortes, Cedric Mullins, Carson Williams,TB
 2026-03-28, Yandy Diaz, Jonathan Aranda, Jake Fraley, Junior Caminero, Cedric Mullins, Chandler Simpson, Carson Williams, Richie Palacios, Hunter Feduccia,TB
 2026-03-29, Yandy Diaz, Jonathan Aranda, Cedric Mullins, Junior Caminero, Chandler Simpson, Jonny DeLuca, Richie Palacios, Carson Williams, Hunter Feduccia,TB
@@ -3026,6 +3038,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Yandy Diaz, Jonathan Aranda, Junior Caminero, Cedric Mullins, Chandler Simpson, Victor Mesa Jr., Richie Palacios, Taylor Walls, Hunter Feduccia,TB
 2026-08-01, Yandy Diaz, Chandler Simpson, Junior Caminero, Victor Mesa Jr., Jonny DeLuca, Ryan Vilade, Ben Williamson, Nick Fortes, Taylor Walls,TB
 2026-08-02, Yandy Diaz, Jonathan Aranda, Junior Caminero, Ryan Vilade, Chandler Simpson, Jonny DeLuca, Ben Williamson, Cedric Mullins, Nick Fortes,TB
+2026-08-03, Yandy Diaz, Jonathan Aranda, Junior Caminero, Cedric Mullins, Victor Mesa Jr., Chandler Simpson, Richie Palacios, Kenny Piper, Taylor Walls,TB
 2026-03-26, Brandon Nimmo, Wyatt Langford, Corey Seager, Jake Burger, Andrew McCutchen, Josh Jung, Josh Smith, Danny Jansen, Sam Haggerty,TEX
 2026-03-28, Brandon Nimmo, Wyatt Langford, Corey Seager, Jake Burger, Joc Pederson, Josh Smith, Josh Jung, Evan Carter, Danny Jansen,TEX
 2026-03-29, Brandon Nimmo, Wyatt Langford, Corey Seager, Jake Burger, Andrew McCutchen, Kyle Higashioka, Josh Jung, Sam Haggerty, Ezequiel Duran,TEX
@@ -3138,6 +3151,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Joc Pederson, Wyatt Langford, Corey Seager, Brandon Nimmo, Ezequiel Duran, Evan Carter, Jake Burger, Nicky Lopez, Austin Wynns,TEX
 2026-08-01, Joc Pederson, Wyatt Langford, Corey Seager, Brandon Nimmo, Evan Carter, Ezequiel Duran, Alejandro Osuna, Elias Diaz, Nicky Lopez,TEX
 2026-08-02, Joc Pederson, Wyatt Langford, Corey Seager, Brandon Nimmo, Jake Burger, Evan Carter, Ezequiel Duran, Elias Diaz, Cam Cauley,TEX
+2026-08-03, Joc Pederson, Wyatt Langford, Corey Seager, Brandon Nimmo, Evan Carter, Jake Burger, Ezequiel Duran, Austin Wynns, Nicky Lopez,TEX
 2026-03-27, George Springer, Nathan Lukes, Vladimir Guerrero Jr., Addison Barger, Alejandro Kirk, Daulton Varsho, Kazuma Okamoto, Ernie Clement, Andres Gimenez,TOR
 2026-03-28, George Springer, Davis Schneider, Vladimir Guerrero Jr., Kazuma Okamoto, Alejandro Kirk, Daulton Varsho, Ernie Clement, Myles Straw, Andres Gimenez,TOR
 2026-03-29, George Springer, Jesus Sanchez, Vladimir Guerrero Jr., Addison Barger, Kazuma Okamoto, Daulton Varsho, Ernie Clement, Andres Gimenez, Tyler Heineman,TOR
@@ -3250,6 +3264,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, Nathan Lukes, Vladimir Guerrero Jr., Kazuma Okamoto, George Springer, Daulton Varsho, Ernie Clement, Jesus Sanchez, Brandon Valenzuela, Andres Gimenez,TOR
 2026-08-01, Luis Urias, Vladimir Guerrero Jr., Kazuma Okamoto, George Springer, Alejandro Kirk, Daulton Varsho, Ernie Clement, Myles Straw, Davis Schneider,TOR
 2026-08-02, Luis Urias, Vladimir Guerrero Jr., Kazuma Okamoto, George Springer, Alejandro Kirk, Ernie Clement, Myles Straw, Daulton Varsho, Andres Gimenez,TOR
+2026-08-03, Nathan Lukes, Vladimir Guerrero Jr., Kazuma Okamoto, George Springer, Alejandro Kirk, Jesus Sanchez, Ernie Clement, Andres Gimenez, Myles Straw,TOR
 2026-03-26, James Wood, Andres Chaparro, Brady House, Daylen Lile, Joey Wiemer, CJ Abrams, Nasim Nunez, Keibert Ruiz, Jacob Young,WSH
 2026-03-28, James Wood, Drew Millas, Luis Garcia Jr., Daylen Lile, Brady House, Jorbit Vivas, Nasim Nunez, Jose Tena, Jacob Young,WSH
 2026-03-29, James Wood, Andres Chaparro, Brady House, Daylen Lile, Joey Wiemer, CJ Abrams, Nasim Nunez, Keibert Ruiz, Jacob Young,WSH
@@ -3363,3 +3378,4 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-07-31, James Wood, Luis Garcia Jr., Dylan Crews, CJ Abrams, Brady House, Daylen Lile, Harry Ford, Jose Tena, Jacob Young,WSH
 2026-08-01, James Wood, Andres Chaparro, Dylan Crews, CJ Abrams, Brady House, Jacob Young, Nasim Nunez, Luis Garcia Jr., Keibert Ruiz,WSH
 2026-08-02, James Wood, Daylen Lile, Dylan Crews, CJ Abrams, Keibert Ruiz, Jose Tena, Nasim Nunez, Jorbit Vivas, Andres Chaparro,WSH
+2026-08-03, James Wood, Abimelec Ortiz, Jose Tena, CJ Abrams, Keibert Ruiz, Daylen Lile, Nasim Nunez, Jorbit Vivas, Jacob Young,WSH

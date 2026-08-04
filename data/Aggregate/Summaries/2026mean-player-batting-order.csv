@@ -24,31 +24,32 @@ Trey Mancini,6.33,  3,112,LAA
 Logan Porter,8.50,  2,112,LAA
 Christian Moore,5.80,  5,112,LAA
 Tyler Heineman,8.87, 38,112,LAA
-Jose Altuve,3.10, 87,113,HOU
-Yordan Alvarez,2.10,111,113,HOU
-Isaac Paredes,3.27,104,113,HOU
-Carlos Correa,2.78, 32,113,HOU
-Joey Loperfido,6.37, 27,113,HOU
-Cam Smith,6.33, 99,113,HOU
-Christian Walker,4.11,107,113,HOU
-Yainer Diaz,6.73, 51,113,HOU
-Jake Meyers,7.17, 35,113,HOU
-Jeremy Pena,1.05, 62,113,HOU
-Brice Matthews,7.24, 55,113,HOU
-Christian Vazquez,8.77, 57,113,HOU
-Nick Allen,8.48, 27,113,HOU
-Taylor Trammell,6.49, 41,113,HOU
-Shay Whitcomb,8.00,  3,113,HOU
-Dustin Harris,7.38, 13,113,HOU
-Daniel Johnson,7.67,  3,113,HOU
-Braden Shewmake,7.04, 25,113,HOU
-Zach Cole,6.14, 14,113,HOU
-Zach Dezenzo,6.75, 20,113,HOU
-Cesar Salazar,8.86,  7,113,HOU
-LaMonte Wade Jr.,5.55, 20,113,HOU
-Collin Price,8.67,  3,113,HOU
-Raynel Delgado,8.70, 10,113,HOU
-Lucas Spence,7.90, 10,113,HOU
+Jose Altuve,3.14, 88,114,HOU
+Yordan Alvarez,2.10,112,114,HOU
+Isaac Paredes,3.27,105,114,HOU
+Carlos Correa,2.78, 32,114,HOU
+Joey Loperfido,6.37, 27,114,HOU
+Cam Smith,6.36,100,114,HOU
+Christian Walker,4.12,108,114,HOU
+Yainer Diaz,6.75, 52,114,HOU
+Jake Meyers,7.17, 35,114,HOU
+Jeremy Pena,1.05, 63,114,HOU
+Brice Matthews,7.24, 55,114,HOU
+Christian Vazquez,8.77, 57,114,HOU
+Nick Allen,8.48, 27,114,HOU
+Taylor Trammell,6.50, 42,114,HOU
+Shay Whitcomb,8.00,  3,114,HOU
+Dustin Harris,7.38, 13,114,HOU
+Daniel Johnson,7.67,  3,114,HOU
+Braden Shewmake,7.04, 25,114,HOU
+Zach Cole,6.14, 14,114,HOU
+Zach Dezenzo,6.75, 20,114,HOU
+Cesar Salazar,8.86,  7,114,HOU
+LaMonte Wade Jr.,5.55, 20,114,HOU
+Collin Price,8.67,  3,114,HOU
+Raynel Delgado,8.70, 10,114,HOU
+Lucas Spence,7.90, 10,114,HOU
+Daulton Varsho,4.78, 91,114,HOU
 Nick Kurtz,1.81, 97,112,ATH
 Shea Langeliers,2.35, 93,112,ATH
 Tyler Soderstrom,3.80, 97,112,ATH
@@ -60,7 +61,7 @@ Jeff McNeil,7.45, 82,112,ATH
 Denzel Clarke,8.94, 17,112,ATH
 Carlos Cortes,4.33, 60,112,ATH
 Darell Hernaiz,8.28, 36,112,ATH
-Austin Wynns,8.00, 18,112,ATH
+Austin Wynns,8.00, 19,112,ATH
 Andy Ibanez,5.00,  7,112,ATH
 Zack Gelof,6.28, 60,112,ATH
 Colby Thomas,4.41, 32,112,ATH
@@ -74,26 +75,25 @@ Joshua Kuroda-Grauer,5.56, 16,112,ATH
 Brian Serven,8.67,  3,112,ATH
 Tommy White,5.40, 15,112,ATH
 Jonathan Ornelas,9.00,  1,112,ATH
-George Springer,1.68, 79,112,TOR
-Nathan Lukes,2.61, 62,112,TOR
-Vladimir Guerrero Jr.,2.71,105,112,TOR
-Addison Barger,3.67,  6,112,TOR
-Alejandro Kirk,5.06, 34,112,TOR
-Daulton Varsho,4.79, 90,112,TOR
-Kazuma Okamoto,4.63,106,112,TOR
-Ernie Clement,4.63,105,112,TOR
-Andres Gimenez,8.18, 92,112,TOR
-Davis Schneider,6.29, 34,112,TOR
-Myles Straw,7.17, 42,112,TOR
-Jesus Sanchez,4.51, 59,112,TOR
-Brandon Valenzuela,7.94, 52,112,TOR
-Eloy Jimenez,5.33,  9,112,TOR
-Lenyn Sosa,5.43, 30,112,TOR
-Yohendrick Pinango,4.87, 46,112,TOR
-Charles McAdoo,7.29,  7,112,TOR
-Luis Urias,6.93, 14,112,TOR
-Sean Keys,6.64, 11,112,TOR
-Jonatan Clase,8.57,  7,112,TOR
+George Springer,1.71, 80,113,TOR
+Nathan Lukes,2.59, 63,113,TOR
+Vladimir Guerrero Jr.,2.71,106,113,TOR
+Addison Barger,3.67,  6,113,TOR
+Alejandro Kirk,5.06, 35,113,TOR
+Kazuma Okamoto,4.62,107,113,TOR
+Ernie Clement,4.65,106,113,TOR
+Andres Gimenez,8.18, 93,113,TOR
+Davis Schneider,6.29, 34,113,TOR
+Myles Straw,7.21, 43,113,TOR
+Jesus Sanchez,4.53, 60,113,TOR
+Brandon Valenzuela,7.94, 52,113,TOR
+Eloy Jimenez,5.33,  9,113,TOR
+Lenyn Sosa,5.43, 30,113,TOR
+Yohendrick Pinango,4.87, 46,113,TOR
+Charles McAdoo,7.29,  7,113,TOR
+Luis Urias,6.93, 14,113,TOR
+Sean Keys,6.64, 11,113,TOR
+Jonatan Clase,8.57,  7,113,TOR
 Ronald Acuna Jr.,1.07, 60,112,ATL
 Drake Baldwin,1.92, 88,112,ATL
 Ozzie Albies,3.48,112,112,ATL
@@ -115,126 +115,127 @@ Chadwick Tromp,9.00, 13,112,ATL
 Joey Bart,8.06, 31,112,ATL
 Rowdy Tellez,8.00,  1,112,ATL
 Brewer Hicklen,8.80,  5,112,ATL
-Brice Turang,2.23,105,111,MIL
-William Contreras,3.24, 97,111,MIL
-Christian Yelich,1.96, 70,111,MIL
-Andrew Vaughn,4.85, 47,111,MIL
-Jake Bauers,4.78, 92,111,MIL
-Sal Frelick,6.52, 75,111,MIL
-David Hamilton,8.63, 71,111,MIL
-Garrett Mitchell,5.37, 87,111,MIL
-Joey Ortiz,8.66, 71,111,MIL
-Brandon Lockridge,6.13, 23,111,MIL
-Luis Rengifo,5.63, 59,111,MIL
-Gary Sanchez,4.86, 44,111,MIL
-Jeferson Quero,7.00,  1,111,MIL
-Blake Perkins,7.54, 24,111,MIL
-Luis Matos,6.17,  6,111,MIL
-Greg Jones,7.57,  7,111,MIL
-Tyler Black,5.00,  7,111,MIL
-Jackson Chourio,1.66, 73,111,MIL
-Cooper Pratt,7.94, 36,111,MIL
-Luis Lara,6.23, 13,111,MIL
-JJ Wetherholt,1.00,104,112,STL
-Ivan Herrera,2.15,111,112,STL
-Alec Burleson,3.34,106,112,STL
-Masyn Winn,5.48,102,112,STL
-Nolan Gorman,5.24, 54,112,STL
-Jordan Walker,3.72,109,112,STL
-Nathan Church,7.61, 79,112,STL
-Pedro Pages,8.31, 49,112,STL
-Victor Scott II,9.00, 54,112,STL
-Ramon Urias,6.41, 17,112,STL
-Thomas Saggese,7.36, 22,112,STL
-Yohel Pozo,7.57,  7,112,STL
-Jose Fermin,6.89, 47,112,STL
-Cesar Prieto,7.50,  4,112,STL
-Bryan Torres,6.77, 22,112,STL
-Nelson Velazquez,4.53, 19,112,STL
-Jimmy Crooks,8.08, 26,112,STL
-Lars Nootbaar,5.10, 42,112,STL
-Blaze Jordan,7.86, 36,112,STL
-Michael Busch,3.62,110,112,CHC
-Alex Bregman,2.92,108,112,CHC
-Ian Happ,4.50,107,112,CHC
-Pete Crow-Armstrong,3.90,111,112,CHC
-Nico Hoerner,3.45,108,112,CHC
-Carson Kelly,6.50, 68,112,CHC
-Moises Ballesteros,5.23, 47,112,CHC
-Dansby Swanson,8.22,106,112,CHC
-Matt Shaw,7.34, 32,112,CHC
-Miguel Amaya,8.33, 49,112,CHC
-Michael Conforto,5.95, 42,112,CHC
-Dylan Carlson,9.00,  1,112,CHC
-Seiya Suzuki,4.03, 91,112,CHC
-Pedro Ramirez,7.14, 21,112,CHC
-Kevin Alcantara,8.67,  6,112,CHC
-James Triantos,9.00,  1,112,CHC
-Ketel Marte,1.31,105,112,AZ
-Corbin Carroll,2.32,108,112,AZ
-Geraldo Perdomo,2.73,107,112,AZ
-Gabriel Moreno,4.46, 80,112,AZ
-Nolan Arenado,5.52,102,112,AZ
-Carlos Santana,6.88,  8,112,AZ
-Jordan Lawlar,7.83, 12,112,AZ
-Alek Thomas,7.82, 28,112,AZ
-Tim Tawa,7.70, 37,112,AZ
-Pavin Smith,6.00, 22,112,AZ
-James McCann,7.78, 23,112,AZ
-Jorge Barrosa,8.66, 32,112,AZ
-Ildemaro Vargas,5.47, 78,112,AZ
-Jose Fernandez,6.44, 43,112,AZ
-Adrian Del Castillo,5.35, 48,112,AZ
-Luken Baker,7.00,  1,112,AZ
-Lourdes Gurriel Jr.,5.47, 45,112,AZ
-Aramis Garcia,8.17,  6,112,AZ
-Ryan Waldschmidt,7.77, 43,112,AZ
-Tommy Troy,8.70, 37,112,AZ
-LuJames Groover,7.86, 14,112,AZ
-Max Kepler,5.36, 22,112,AZ
-Tyler Locklear,7.29,  7,112,AZ
-Shohei Ohtani,1.00,101,112,LAD
-Kyle Tucker,4.51,103,112,LAD
-Mookie Betts,3.68, 74,112,LAD
-Freddie Freeman,3.06,109,112,LAD
-Will Smith,4.20, 46,112,LAD
-Teoscar Hernandez,5.96, 76,112,LAD
-Andy Pages,3.92,109,112,LAD
-Miguel Rojas,7.42, 38,112,LAD
-Alex Freeland,8.68, 59,112,LAD
-Santiago Espinal,8.33, 12,112,LAD
-Dalton Rushing,7.66, 59,112,LAD
-Alex Call,6.96, 27,112,LAD
-Hyeseong Kim,8.31, 35,112,LAD
-Ryan Ward,7.06, 17,112,LAD
-Enrique Hernandez,8.00,  5,112,LAD
-Chuckie Robinson,9.00,  6,112,LAD
-Tommy Edman,5.40, 30,112,LAD
-Eliezer Alfonzo,9.00,  8,112,LAD
-Luis Arraez,2.00,104,112,SF
-Matt Chapman,4.43, 83,112,SF
-Rafael Devers,3.71,112,112,SF
-Willy Adames,4.26,107,112,SF
-Jung Hoo Lee,4.74, 97,112,SF
-Heliot Ramos,3.96, 72,112,SF
-Casey Schmitt,3.73, 96,112,SF
-Patrick Bailey,8.26, 66,112,SF
-Harrison Bader,7.33, 27,112,SF
-Daniel Susac,7.74, 35,112,SF
-Jerar Encarnacion,7.70, 10,112,SF
-Jared Oliva,9.00,  2,112,SF
-Christian Koss,8.80, 10,112,SF
-Will Brennan,6.67,  6,112,SF
-Drew Gilbert,8.12, 64,112,SF
-Eric Haase,8.58, 24,112,SF
-Bryce Eldridge,4.60, 68,112,SF
-Jesus Rodriguez,8.14, 14,112,SF
-Victor Bericoto,7.81, 16,112,SF
-Jonah Cox,9.00,  7,112,SF
-Buddy Kennedy,8.00,  4,112,SF
-Drew Cavanaugh,8.59, 17,112,SF
-Grant McCray,7.86,  7,112,SF
-Osleivis Basabe,9.00,  2,112,SF
+Brice Turang,2.22,106,112,MIL
+William Contreras,3.24, 98,112,MIL
+Christian Yelich,1.97, 71,112,MIL
+Andrew Vaughn,4.88, 48,112,MIL
+Jake Bauers,4.78, 93,112,MIL
+Sal Frelick,6.52, 75,112,MIL
+David Hamilton,8.62, 72,112,MIL
+Garrett Mitchell,5.39, 88,112,MIL
+Joey Ortiz,8.67, 72,112,MIL
+Brandon Lockridge,6.13, 23,112,MIL
+Luis Rengifo,5.63, 60,112,MIL
+Gary Sanchez,4.86, 44,112,MIL
+Jeferson Quero,7.00,  1,112,MIL
+Blake Perkins,7.54, 24,112,MIL
+Luis Matos,6.17,  6,112,MIL
+Greg Jones,7.57,  7,112,MIL
+Tyler Black,5.00,  7,112,MIL
+Jackson Chourio,1.66, 74,112,MIL
+Cooper Pratt,7.94, 36,112,MIL
+Luis Lara,6.23, 13,112,MIL
+JJ Wetherholt,1.00,105,113,STL
+Ivan Herrera,2.17,112,113,STL
+Alec Burleson,3.34,107,113,STL
+Masyn Winn,5.49,103,113,STL
+Nolan Gorman,5.24, 54,113,STL
+Jordan Walker,3.70,110,113,STL
+Nathan Church,7.60, 80,113,STL
+Pedro Pages,8.31, 49,113,STL
+Victor Scott II,9.00, 54,113,STL
+Ramon Urias,6.41, 17,113,STL
+Thomas Saggese,7.36, 22,113,STL
+Yohel Pozo,7.57,  7,113,STL
+Jose Fermin,6.92, 48,113,STL
+Cesar Prieto,7.50,  4,113,STL
+Bryan Torres,6.70, 23,113,STL
+Nelson Velazquez,4.53, 19,113,STL
+Jimmy Crooks,8.11, 27,113,STL
+Lars Nootbaar,5.10, 42,113,STL
+Blaze Jordan,7.86, 36,113,STL
+Michael Busch,3.63,111,113,CHC
+Alex Bregman,2.92,109,113,CHC
+Ian Happ,4.50,107,113,CHC
+Pete Crow-Armstrong,3.88,112,113,CHC
+Nico Hoerner,3.48,109,113,CHC
+Carson Kelly,6.46, 69,113,CHC
+Moises Ballesteros,5.23, 47,113,CHC
+Dansby Swanson,8.21,107,113,CHC
+Matt Shaw,7.34, 32,113,CHC
+Miguel Amaya,8.33, 49,113,CHC
+Michael Conforto,5.95, 42,113,CHC
+Dylan Carlson,9.00,  1,113,CHC
+Seiya Suzuki,4.01, 92,113,CHC
+Pedro Ramirez,7.14, 22,113,CHC
+Kevin Alcantara,8.71,  7,113,CHC
+James Triantos,9.00,  1,113,CHC
+Ketel Marte,1.34,106,113,AZ
+Corbin Carroll,2.31,109,113,AZ
+Geraldo Perdomo,2.72,108,113,AZ
+Gabriel Moreno,4.46, 80,113,AZ
+Nolan Arenado,5.51,103,113,AZ
+Carlos Santana,6.88,  8,113,AZ
+Jordan Lawlar,7.83, 12,113,AZ
+Alek Thomas,7.82, 28,113,AZ
+Tim Tawa,7.68, 38,113,AZ
+Pavin Smith,6.00, 22,113,AZ
+James McCann,7.79, 24,113,AZ
+Jorge Barrosa,8.66, 32,113,AZ
+Ildemaro Vargas,5.47, 78,113,AZ
+Jose Fernandez,6.44, 43,113,AZ
+Adrian Del Castillo,5.37, 49,113,AZ
+Luken Baker,7.00,  1,113,AZ
+Lourdes Gurriel Jr.,5.47, 45,113,AZ
+Aramis Garcia,8.17,  6,113,AZ
+Ryan Waldschmidt,7.80, 44,113,AZ
+Tommy Troy,8.70, 37,113,AZ
+LuJames Groover,7.86, 14,113,AZ
+Max Kepler,5.26, 23,113,AZ
+Tyler Locklear,7.29,  7,113,AZ
+Shohei Ohtani,1.00,102,113,LAD
+Kyle Tucker,4.53,104,113,LAD
+Mookie Betts,3.69, 75,113,LAD
+Freddie Freeman,3.07,110,113,LAD
+Will Smith,4.20, 46,113,LAD
+Teoscar Hernandez,5.97, 77,113,LAD
+Andy Pages,3.90,110,113,LAD
+Miguel Rojas,7.42, 38,113,LAD
+Alex Freeland,8.68, 59,113,LAD
+Santiago Espinal,8.33, 12,113,LAD
+Dalton Rushing,7.66, 59,113,LAD
+Alex Call,6.96, 27,113,LAD
+Hyeseong Kim,8.31, 35,113,LAD
+Ryan Ward,7.06, 17,113,LAD
+Enrique Hernandez,8.00,  6,113,LAD
+Chuckie Robinson,9.00,  6,113,LAD
+Tommy Edman,5.32, 31,113,LAD
+Eliezer Alfonzo,9.00,  9,113,LAD
+Luis Arraez,2.00,104,113,SF
+Matt Chapman,4.43, 83,113,SF
+Rafael Devers,3.72,113,113,SF
+Willy Adames,4.25,108,113,SF
+Jung Hoo Lee,4.71, 98,113,SF
+Heliot Ramos,3.96, 72,113,SF
+Casey Schmitt,3.73, 96,113,SF
+Patrick Bailey,8.26, 66,113,SF
+Harrison Bader,7.33, 27,113,SF
+Daniel Susac,7.67, 36,113,SF
+Jerar Encarnacion,7.70, 10,113,SF
+Jared Oliva,9.00,  2,113,SF
+Christian Koss,8.82, 11,113,SF
+Will Brennan,6.67,  6,113,SF
+Drew Gilbert,8.09, 65,113,SF
+Eric Haase,8.58, 24,113,SF
+Bryce Eldridge,4.60, 68,113,SF
+Jesus Rodriguez,8.14, 14,113,SF
+Victor Bericoto,7.81, 16,113,SF
+Jonah Cox,9.00,  7,113,SF
+Buddy Kennedy,8.00,  4,113,SF
+Drew Cavanaugh,8.59, 17,113,SF
+Grant McCray,7.88,  8,113,SF
+Osleivis Basabe,8.33,  3,113,SF
+Nate Furman,1.00,  1,113,SF
 Steven Kwan,3.88, 97,113,CLE
 Chase DeLauter,2.69, 91,113,CLE
 Jose Ramirez,2.54, 82,113,CLE
@@ -318,23 +319,23 @@ Hayden Senger,9.00,  6,113,NYM
 Nick Morabito,7.67,  3,113,NYM
 Eric Wagaman,6.20, 10,113,NYM
 Zack Short,9.00, 19,113,NYM
-James Wood,1.00,113,113,WSH
-Andres Chaparro,3.12, 25,113,WSH
-Brady House,3.52, 42,113,WSH
-Daylen Lile,5.08,105,113,WSH
-Joey Wiemer,6.18, 17,113,WSH
-CJ Abrams,4.20,107,113,WSH
-Nasim Nunez,7.97, 95,113,WSH
-Keibert Ruiz,8.09, 66,113,WSH
-Jacob Young,6.79, 86,113,WSH
-Drew Millas,8.03, 40,113,WSH
-Luis Garcia Jr.,2.93, 84,113,WSH
-Jorbit Vivas,7.29, 59,113,WSH
-Jose Tena,5.90, 51,113,WSH
-Curtis Mead,2.59, 63,113,WSH
-Dylan Crews,4.86, 57,113,WSH
-Abimelec Ortiz,3.00,  1,113,WSH
-Harry Ford,6.43,  7,113,WSH
+James Wood,1.00,114,114,WSH
+Andres Chaparro,3.12, 25,114,WSH
+Brady House,3.52, 42,114,WSH
+Daylen Lile,5.08,106,114,WSH
+Joey Wiemer,6.18, 17,114,WSH
+CJ Abrams,4.19,108,114,WSH
+Nasim Nunez,7.96, 96,114,WSH
+Keibert Ruiz,8.04, 67,114,WSH
+Jacob Young,6.82, 87,114,WSH
+Drew Millas,8.03, 40,114,WSH
+Luis Garcia Jr.,2.93, 85,114,WSH
+Jorbit Vivas,7.30, 60,114,WSH
+Jose Tena,5.85, 52,114,WSH
+Curtis Mead,2.59, 63,114,WSH
+Dylan Crews,4.86, 57,114,WSH
+Abimelec Ortiz,2.50,  2,114,WSH
+Harry Ford,6.43,  7,114,WSH
 Taylor Ward,1.61,111,112,BAL
 Gunnar Henderson,1.80,111,112,BAL
 Pete Alonso,3.50,112,112,BAL
@@ -353,104 +354,105 @@ Sam Huff,8.75,  8,112,BAL
 Jackson Holliday,8.16, 51,112,BAL
 Christian Encarnacion-Strand,6.30, 10,112,BAL
 Jake Rogers,8.88, 32,112,BAL
-Fernando Tatis Jr.,1.45,108,112,SD
-Xander Bogaerts,5.02,105,112,SD
-Manny Machado,3.48,109,112,SD
-Jackson Merrill,3.50,107,112,SD
-Miguel Andujar,5.08, 61,112,SD
-Gavin Sheets,4.83, 90,112,SD
-Ramon Laureano,3.94, 48,112,SD
-Freddy Fermin,8.44, 52,112,SD
-Jake Cronenworth,6.05, 56,112,SD
-Ty France,5.78, 72,112,SD
-Luis Campusano,7.88, 33,112,SD
-Nick Castellanos,7.00, 31,112,SD
-Bryce Johnson,8.25, 12,112,SD
-Sung-Mun Song,8.55, 29,112,SD
-Rodolfo Duran,8.81, 27,112,SD
-Jase Bowen,8.12, 17,112,SD
-Samad Taylor,4.61, 23,112,SD
-Will Wagner,6.92, 13,112,SD
-Nick Solak,7.00,  2,112,SD
-Blake Hunt,9.00,  1,112,SD
-Trea Turner,1.18,108,112,PHI
-Kyle Schwarber,1.80,105,112,PHI
-Bryce Harper,2.95,111,112,PHI
-Alec Bohm,4.98,106,112,PHI
-Bryson Stott,6.18,100,112,PHI
-Adolis Garcia,5.45, 64,112,PHI
-Brandon Marsh,5.03,100,112,PHI
-J.T. Realmuto,6.84, 80,112,PHI
-Justin Crawford,8.60, 84,112,PHI
-Edmundo Sosa,6.68, 47,112,PHI
-Otto Kemp,8.29,  7,112,PHI
-Rafael Marchan,8.65, 23,112,PHI
-Dylan Moore,8.00,  2,112,PHI
-Felix Reyes,6.18, 11,112,PHI
-Garrett Stubbs,8.80, 10,112,PHI
-Steward Berroa,9.00,  2,112,PHI
-Gabriel Rincones Jr.,7.50, 26,112,PHI
-Derek Hill,7.83, 35,112,PHI
-Bryan De La Cruz,7.67,  6,112,PHI
-Oneil Cruz,2.44, 61,113,PIT
-Brandon Lowe,2.44,101,113,PIT
-Bryan Reynolds,3.00,109,113,PIT
-Marcell Ozuna,5.18, 66,113,PIT
-Ryan O'Hearn,4.34, 90,113,PIT
-Jared Triolo,7.68, 62,113,PIT
-Spencer Horwitz,4.43, 68,113,PIT
-Nick Gonzales,4.57,101,113,PIT
-Henry Davis,8.92, 62,113,PIT
-Nick Yorke,5.89, 18,113,PIT
-Jake Mangum,5.19, 68,113,PIT
-Konnor Griffin,5.77, 57,113,PIT
-Billy Cook,8.83, 12,113,PIT
-Endy Rodriguez,6.80, 30,113,PIT
-Jhostynxon Garcia,7.17, 12,113,PIT
-Esmerlyn Valdez,4.85, 40,113,PIT
-Tyler Callihan,7.24, 25,113,PIT
-Davis Wendzel,6.00,  1,113,PIT
-Rafael Flores Jr.,7.83,  6,113,PIT
-Jacob Gonzalez,7.38, 34,113,PIT
-Shawn Ross,8.00,  1,113,PIT
-Brandon Nimmo,2.52,105,112,TEX
-Wyatt Langford,2.15, 60,112,TEX
-Corey Seager,2.77, 53,112,TEX
-Jake Burger,4.94,103,112,TEX
-Andrew McCutchen,4.44, 16,112,TEX
-Josh Jung,3.85, 91,112,TEX
-Josh Smith,6.97, 36,112,TEX
-Danny Jansen,7.86, 36,112,TEX
-Sam Haggerty,7.80, 10,112,TEX
-Joc Pederson,2.51, 84,112,TEX
-Evan Carter,5.92, 78,112,TEX
-Kyle Higashioka,7.72, 47,112,TEX
-Ezequiel Duran,5.50, 96,112,TEX
-Alejandro Osuna,6.80, 59,112,TEX
-Justin Foscue,5.00, 28,112,TEX
-Michael Helman,8.44,  9,112,TEX
-Nicky Lopez,8.37, 46,112,TEX
-Elias Diaz,8.26, 35,112,TEX
-Cody Freeman,6.67,  3,112,TEX
-Jarred Kelenic,6.79, 19,112,TEX
-Cameron Cauley,7.00,  1,112,TEX
-Cam Cauley,6.75, 12,112,TEX
-Yandy Diaz,1.87,107,111,TB
-Ryan Vilade,4.09, 44,111,TB
-Jonathan Aranda,2.54,105,111,TB
-Junior Caminero,2.89,111,111,TB
-Ben Williamson,6.37, 62,111,TB
-Jonny DeLuca,5.41, 51,111,TB
-Nick Fortes,7.88, 60,111,TB
-Cedric Mullins,5.65, 88,111,TB
-Carson Williams,8.56,  9,111,TB
-Jake Fraley,4.56, 25,111,TB
-Chandler Simpson,4.02, 97,111,TB
-Richie Palacios,6.67, 66,111,TB
-Hunter Feduccia,8.48, 50,111,TB
-Taylor Walls,8.48, 81,111,TB
-Victor Mesa Jr.,6.11, 35,111,TB
-Oliver Dunn,9.00,  2,111,TB
+Fernando Tatis Jr.,1.45,109,113,SD
+Xander Bogaerts,5.05,106,113,SD
+Manny Machado,3.47,110,113,SD
+Jackson Merrill,3.52,108,113,SD
+Miguel Andujar,5.08, 61,113,SD
+Gavin Sheets,4.83, 90,113,SD
+Ramon Laureano,3.94, 48,113,SD
+Freddy Fermin,8.44, 52,113,SD
+Jake Cronenworth,5.98, 57,113,SD
+Ty France,5.75, 73,113,SD
+Luis Campusano,7.85, 34,113,SD
+Nick Castellanos,7.00, 31,113,SD
+Bryce Johnson,8.25, 12,113,SD
+Sung-Mun Song,8.57, 30,113,SD
+Rodolfo Duran,8.81, 27,113,SD
+Jase Bowen,8.12, 17,113,SD
+Samad Taylor,4.61, 23,113,SD
+Will Wagner,6.92, 13,113,SD
+Nick Solak,7.00,  2,113,SD
+Blake Hunt,9.00,  1,113,SD
+Trea Turner,1.17,109,113,PHI
+Kyle Schwarber,1.80,106,113,PHI
+Bryce Harper,2.95,112,113,PHI
+Alec Bohm,4.97,107,113,PHI
+Bryson Stott,6.18,101,113,PHI
+Adolis Garcia,5.45, 64,113,PHI
+Brandon Marsh,5.03,100,113,PHI
+J.T. Realmuto,6.84, 80,113,PHI
+Justin Crawford,8.60, 84,113,PHI
+Edmundo Sosa,6.69, 48,113,PHI
+Otto Kemp,8.29,  7,113,PHI
+Rafael Marchan,8.65, 23,113,PHI
+Dylan Moore,8.00,  2,113,PHI
+Felix Reyes,6.18, 11,113,PHI
+Garrett Stubbs,8.82, 11,113,PHI
+Steward Berroa,9.00,  2,113,PHI
+Gabriel Rincones Jr.,7.50, 26,113,PHI
+Derek Hill,7.83, 36,113,PHI
+Bryan De La Cruz,7.29,  7,113,PHI
+Oneil Cruz,2.44, 61,114,PIT
+Brandon Lowe,2.43,102,114,PIT
+Bryan Reynolds,3.00,110,114,PIT
+Marcell Ozuna,5.18, 66,114,PIT
+Ryan O'Hearn,4.34, 90,114,PIT
+Jared Triolo,7.68, 62,114,PIT
+Spencer Horwitz,4.43, 69,114,PIT
+Nick Gonzales,4.59,102,114,PIT
+Henry Davis,8.92, 63,114,PIT
+Nick Yorke,5.89, 18,114,PIT
+Jake Mangum,5.13, 69,114,PIT
+Konnor Griffin,5.77, 57,114,PIT
+Billy Cook,8.83, 12,114,PIT
+Endy Rodriguez,6.81, 31,114,PIT
+Jhostynxon Garcia,7.17, 12,114,PIT
+Esmerlyn Valdez,4.83, 41,114,PIT
+Tyler Callihan,7.24, 25,114,PIT
+Davis Wendzel,6.00,  1,114,PIT
+Rafael Flores Jr.,7.83,  6,114,PIT
+Jacob Gonzalez,7.40, 35,114,PIT
+Shawn Ross,8.00,  1,114,PIT
+Brandon Nimmo,2.54,106,113,TEX
+Wyatt Langford,2.15, 61,113,TEX
+Corey Seager,2.78, 54,113,TEX
+Jake Burger,4.95,104,113,TEX
+Andrew McCutchen,4.44, 16,113,TEX
+Josh Jung,3.85, 91,113,TEX
+Josh Smith,6.97, 36,113,TEX
+Danny Jansen,7.86, 36,113,TEX
+Sam Haggerty,7.80, 10,113,TEX
+Joc Pederson,2.49, 85,113,TEX
+Evan Carter,5.91, 79,113,TEX
+Kyle Higashioka,7.72, 47,113,TEX
+Ezequiel Duran,5.52, 97,113,TEX
+Alejandro Osuna,6.80, 59,113,TEX
+Justin Foscue,5.00, 28,113,TEX
+Michael Helman,8.44,  9,113,TEX
+Nicky Lopez,8.38, 47,113,TEX
+Elias Diaz,8.26, 35,113,TEX
+Cody Freeman,6.67,  3,113,TEX
+Jarred Kelenic,6.79, 19,113,TEX
+Cameron Cauley,7.00,  1,113,TEX
+Cam Cauley,6.75, 12,113,TEX
+Yandy Diaz,1.86,108,112,TB
+Ryan Vilade,4.09, 44,112,TB
+Jonathan Aranda,2.54,106,112,TB
+Junior Caminero,2.89,112,112,TB
+Ben Williamson,6.37, 62,112,TB
+Jonny DeLuca,5.41, 51,112,TB
+Nick Fortes,7.88, 60,112,TB
+Cedric Mullins,5.63, 89,112,TB
+Carson Williams,8.56,  9,112,TB
+Jake Fraley,4.56, 25,112,TB
+Chandler Simpson,4.04, 98,112,TB
+Richie Palacios,6.67, 67,112,TB
+Hunter Feduccia,8.48, 50,112,TB
+Taylor Walls,8.49, 82,112,TB
+Victor Mesa Jr.,6.08, 36,112,TB
+Oliver Dunn,9.00,  2,112,TB
+Kenny Piper,8.00,  1,112,TB
 Roman Anthony,1.48, 29,111,BOS
 Trevor Story,4.32, 41,111,BOS
 Jarren Duran,3.61, 98,111,BOS
@@ -489,24 +491,24 @@ JJ Bleday,3.24, 80,111,CIN
 Blake Dunn,2.76, 33,111,CIN
 Edwin Arroyo,8.14, 37,111,CIN
 Ivan Johnson,7.00,  3,111,CIN
-Jake McCarthy,3.78, 89,112,COL
-Hunter Goodman,3.28, 97,112,COL
-Willi Castro,4.31, 86,112,COL
-Ezequiel Tovar,6.72, 97,112,COL
-TJ Rumfield,3.85,103,112,COL
-Jordan Beck,5.05, 21,112,COL
-Brenton Doyle,5.97, 31,112,COL
-Edouard Julien,4.89, 65,112,COL
-Kyle Karros,6.80, 91,112,COL
-Troy Johnston,5.72, 85,112,COL
-Brett Sullivan,8.11, 35,112,COL
-Ryan Ritter,9.00,  1,112,COL
-Mickey Moniak,2.90, 63,112,COL
-Tyler Freeman,4.02, 62,112,COL
-Sterlin Thompson,7.53, 19,112,COL
-Braxton Fulford,7.65, 17,112,COL
-Chad Stevens,8.75,  8,112,COL
-Cole Carrigg,4.84, 38,112,COL
+Jake McCarthy,3.74, 90,113,COL
+Hunter Goodman,3.29, 98,113,COL
+Willi Castro,4.33, 87,113,COL
+Ezequiel Tovar,6.74, 98,113,COL
+TJ Rumfield,3.85,103,113,COL
+Jordan Beck,5.05, 21,113,COL
+Brenton Doyle,5.97, 31,113,COL
+Edouard Julien,4.89, 65,113,COL
+Kyle Karros,6.75, 92,113,COL
+Troy Johnston,5.74, 86,113,COL
+Brett Sullivan,8.11, 35,113,COL
+Ryan Ritter,9.00,  1,113,COL
+Mickey Moniak,2.94, 64,113,COL
+Tyler Freeman,4.06, 63,113,COL
+Sterlin Thompson,7.53, 19,113,COL
+Braxton Fulford,7.65, 17,113,COL
+Chad Stevens,8.75,  8,113,COL
+Cole Carrigg,4.79, 39,113,COL
 Maikel Garcia,1.45, 66,113,KC
 Bobby Witt Jr.,2.00, 94,113,KC
 Lane Thomas,3.83, 72,113,KC
@@ -584,21 +586,21 @@ Rikuu Nishida,8.80, 10,111,CWS
 Braden Montgomery,5.93, 43,111,CWS
 Junior Perez,6.56,  9,111,CWS
 Kyle Teel,4.69, 16,111,CWS
-Trent Grisham,2.09, 80,112,NYY
-Aaron Judge,2.39, 59,112,NYY
-Cody Bellinger,3.60,101,112,NYY
-Ben Rice,2.33,101,112,NYY
-Giancarlo Stanton,4.52, 23,112,NYY
-Jazz Chisholm Jr.,5.66, 99,112,NYY
-Jose Caballero,7.69, 88,112,NYY
-Ryan McMahon,7.69, 65,112,NYY
-Austin Wells,8.30, 69,112,NYY
-Paul Goldschmidt,2.80, 70,112,NYY
-Amed Rosario,3.85, 48,112,NYY
-J.C. Escarra,8.28, 25,112,NYY
-Jasson Dominguez,4.30, 50,112,NYY
-Max Schuemann,7.09, 22,112,NYY
-Spencer Jones,6.23, 30,112,NYY
-Anthony Volpe,6.96, 48,112,NYY
-Ali Sanchez,8.89, 18,112,NYY
-Oswaldo Cabrera,8.00,  2,112,NYY
+Trent Grisham,2.07, 81,113,NYY
+Aaron Judge,2.39, 59,113,NYY
+Cody Bellinger,3.60,101,113,NYY
+Ben Rice,2.32,102,113,NYY
+Giancarlo Stanton,4.52, 23,113,NYY
+Jazz Chisholm Jr.,5.66,100,113,NYY
+Jose Caballero,7.70, 89,113,NYY
+Ryan McMahon,7.68, 66,113,NYY
+Austin Wells,8.31, 70,113,NYY
+Paul Goldschmidt,2.80, 70,113,NYY
+Amed Rosario,3.85, 48,113,NYY
+J.C. Escarra,8.28, 25,113,NYY
+Jasson Dominguez,4.31, 51,113,NYY
+Max Schuemann,7.09, 22,113,NYY
+Spencer Jones,6.16, 31,113,NYY
+Anthony Volpe,6.96, 48,113,NYY
+Ali Sanchez,8.89, 18,113,NYY
+Oswaldo Cabrera,8.00,  2,113,NYY
