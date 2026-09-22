@@ -623,6 +623,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-09-18, Dylan Beavers, Pete Alonso, Gunnar Henderson, Coby Mayo, Samuel Basallo, Christian Encarnacion-Strand, Colton Cowser, Jeremiah Jackson, Leody Taveras,BAL
 2026-09-19, Jeremiah Jackson, Pete Alonso, Coby Mayo, Christian Encarnacion-Strand, Gunnar Henderson, Rece Hinds, Christian Franklin, Samuel Basallo, Leody Taveras,BAL
 2026-09-20, Dylan Beavers, Pete Alonso, Gunnar Henderson, Coby Mayo, Samuel Basallo, Jeremiah Jackson, Colton Cowser, Leody Taveras, Carlos Narvaez,BAL
+2026-09-21, Dylan Beavers, Pete Alonso, Gunnar Henderson, Coby Mayo, Christian Encarnacion-Strand, Samuel Basallo, Rece Hinds, Colton Cowser, Jose Barrero,BAL
 2026-03-26, Roman Anthony, Trevor Story, Jarren Duran, Willson Contreras, Caleb Durbin, Wilyer Abreu, Isiah Kiner-Falefa, Carlos Narvaez, Ceddanne Rafaela,BOS
 2026-03-28, Roman Anthony, Trevor Story, Jarren Duran, Willson Contreras, Wilyer Abreu, Caleb Durbin, Marcelo Mayer, Carlos Narvaez, Ceddanne Rafaela,BOS
 2026-03-29, Roman Anthony, Trevor Story, Jarren Duran, Willson Contreras, Wilyer Abreu, Caleb Durbin, Masataka Yoshida, Marcelo Mayer, Connor Wong,BOS
@@ -1715,6 +1716,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-09-18, Kevin McGonigle, Gleyber Torres, Colt Keith, Riley Greene, Spencer Torkelson, Zach McKinstry, Max Clark, Eduardo Valencia, Hao-Yu Lee,DET
 2026-09-19, Kevin McGonigle, Hao-Yu Lee, Colt Keith, Riley Greene, Dillon Dingler, Max Clark, Ben Malgeri, Brett Callahan, John Peck,DET
 2026-09-20, Kevin McGonigle, Gleyber Torres, Hao-Yu Lee, Riley Greene, Eduardo Valencia, Max Clark, Spencer Torkelson, Brett Callahan, John Peck,DET
+2026-09-21, Gleyber Torres, Hao-Yu Lee, Riley Greene, Eduardo Valencia, Ben Malgeri, Dillon Dingler, Spencer Torkelson, Javier Baez, John Peck,DET
 2026-03-26, Jose Altuve, Yordan Alvarez, Isaac Paredes, Carlos Correa, Joey Loperfido, Cam Smith, Christian Walker, Yainer Diaz, Jake Meyers,HOU
 2026-03-27, Jeremy Pena, Yordan Alvarez, Isaac Paredes, Jose Altuve, Carlos Correa, Cam Smith, Christian Walker, Yainer Diaz, Brice Matthews,HOU
 2026-03-28, Jose Altuve, Yordan Alvarez, Isaac Paredes, Carlos Correa, Christian Walker, Cam Smith, Yainer Diaz, Jake Meyers, Brice Matthews,HOU
@@ -2807,6 +2809,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-09-18, Luke Keaschall, Brooks Lee, Kody Clemens, Ryan Jeffers, Josh Bell, Emmanuel Rodriguez, Royce Lewis, Walker Jenkins, Ben Ross,MIN
 2026-09-19, Luke Keaschall, Austin Martin, Ryan Jeffers, Josh Bell, Brooks Lee, Royce Lewis, Victor Caratini, Walker Jenkins, Ryan Kreidler,MIN
 2026-09-20, Walker Jenkins, Brooks Lee, Kody Clemens, Josh Bell, Alan Roden, Royce Lewis, Victor Caratini, Emmanuel Rodriguez, Ben Ross,MIN
+2026-09-21, Walker Jenkins, Luke Keaschall, Brooks Lee, Kody Clemens, Ryan Jeffers, Alan Roden, Aaron Sabato, Emmanuel Rodriguez, Ryan Kreidler,MIN
 2026-03-26, Francisco Lindor, Juan Soto, Bo Bichette, Jorge Polanco, Luis Robert Jr., Brett Baty, Marcus Semien, Carson Benge, Francisco Alvarez,NYM
 2026-03-28, Francisco Lindor, Juan Soto, Bo Bichette, Jorge Polanco, Luis Robert Jr., Brett Baty, Marcus Semien, Carson Benge, Francisco Alvarez,NYM
 2026-03-29, Francisco Lindor, Juan Soto, Bo Bichette, Jorge Polanco, Luis Robert Jr., Brett Baty, Marcus Semien, Carson Benge, Luis Torrens,NYM
@@ -3898,6 +3901,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-09-18, Drew Gilbert, Turner Hill, Jonah Cox, Jung Hoo Lee, Shay Whitcomb, Drew Cavanaugh, Brett Harris, Scott Bandura, Christian Koss,SF
 2026-09-19, Jonah Cox, Turner Hill, Victor Bericoto, Jung Hoo Lee, Brett Harris, Shay Whitcomb, Andrew Knizner, Osleivis Basabe, Christian Koss,SF
 2026-09-20, Jonah Cox, Jung Hoo Lee, Victor Bericoto, Andrew Knizner, Brett Harris, Scott Bandura, Shay Whitcomb, Grant McCray, Christian Koss,SF
+2026-09-21, Drew Gilbert, Jonah Cox, Bo Davidson, Marcelo Mayer, Brett Harris, Drew Cavanaugh, Osleivis Basabe, Scott Bandura, Christian Koss,SF
 2026-03-26, JJ Wetherholt, Ivan Herrera, Alec Burleson, Masyn Winn, Nolan Gorman, Jordan Walker, Nathan Church, Pedro Pages, Victor Scott II,STL
 2026-03-28, JJ Wetherholt, Ivan Herrera, Alec Burleson, Masyn Winn, Nolan Gorman, Ramon Urias, Nathan Church, Jordan Walker, Victor Scott II,STL
 2026-03-29, JJ Wetherholt, Ivan Herrera, Alec Burleson, Masyn Winn, Thomas Saggese, Ramon Urias, Jordan Walker, Pedro Pages, Victor Scott II,STL
@@ -4521,6 +4525,7 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-09-18, Brett Bateman, Nathan Lukes, Vladimir Guerrero Jr., George Springer, Alejandro Kirk, Kazuma Okamoto, Josh Smith, Ernie Clement, Myles Straw,TOR
 2026-09-19, Brett Bateman, Vladimir Guerrero Jr., Alejandro Kirk, George Springer, Nathan Lukes, Kazuma Okamoto, Josh Smith, Andres Gimenez, Myles Straw,TOR
 2026-09-20, Brett Bateman, Vladimir Guerrero Jr., Nathan Lukes, Kazuma Okamoto, Sean Keys, Josh Smith, Andres Gimenez, Brandon Valenzuela, Ernie Clement,TOR
+2026-09-21, Brett Bateman, Alejandro Kirk, Nathan Lukes, George Springer, Sean Keys, Kazuma Okamoto, Josh Smith, Andres Gimenez, Ernie Clement,TOR
 2026-03-26, James Wood, Andres Chaparro, Brady House, Daylen Lile, Joey Wiemer, CJ Abrams, Nasim Nunez, Keibert Ruiz, Jacob Young,WSH
 2026-03-28, James Wood, Drew Millas, Luis Garcia Jr., Daylen Lile, Brady House, Jorbit Vivas, Nasim Nunez, Jose Tena, Jacob Young,WSH
 2026-03-29, James Wood, Andres Chaparro, Brady House, Daylen Lile, Joey Wiemer, CJ Abrams, Nasim Nunez, Keibert Ruiz, Jacob Young,WSH
@@ -4677,3 +4682,4 @@ date,lineup1,lineup2,lineup3,lineup4,lineup5,lineup6,lineup7,lineup8,lineup9,tea
 2026-09-18, James Wood, Daylen Lile, Dylan Crews, CJ Abrams, Brady House, Jorbit Vivas, Yohandy Morales, Harry Ford, Jacob Young,WSH
 2026-09-19, James Wood, Daylen Lile, Abimelec Ortiz, CJ Abrams, Dylan Crews, Jorbit Vivas, Andres Chaparro, Keibert Ruiz, Nasim Nunez,WSH
 2026-09-20, James Wood, Andres Chaparro, Brady House, CJ Abrams, Dylan Crews, Daylen Lile, Harry Ford, Jacob Young, Nasim Nunez,WSH
+2026-09-21, James Wood, Daylen Lile, Abimelec Ortiz, CJ Abrams, Dylan Crews, Jorbit Vivas, Brady House, Keibert Ruiz, Jacob Young,WSH
