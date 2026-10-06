@@ -46,16 +46,16 @@ yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for
 todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
 alldates = yeardates[0:todaynum]
 
-
+"""
 # if doing postseason, limit dates
 gamemode = 'postseason'
 if gamemode=='postseason':
-    yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(270,320)]
+    yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(270,350)]
     todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
     alldates = yeardates[0:todaynum]
     #alldates = yeardates
     outdir = 'Postseason/'
-"""
+
 
 # if doing preseason, limit dates
 #gamemode = 'preseason'
@@ -87,11 +87,15 @@ for team in teams:
     # check if the team has already been recorded
     try:
         existing_lineups: pd.DataFrame = pd.read_csv('data/{}{}/{}.csv'.format(outdir,year,team),delimiter=',')
-        maxdate: str = existing_lineups['date'].values[-1].strip('a').strip('b') # safe for doubleheaders
-        firstdate: int = np.where(maxdate==np.array(alldates))[0][0]
-        alldatesin: list[str] = alldates[firstdate+1:]
-        newflag = 1
-        f: TextIO = open('data/{}{}/{}.csv'.format(outdir,year,team),'a')
+        try:
+            maxdate: str = existing_lineups['date'].values[-1].strip('a').strip('b') # safe for doubleheaders
+            firstdate: int = np.where(maxdate==np.array(alldates))[0][0]
+            alldatesin: list[str] = alldates[firstdate+1:]
+            newflag = 1
+            f: TextIO = open('data/{}{}/{}.csv'.format(outdir,year,team),'a')
+        except (IndexError, ValueError):
+            alldatesin = alldates
+            f = open('data/{}{}/{}.csv'.format(outdir,year,team),'w')
     except (FileNotFoundError, pd.errors.EmptyDataError):
         alldatesin = alldates
         f = open('data/{}{}/{}.csv'.format(outdir,year,team),'w')
